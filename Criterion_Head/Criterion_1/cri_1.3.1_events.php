@@ -1,0 +1,376 @@
+<?php
+
+session_start();
+if(!isset($_SESSION['cri_id']))
+{
+    header("location: ../../index.php");
+    exit;
+}
+
+require '../../config.php';
+
+$academic_year = $academic_year_err = $activity_name = $activity_name_err = $organizing_unit = $organizing_unit_err = $scheme_name = $scheme_name_err = $activity_date = $activity_date_err = $file_err = "";
+
+if($_SERVER["REQUEST_METHOD"] == "POST")
+{
+    // Academic Year Validation
+
+    if(empty(trim($_POST["academic_year"])))
+	{
+		$academic_year_err = "Please Select Academic Year.";
+	}
+	else
+	{
+		$academic_year = trim($_POST["academic_year"]);
+	}
+
+    // Activity Name Validation
+
+    if (empty(trim($_POST["activity_name"]))) 
+    {
+        $activity_name_err = "Please Enter Activity Name.";
+    }
+    else
+    {
+        $activity_name = trim($_POST["activity_name"]);     
+    }
+
+    // Organizing Unit Validation
+
+    if (empty(trim($_POST["organizing_unit"]))) 
+    {
+        $organizing_unit_err = "Please Enter Organizing Unit.";
+    }
+    else
+    {
+        $organizing_unit = trim($_POST["organizing_unit"]);     
+    }
+
+    // Scheme Name Validation
+
+    if (empty(trim($_POST["scheme_name"]))) 
+    {
+        $scheme_name_err = "Please Enter Scheme Name.";
+    }
+    else
+    {
+        $scheme_name = trim($_POST["scheme_name"]);     
+    }
+
+    // Activity Name Validation
+
+    if (empty(trim($_POST["activity_date"]))) 
+    {
+        $activity_date_err = "Please Select Activity Date.";
+    }
+    else
+    {
+        $activity_date = trim($_POST["activity_date"]);     
+    }
+
+    // PDF Validation   
+
+    if (empty($_FILES['pdf']['name']))
+    {
+        $file_err = "Please Select PDF File.";
+    }
+    elseif($_FILES['pdf']['type'] != 'application/pdf')
+    {
+        $file_err = "Please Select PDF File.";
+    }
+
+    // Insert Data
+
+    if(empty($academic_year_err) && empty($activity_name_err) && empty($organizing_unit_err) && empty($scheme_name_err) && empty($activity_date_err) && empty($file_err))
+    {
+        $upload_by = $_SESSION['criterion'];
+
+        $pdf = $_FILES['pdf']['name'];
+        $pdf_type = $_FILES['pdf']['type'];
+        $pdf_size = $_FILES['pdf']['size'];
+        $pdf_tem_loc = $_FILES['pdf']['tmp_name'];
+        $file_name = time() . '_' . uniqid() . '.pdf';
+        $upload_location = "../../Uploaded Documents/Criteria - 1/".$file_name;
+        if(move_uploaded_file($pdf_tem_loc,$upload_location))
+        {
+            $query = "INSERT INTO cri_1_3_1_events (academic_year, upload_by, activity_name, organizing_unit, relevant_event, activity_date, doc_name) VALUES ('$academic_year', '$upload_by','$activity_name', '$organizing_unit', '$scheme_name', '$activity_date', '$file_name')";
+
+            if(mysqli_query($con, $query))
+            {
+                echo '<script language="javascript">';
+                echo'alert("Document Uploaded Successfully."); location.href="cri_1.3.1_events.php"';
+                echo '</script>';
+            }
+            else
+            {
+                echo '<script language="javascript">';
+                echo'alert("Document Upload Failed, Please Try Again."); location.href="cri_1.3.1_events.php"';
+                echo '</script>';
+            }
+        }
+        else
+        {
+            echo '<script language="javascript">';
+            echo'alert("Document Upload Failed, Please Try Again."); location.href="cri_1.3.1_events.php"';
+            echo '</script>';
+        }
+        mysqli_close($con);
+    }
+}
+
+?>
+
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<link rel="stylesheet" type="text/css" href="../../Libraries/bootstrap-5.2.0/css/bootstrap.min.css">
+	<link rel="stylesheet" type="text/css" href="../../Libraries/bootstrap-5.2.0/js/bootstrap.min.js">
+	<script type="text/javascript" src="../../Libraries/bootstrap-5.2.0/js/bootstrap.bundle.min.js"></script>
+	<link rel="stylesheet" type="text/css" href="../../Libraries/fontawesome-6.1.2/css/all.css">
+	<link rel="stylesheet" type="text/css" href="../../stylesheet/sidebar.css">
+
+	<script src="https://cdn.jsdelivr.net/npm/jquery@3.6.0/dist/jquery.min.js"></script>
+
+	<script src="https://cdn.tiny.cloud/1/twp80yioigf2md9cvgdxge0qftfnqaz7wr1fh7kli099idu7/tinymce/6/tinymce.min.js" referrerpolicy="origin"></script>
+
+	<link rel="icon" type="image/x-icon" href="../../images/psna_logo.png">
+	<title>Criteria - 1</title>
+	<style type="text/css">
+		#active
+		{
+			font-weight: bold;
+		}
+		#non-active
+		{
+			color: dimgrey;
+		}
+	</style>
+</head>
+<body>
+
+	<!-- Header -->
+	<?php
+	require 'header.php';
+	?>
+	<!-- Header End -->
+
+	<!-- Side Bar -->
+
+	<div class="container-fluid">
+		<div class="row flex-nowrap">
+			<!-- col-auto -->
+			<div class="bg-color col-md-2 min-vh-100">
+				<div class="bg-color">
+					<br>
+
+					<!-- Menu -->
+
+					<div class="menu-bar">
+						<?php
+						require 'side_bar.php';
+						?>
+					</div>
+
+					<!-- Menu End -->
+
+				</div>
+			</div>
+			<div class="col py-3">
+
+				<!-- Breadcrumb -->
+
+				<div class="container-fluid">
+					<nav aria-label="breadcrumb">
+						<ol class="breadcrumb">
+							<li class="breadcrumb-item"><a href="dashboard.php" style="text-decoration: none;">Dashboard</a></li>
+							<li class="breadcrumb-item active" aria-current="page">Criteria 1.3</li>
+						</ol>
+					</nav>
+				</div>
+
+				<!-- Breadcrumb End -->
+
+				<div class="container-fluid">
+					<div class="card" style="border-top:2px solid #087ec2;">
+
+						<!-- Card Header -->
+
+						<div class="card-header" style="color:#087ec2; font-weight:bold;">
+							<i class="fa-solid fa-graduation-cap"></i>
+							<span>Criteria 1.3.1 - Institution integrates crosscutting issues relevant to Professional Ethics ,Gender, Human Values ,Environment and Sustainability into the Curriculum.</span>
+						</div>
+
+						<!-- Card Header End -->
+
+						<!-- Card Body -->
+
+						<div class="card-body">
+							<ul class="nav nav-tabs">
+
+								<li class="nav-item" role="presentation">
+									<a class="nav-link" href="cri_1.3.1_writeup.php" id="non-active">Write Up</a>
+								</li>
+
+								<li class="nav-item" role="presentation">
+									<a class="nav-link" href="cri_1.3.1_courses_doc_view.php" id="non-active">View Document (Courses)</a>
+								</li>
+
+								<li class="nav-item" role="presentation">
+									<a class="nav-link active" href="cri_1.3.1_events.php" id="active">Relevant to Events</a>
+								</li>
+
+								<li class="nav-item" role="presentation">
+									<a class="nav-link" href="cri_1.3.1_events_doc_view.php" id="non-active">View Document (Events)</a>
+								</li>
+
+								<li class="nav-item" role="presentation">
+									<a class="nav-link" href="cri_1.3.1_pdf_report.php" id="non-active">PDF Report</a>
+								</li>
+
+							</ul><br>
+
+							<form method="post" action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]); ?>" autocomplete = "off" enctype="multipart/form-data">
+
+								<div class = "card-body">
+									<div class="container-fluid">
+										<div class="row justify-content-center">
+
+											<div class="col-sm-6 col-sm-6">
+												<div class="card" style="border-top:2px solid #087ec2;">
+													<div class="card-header" style="color:#087ec2; font-weight:bold;">
+														<i class="fa-solid fa-upload fa-lg"></i>
+														<span>Criteria 1.3.1 - Upload Document</span>
+													</div>
+
+													<div class="card-body">
+
+														<div class="mb-3">
+															<label class="form-label" style="font-size: 17px; color:dimgrey; font-weight: bold;" for = "academic_year"> <span style="color: red">* </span>Academic Year</label>
+
+															<select name="academic_year" class="form-select <?php echo (!empty($academic_year_err)) ? 'is-invalid' : ''; ?>" id="academic_year">
+
+																<option value="">---Select Academic Year---</option>
+
+																<?php
+																$sql = "SELECT * FROM academic_year WHERE hide_status = 1 ORDER BY academic_year";
+																$result = $con -> query($sql);
+
+																while($row = $result -> fetch_assoc())
+																{
+																	?>
+																	<option value="<?php echo $row['academic_year']; ?>"
+
+																		<?php
+																		if($academic_year == $row['academic_year'])
+																		{
+																			echo "selected";
+																		} 
+																		?>
+																		>
+																		<?php
+																		echo $row['academic_year'];
+																		?>
+																	</option>
+																	<?php
+																}
+
+																?>
+
+															</select>
+															<span class="invalid-feedback">
+																<?php echo $academic_year_err; ?>
+															</span>
+														</div>
+
+														<div class="mb-3">
+															<label class="form-label" style="font-size: 17px; color:dimgrey; font-weight: bold;" for = "activity_name"> <span style="color: red">* </span>Name of the Activity</label>
+
+															<input type="text" name="activity_name" class="form-control <?php echo (!empty($activity_name_err)) ? 'is-invalid' : ''; ?>" id = "activity_name" value = "<?php echo $activity_name; ?>">
+
+															<div class="invalid-feedback">
+																<?php echo $activity_name_err; ?>
+															</div>
+														</div>
+
+														<div class="mb-3">
+															<label class="form-label" style="font-size: 17px; color:dimgrey; font-weight: bold;" for = "organizing_unit"> <span style="color: red">* </span>Organizing Unit / Agency / Collaborating Agency </label>
+
+															<input type="text" name="organizing_unit" class="form-control <?php echo (!empty($organizing_unit_err)) ? 'is-invalid' : ''; ?>" id = "organizing_unit" value = "<?php echo $organizing_unit; ?>">
+
+															<div class="invalid-feedback">
+																<?php echo $organizing_unit_err; ?>
+															</div>
+														</div>       
+													</div>
+												</div>
+
+											</div>
+
+											<div class="col-sm-6 col-sm-6">
+												<div class="card" style="border-top:2px solid #087ec2;">
+													<div class="card-header" style="color:#087ec2; font-weight:bold;">
+														<i class="fa-solid fa-upload fa-lg"></i>
+														<span>Criteria 1.3.1 - Upload Document</span>
+													</div>
+
+													<div class="card-body">
+
+														<div class="mb-3">
+															<label class="form-label" style="font-size: 17px; color:dimgrey; font-weight: bold;" for = "scheme_name"> <span style="color: red">* </span>Relevant to Event</label>
+
+															<input type="text" name="scheme_name" class="form-control <?php echo (!empty($scheme_name_err)) ? 'is-invalid' : ''; ?>" id = "scheme_name" value = "<?php echo $scheme_name; ?>">
+
+															<div class="invalid-feedback">
+																<?php echo $scheme_name_err; ?>
+															</div>
+														</div>  
+
+														<div class="mb-3">
+															<label class="form-label" style="font-size: 17px; color:dimgrey; font-weight: bold;" for = "activity_date"> <span style="color: red">* </span>Date of the Activity</label>
+
+															<input type="date" name="activity_date" class="form-control <?php echo (!empty($activity_date_err)) ? 'is-invalid' : ''; ?>" id = "activity_date" value = "<?php echo $activity_date; ?>">
+
+															<div class="invalid-feedback">
+																<?php echo $activity_date_err; ?>
+															</div>
+														</div> 
+
+														<div class="mb-3">
+															<label for="file" class="form-label" style="font-size: 17px; color:dimgrey; font-weight: bold;"> <span style="color: red">* </span> Document</label>
+															<input name = "pdf" class="form-control <?php echo (!empty($file_err)) ? 'is-invalid' : ''; ?>" type="file" id="file">
+
+															<span class="invalid-feedback">
+																<?php echo $file_err; ?>
+															</span>
+														</div>
+
+														<button type="submit" class="btn btn-success" style="float: right;"><i class="fa-solid fa-paper-plane"></i>&nbsp;&nbsp;Save</button>
+
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</form>
+						</div>  
+					</div> 
+					<!-- Card Body End -->
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<!-- Side Bar End -->
+
+<!-- Footer -->
+<?php
+require 'footer.php';
+?>
+<!-- Fotter End -->
+
+</body>
+
+</html>

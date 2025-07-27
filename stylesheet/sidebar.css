@@ -1,0 +1,125 @@
+.bg-color
+        {
+            background: #087ec2;
+        }
+
+        .menu-bar ul li a 
+        {
+            text-decoration: none;
+            color: #fff;
+        }
+        .menu-bar
+        {
+            margin-left: -10px;
+        }
+        .menu-bar ul
+        {
+            list-style: none;
+        }
+        .menu-bar ul li 
+        {
+            margin-left: -8px;
+            padding: 10px;
+        }
+        .submenu
+        {
+            display: none;
+        }
+        .menu-bar ul li:hover .submenu
+        {
+            display: block;
+            margin-left: -15px;
+        }
+        #list-hover:hover
+        {
+            background:white; 
+            color:#087ec2;
+        }
+        .menu-bar {
+            position: fixed;
+            /*top: 0;*/
+            /*left: 0;*/
+            /*bottom: 0;*/
+            width: 250px;
+            /*background-color: #087ec2;*/
+            /*overflow-y: auto;*/
+        }
+/*.bg-color
+{
+    background: #087ec2;
+}
+
+.menu-bar ul li a 
+{
+    text-decoration: none;
+    color: #fff;
+}
+.menu-bar
+{
+    margin-top: 80px;
+}
+.menu-bar ul
+{
+    list-style: none;
+}
+.menu-bar ul li 
+{
+    margin-left: -8px;
+    padding: 10px;
+}
+.submenu
+{
+    display: none;
+}
+.menu-bar ul li:hover .submenu
+{
+    display: block;
+    margin-left: -15px;
+}
+#list-hover:hover
+{
+    background:white; 
+    color:#087ec2;
+}
+.menu-bar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    width: 200px;
+    background-color: #087ec2;
+    overflow-y: auto;
+}*/
+
+/*.bg-color
+{
+    background: #087ec2;
+}
+.menu-bar ul li a 
+{
+    text-decoration: none;
+    color: #fff;
+}
+.menu-bar ul
+{
+    list-style: none;
+}
+.menu-bar ul li 
+{
+    margin-left: -20px;
+    padding: 10px;
+}
+.submenu
+{
+    display: none;
+}
+.menu-bar ul li:hover .submenu
+{
+    display: block;
+    margin-left: 18px;
+}
+#list-hover:hover
+{
+    background:white; 
+    color:#087ec2;
+}*/

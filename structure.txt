@@ -1,0 +1,5279 @@
+Folder PATH listing for volume Acer
+Volume serial number is B285-D27C
+C:.
+¦   config.php
+¦   index.php
+¦   structure.txt
+¦   
++---Chairman
+¦       add_chairman.php
+¦       add_director.php
+¦       criteria_2.php
+¦       criteria_3.php
+¦       criteria_4.php
+¦       criteria_5.php
+¦       criteria_6.php
+¦       criteria_7.php
+¦       cri_2_aqar_report.php
+¦       cri_2_benchmark_report.php
+¦       cri_3_aqar_report.php
+¦       cri_3_benchmark_report.php
+¦       cri_4_aqar_report.php
+¦       cri_4_benchmark_report.php
+¦       cri_5_aqar_report.php
+¦       cri_5_benchmark_report.php
+¦       cri_6_aqar_report.php
+¦       cri_6_benchmark_report.php
+¦       cri_7_aqar_report.php
+¦       cri_7_benchmark_report.php
+¦       dashboard.php
+¦       delete_chairman.php
+¦       delete_director.php
+¦       edit_chairman.php
+¦       edit_director.php
+¦       footer.php
+¦       header.php
+¦       logout.php
+¦       manage_chairman.php
+¦       manage_director.php
+¦       side_bar.php
+¦       
++---Criterion_Head
+¦   +---Criterion_1
+¦   ¦       cri_1.1.1_doc_upload.php
+¦   ¦       cri_1.1.1_doc_view.php
+¦   ¦       cri_1.1.1_pdf_report.php
+¦   ¦       cri_1.1.1_writeup.php
+¦   ¦       cri_1.1.2_doc_upload.php
+¦   ¦       cri_1.1.2_doc_view.php
+¦   ¦       cri_1.1.2_excel_report.php
+¦   ¦       cri_1.1.2_pdf_report.php
+¦   ¦       cri_1.1.3_doc_view.php
+¦   ¦       cri_1.1.3_excel_report.php
+¦   ¦       cri_1.1.3_pdf_report.php
+¦   ¦       cri_1.2.1_doc_view.php
+¦   ¦       cri_1.2.1_excel_report.php
+¦   ¦       cri_1.2.1_pdf_report.php
+¦   ¦       cri_1.2.2_doc_upload.php
+¦   ¦       cri_1.2.2_doc_view.php
+¦   ¦       cri_1.2.2_excel_report.php
+¦   ¦       cri_1.2.2_pdf_report.php
+¦   ¦       cri_1.3.1_courses_doc_view.php
+¦   ¦       cri_1.3.1_events.php
+¦   ¦       cri_1.3.1_events_doc_view.php
+¦   ¦       cri_1.3.1_pdf_report.php
+¦   ¦       cri_1.3.1_writeup.php
+¦   ¦       cri_1.3.2_doc_view.php
+¦   ¦       cri_1.3.2_excel_report.php
+¦   ¦       cri_1.3.2_pdf_report.php
+¦   ¦       cri_1.3.3_doc_view.php
+¦   ¦       cri_1.3.3_excel_report.php
+¦   ¦       cri_1.3.3_pdf_report.php
+¦   ¦       cri_1.3.4_doc_view.php
+¦   ¦       cri_1.3.4_excel_report.php
+¦   ¦       cri_1.3.4_pdf_report.php
+¦   ¦       cri_1.4.1_doc_view.php
+¦   ¦       cri_1.4.1_report.php
+¦   ¦       cri_1.4.2_doc_upload.php
+¦   ¦       cri_1.4.2_doc_view.php
+¦   ¦       cri_1.4.2_report.php
+¦   ¦       cri_1_writeup_fetch.php
+¦   ¦       dashboard.php
+¦   ¦       delete_incharge.php
+¦   ¦       edit_department.php
+¦   ¦       edit_department_table.php
+¦   ¦       edit_incharge.php
+¦   ¦       edit_incharge_table.php
+¦   ¦       ep_1.1_report.php
+¦   ¦       footer.php
+¦   ¦       header.php
+¦   ¦       logout.php
+¦   ¦       manage_department.php
+¦   ¦       manage_incharge.php
+¦   ¦       side_bar.php
+¦   ¦       
+¦   +---Criterion_2
+¦   ¦       cri_2.1.1_doc_upload.php
+¦   ¦       cri_2.1.1_doc_view.php
+¦   ¦       cri_2.1.1_excel_report.php
+¦   ¦       cri_2.1.1_pdf_report.php
+¦   ¦       cri_2.1.1_student_list_no.php
+¦   ¦       cri_2.1.2_doc_upload.php
+¦   ¦       cri_2.1.2_doc_view.php
+¦   ¦       cri_2.1.2_excel_report.php
+¦   ¦       cri_2.1.2_pdf_report.php
+¦   ¦       cri_2.2.1_doc_upload.php
+¦   ¦       cri_2.2.1_doc_view.php
+¦   ¦       cri_2.2.1_pdf_report.php
+¦   ¦       cri_2.2.1_spc_prog_doc_view.php
+¦   ¦       cri_2.2.1_writeup.php
+¦   ¦       cri_2.2.2_doc_view.php
+¦   ¦       cri_2.2.2_pdf_report.php
+¦   ¦       cri_2.3.1_doc_upload.php
+¦   ¦       cri_2.3.1_doc_view.php
+¦   ¦       cri_2.3.1_writeup.php
+¦   ¦       cri_2.3.2_doc_view.php
+¦   ¦       cri_2.3.2_writeup.php
+¦   ¦       cri_2.3.3_doc_upload.php
+¦   ¦       cri_2.3.3_doc_view.php
+¦   ¦       cri_2.3.3_excel_report.php
+¦   ¦       cri_2.3.4_doc_view.php
+¦   ¦       cri_2.3.4_writeup.php
+¦   ¦       cri_2.4.1_doc_upload.php
+¦   ¦       cri_2.4.1_doc_view.php
+¦   ¦       cri_2.4.1_excel_report.php
+¦   ¦       cri_2.4.2_doc_upload.php
+¦   ¦       cri_2.4.2_doc_view.php
+¦   ¦       cri_2.4.2_excel_report.php
+¦   ¦       cri_2.4.3_doc_upload.php
+¦   ¦       cri_2.4.3_doc_view.php
+¦   ¦       cri_2.4.3_excel_report.php
+¦   ¦       cri_2.6.1_doc_upload.php
+¦   ¦       cri_2.6.1_doc_view.php
+¦   ¦       cri_2.6.1_writeup.php
+¦   ¦       cri_2.6.2_doc_upload.php
+¦   ¦       cri_2.6.2_doc_view.php
+¦   ¦       cri_2.6.2_writeup.php
+¦   ¦       cri_2.6.3_doc_view.php
+¦   ¦       cri_2.6.3_excel_report.php
+¦   ¦       cri_2.7.1_doc_upload.php
+¦   ¦       cri_2.7.1_doc_view.php
+¦   ¦       cri_2_benchmark_report.php
+¦   ¦       cri_2_detailed_report.php
+¦   ¦       cri_2_detailed_report_old.php
+¦   ¦       cri_2_writeup_fetch.php
+¦   ¦       dashboard.php
+¦   ¦       delete_incharge.php
+¦   ¦       edit_incharge.php
+¦   ¦       edit_incharge_table.php
+¦   ¦       footer.php
+¦   ¦       header.php
+¦   ¦       logout.php
+¦   ¦       manage_incharge.php
+¦   ¦       side_bar.php
+¦   ¦       test.php
+¦   ¦       
+¦   +---Criterion_3
+¦   ¦       cri_3.1.1_doc_upload.php
+¦   ¦       cri_3.1.1_doc_view.php
+¦   ¦       cri_3.1.1_writeup.php
+¦   ¦       cri_3.1.2_doc_upload.php
+¦   ¦       cri_3.1.2_doc_view.php
+¦   ¦       cri_3.1.2_excel_report.php
+¦   ¦       cri_3.1.3_doc_upload.php
+¦   ¦       cri_3.1.3_doc_view.php
+¦   ¦       cri_3.1.3_excel_report.php
+¦   ¦       cri_3.2.1_doc_upload.php
+¦   ¦       cri_3.2.1_doc_view.php
+¦   ¦       cri_3.2.1_excel_report.php
+¦   ¦       cri_3.2.2_doc_upload.php
+¦   ¦       cri_3.2.2_doc_view.php
+¦   ¦       cri_3.2.2_excel_report.php
+¦   ¦       cri_3.2.3_doc_upload.php
+¦   ¦       cri_3.2.3_doc_view.php
+¦   ¦       cri_3.2.3_excel_report.php
+¦   ¦       cri_3.2.4_doc_upload.php
+¦   ¦       cri_3.2.4_doc_view.php
+¦   ¦       cri_3.2.4_excel_report.php
+¦   ¦       cri_3.3.1_doc_upload.php
+¦   ¦       cri_3.3.1_doc_view.php
+¦   ¦       cri_3.3.1_writeup.php
+¦   ¦       cri_3.3.2_doc_upload.php
+¦   ¦       cri_3.3.2_doc_view.php
+¦   ¦       cri_3.3.2_excel_report.php
+¦   ¦       cri_3.4.1_doc_upload.php
+¦   ¦       cri_3.4.1_doc_view.php
+¦   ¦       cri_3.4.1_option.php
+¦   ¦       cri_3.4.2_excel_report.php
+¦   ¦       cri_3.4.3_doc_upload.php
+¦   ¦       cri_3.4.3_doc_view.php
+¦   ¦       cri_3.4.3_excel_report.php
+¦   ¦       cri_3.4.4_doc_upload.php
+¦   ¦       cri_3.4.4_doc_view.php
+¦   ¦       cri_3.4.4_excel_report.php
+¦   ¦       cri_3.4.5_doc_upload.php
+¦   ¦       cri_3.4.5_doc_view.php
+¦   ¦       cri_3.4.5_excel_report.php
+¦   ¦       cri_3.4.6_doc_upload.php
+¦   ¦       cri_3.4.6_doc_view.php
+¦   ¦       cri_3.4.6_excel_report.php
+¦   ¦       cri_3.5.1_doc_upload.php
+¦   ¦       cri_3.5.1_doc_view.php
+¦   ¦       cri_3.5.1_excel_report.php
+¦   ¦       cri_3.5.2_doc_upload.php
+¦   ¦       cri_3.5.2_doc_view.php
+¦   ¦       cri_3.5.2_excel_report.php
+¦   ¦       cri_3.6.1_doc_upload.php
+¦   ¦       cri_3.6.1_doc_view.php
+¦   ¦       cri_3.6.1_writeup.php
+¦   ¦       cri_3.6.2_doc_upload.php
+¦   ¦       cri_3.6.2_doc_view.php
+¦   ¦       cri_3.6.2_excel_report.php
+¦   ¦       cri_3.6.3_doc_upload.php
+¦   ¦       cri_3.6.3_doc_view.php
+¦   ¦       cri_3.6.3_excel_report.php
+¦   ¦       cri_3.6.4_doc_upload.php
+¦   ¦       cri_3.6.4_doc_view.php
+¦   ¦       cri_3.6.4_excel_report.php
+¦   ¦       cri_3.7.1_doc_upload.php
+¦   ¦       cri_3.7.1_doc_view.php
+¦   ¦       cri_3.7.1_excel_report.php
+¦   ¦       cri_3.7.2_doc_upload.php
+¦   ¦       cri_3.7.2_doc_view.php
+¦   ¦       cri_3.7.2_excel_report.php
+¦   ¦       cri_3_benchmark_report.php
+¦   ¦       cri_3_detailed_report.php
+¦   ¦       cri_3_writeup_fetch.php
+¦   ¦       dashboard.php
+¦   ¦       delete_incharge.php
+¦   ¦       edit_incharge.php
+¦   ¦       edit_incharge_table.php
+¦   ¦       footer.php
+¦   ¦       header.php
+¦   ¦       logout.php
+¦   ¦       manage_incharge.php
+¦   ¦       query.sql
+¦   ¦       side_bar.php
+¦   ¦       
+¦   +---Criterion_4
+¦   ¦       add_incharge.php
+¦   ¦       cri_4.1.1_doc_upload.php
+¦   ¦       cri_4.1.1_doc_view.php
+¦   ¦       cri_4.1.1_writeup.php
+¦   ¦       cri_4.1.2_doc_upload.php
+¦   ¦       cri_4.1.2_doc_view.php
+¦   ¦       cri_4.1.2_writeup.php
+¦   ¦       cri_4.1.3_doc_view.php
+¦   ¦       cri_4.1.3_excel_report.php
+¦   ¦       cri_4.1.4_doc_view.php
+¦   ¦       cri_4.1.4_excel_report.php
+¦   ¦       cri_4.2.1_doc_upload.php
+¦   ¦       cri_4.2.1_doc_view.php
+¦   ¦       cri_4.2.1_writeup.php
+¦   ¦       cri_4.2.2_doc_upload.php
+¦   ¦       cri_4.2.2_doc_view.php
+¦   ¦       cri_4.2.2_options.php
+¦   ¦       cri_4.2.3_doc_view.php
+¦   ¦       cri_4.2.3_excel_report.php
+¦   ¦       cri_4.2.4_doc_view.php
+¦   ¦       cri_4.2.4_excel_report.php
+¦   ¦       cri_4.3.1_doc_upload.php
+¦   ¦       cri_4.3.1_doc_view.php
+¦   ¦       cri_4.3.1_writeup.php
+¦   ¦       cri_4.3.2_doc_view.php
+¦   ¦       cri_4.3.2_excel_report.php
+¦   ¦       cri_4.3.3_doc_upload.php
+¦   ¦       cri_4.3.3_doc_view.php
+¦   ¦       cri_4.3.3_options.php
+¦   ¦       cri_4.3.4_doc_upload.php
+¦   ¦       cri_4.3.4_doc_view.php
+¦   ¦       cri_4.3.4_options.php
+¦   ¦       cri_4.4.1_doc_view.php
+¦   ¦       cri_4.4.1_excel_report.php
+¦   ¦       cri_4.4.2_doc_upload.php
+¦   ¦       cri_4.4.2_doc_view.php
+¦   ¦       cri_4.4.2_writeup.php
+¦   ¦       cri_4_benchmark_report.php
+¦   ¦       cri_4_detailed_report.php
+¦   ¦       cri_4_writeup_fetch.php
+¦   ¦       dashboard.php
+¦   ¦       delete_incharge.php
+¦   ¦       edit_incharge_table.php
+¦   ¦       footer.php
+¦   ¦       header.php
+¦   ¦       logout.php
+¦   ¦       manage_incharge.php
+¦   ¦       query.sql
+¦   ¦       side_bar.php
+¦   ¦       template.php
+¦   ¦       
+¦   +---Criterion_5
+¦   ¦       add_incharge.php
+¦   ¦       cri_5.1.1_doc_upload.php
+¦   ¦       cri_5.1.1_doc_view.php
+¦   ¦       cri_5.1.1_excel_report.php
+¦   ¦       cri_5.1.2_doc_upload.php
+¦   ¦       cri_5.1.2_doc_view.php
+¦   ¦       cri_5.1.2_excel_report.php
+¦   ¦       cri_5.1.3_doc_upload.php
+¦   ¦       cri_5.1.3_doc_view.php
+¦   ¦       cri_5.1.3_excel_report.php
+¦   ¦       cri_5.1.3_options.php
+¦   ¦       cri_5.1.4_doc_upload.php
+¦   ¦       cri_5.1.4_doc_view.php
+¦   ¦       cri_5.1.4_excel_report.php
+¦   ¦       cri_5.1.5_doc_upload.php
+¦   ¦       cri_5.1.5_doc_view.php
+¦   ¦       cri_5.1.5_options.php
+¦   ¦       cri_5.2.1_doc_upload.php
+¦   ¦       cri_5.2.1_doc_view.php
+¦   ¦       cri_5.2.1_excel_report.php
+¦   ¦       cri_5.2.2_doc_upload.php
+¦   ¦       cri_5.2.2_doc_view.php
+¦   ¦       cri_5.2.2_excel_report.php
+¦   ¦       cri_5.2.3_doc_upload.php
+¦   ¦       cri_5.2.3_doc_view.php
+¦   ¦       cri_5.2.3_excel_report.php
+¦   ¦       cri_5.3.1_doc_upload.php
+¦   ¦       cri_5.3.1_doc_view.php
+¦   ¦       cri_5.3.1_excel_report.php
+¦   ¦       cri_5.3.2_doc_upload.php
+¦   ¦       cri_5.3.2_doc_view.php
+¦   ¦       cri_5.3.2_writeup.php
+¦   ¦       cri_5.3.3_doc_upload.php
+¦   ¦       cri_5.3.3_doc_view.php
+¦   ¦       cri_5.3.3_excel_report.php
+¦   ¦       cri_5.4.1_doc_upload.php
+¦   ¦       cri_5.4.1_doc_view.php
+¦   ¦       cri_5.4.1_writeup.php
+¦   ¦       cri_5.4.2_doc_upload.php
+¦   ¦       cri_5.4.2_doc_view.php
+¦   ¦       cri_5.4.2_options.php
+¦   ¦       cri_5_benchmark_report.php
+¦   ¦       cri_5_detailed_report.php
+¦   ¦       cri_5_writeup_fetch.php
+¦   ¦       dashboard.php
+¦   ¦       edit_incharge_table.php
+¦   ¦       footer.php
+¦   ¦       header.php
+¦   ¦       logout.php
+¦   ¦       manage_incharge.php
+¦   ¦       query_5.sql
+¦   ¦       side_bar.php
+¦   ¦       
+¦   +---Criterion_6
+¦   ¦       add_incharge.php
+¦   ¦       cri_6.1.1_doc_upload.php
+¦   ¦       cri_6.1.1_doc_view.php
+¦   ¦       cri_6.1.1_writeup.php
+¦   ¦       cri_6.1.2_doc_upload.php
+¦   ¦       cri_6.1.2_doc_view.php
+¦   ¦       cri_6.1.2_writeup.php
+¦   ¦       cri_6.2.1_doc_upload.php
+¦   ¦       cri_6.2.1_doc_view.php
+¦   ¦       cri_6.2.1_writeup.php
+¦   ¦       cri_6.2.2_doc_upload.php
+¦   ¦       cri_6.2.2_doc_view.php
+¦   ¦       cri_6.2.2_writeup.php
+¦   ¦       cri_6.2.3_doc_upload.php
+¦   ¦       cri_6.2.3_doc_view.php
+¦   ¦       cri_6.2.3_excel_report.php
+¦   ¦       cri_6.2.3_options.php
+¦   ¦       cri_6.3.1_doc_upload.php
+¦   ¦       cri_6.3.1_doc_view.php
+¦   ¦       cri_6.3.1_writeup.php
+¦   ¦       cri_6.3.2_doc_upload.php
+¦   ¦       cri_6.3.2_doc_view.php
+¦   ¦       cri_6.3.2_excel_report.php
+¦   ¦       cri_6.3.3_doc_upload.php
+¦   ¦       cri_6.3.3_doc_view.php
+¦   ¦       cri_6.3.3_excel_report.php
+¦   ¦       cri_6.3.4_doc_upload.php
+¦   ¦       cri_6.3.4_doc_view.php
+¦   ¦       cri_6.3.4_excel_report.php
+¦   ¦       cri_6.4.1_doc_upload.php
+¦   ¦       cri_6.4.1_doc_view.php
+¦   ¦       cri_6.4.1_writeup.php
+¦   ¦       cri_6.4.2_doc_upload.php
+¦   ¦       cri_6.4.2_doc_view.php
+¦   ¦       cri_6.4.2_excel_report.php
+¦   ¦       cri_6.4.3_doc_upload.php
+¦   ¦       cri_6.4.3_doc_view.php
+¦   ¦       cri_6.4.3_writeup.php
+¦   ¦       cri_6.5.1_doc_upload.php
+¦   ¦       cri_6.5.1_doc_view.php
+¦   ¦       cri_6.5.1_writeup.php
+¦   ¦       cri_6.5.2_doc_upload.php
+¦   ¦       cri_6.5.2_doc_view.php
+¦   ¦       cri_6.5.2_writeup.php
+¦   ¦       cri_6.5.3_doc_upload.php
+¦   ¦       cri_6.5.3_doc_view.php
+¦   ¦       cri_6.5.3_excel_report.php
+¦   ¦       cri_6.5.3_options.php
+¦   ¦       cri_6_benchmark_report.php
+¦   ¦       cri_6_detailed_report.php
+¦   ¦       cri_6_writeup_fetch.php
+¦   ¦       dashboard.php
+¦   ¦       delete_incharge.php
+¦   ¦       edit_incharge_table.php
+¦   ¦       footer.php
+¦   ¦       header.php
+¦   ¦       logout.php
+¦   ¦       manage_incharge.php
+¦   ¦       query.sql
+¦   ¦       side_bar.php
+¦   ¦       template.php
+¦   ¦       
+¦   +---Criterion_7
+¦           add_incharge.php
+¦           cri_7.1.10_doc_upload.php
+¦           cri_7.1.10_doc_view.php
+¦           cri_7.1.11_doc_upload.php
+¦           cri_7.1.11_doc_view.php
+¦           cri_7.1.11_writeup.php
+¦           cri_7.1.1_doc_upload.php
+¦           cri_7.1.1_doc_view.php
+¦           cri_7.1.1_writeup.php
+¦           cri_7.1.2_doc_upload.php
+¦           cri_7.1.2_doc_view.php
+¦           cri_7.1.3_doc_upload.php
+¦           cri_7.1.3_doc_view.php
+¦           cri_7.1.3_writeup.php
+¦           cri_7.1.4_doc_upload.php
+¦           cri_7.1.4_doc_view.php
+¦           cri_7.1.5_doc_upload.php
+¦           cri_7.1.5_doc_view.php
+¦           cri_7.1.6_doc_upload.php
+¦           cri_7.1.6_doc_view.php
+¦           cri_7.1.7_doc_upload.php
+¦           cri_7.1.7_doc_view.php
+¦           cri_7.1.8_doc_upload.php
+¦           cri_7.1.8_doc_view.php
+¦           cri_7.1.8_writeup.php
+¦           cri_7.1.9_doc_upload.php
+¦           cri_7.1.9_doc_view.php
+¦           cri_7.1.9_writeup.php
+¦           cri_7.2.1_doc_upload.php
+¦           cri_7.2.1_doc_view.php
+¦           cri_7.3.1_doc_upload.php
+¦           cri_7.3.1_doc_view.php
+¦           cri_7.3.1_writeup.php
+¦           cri_7_benchmark_report.php
+¦           cri_7_detailed_report.php
+¦           cri_7_writeup_fetch.php
+¦           dashboard.php
+¦           delete_incharge.php
+¦           edit_incharge_table.php
+¦           footer.php
+¦           header.php
+¦           logout.php
+¦           manage_incharge.php
+¦           side_bar.php
+¦           
++---Database
+¦       naac.sql
+¦       
++---Department_Incharge
+¦   +---Criterion_1
+¦   ¦       cri_1.1.1_doc_upload.php
+¦   ¦       cri_1.1.1_doc_view.php
+¦   ¦       cri_1.1.1_pdf_report.php
+¦   ¦       cri_1.1.2_doc_upload.php
+¦   ¦       cri_1.1.2_doc_view.php
+¦   ¦       cri_1.1.2_pdf_report.php
+¦   ¦       cri_1.1.2_revision.php
+¦   ¦       cri_1.1.3_add_course.php
+¦   ¦       cri_1.1.3_doc_view.php
+¦   ¦       cri_1.1.3_pdf_report.php
+¦   ¦       cri_1.2.1_add_course.php
+¦   ¦       cri_1.2.1_doc_view.php
+¦   ¦       cri_1.2.1_pdf_report.php
+¦   ¦       cri_1.2.2_doc_upload.php
+¦   ¦       cri_1.2.2_doc_view.php
+¦   ¦       cri_1.2.2_pdf_report.php
+¦   ¦       cri_1.3.1_courses.php
+¦   ¦       cri_1.3.1_courses_doc_view.php
+¦   ¦       cri_1.3.1_events.php
+¦   ¦       cri_1.3.1_events_doc_view.php
+¦   ¦       cri_1.3.1_pdf_report.php
+¦   ¦       cri_1.3.2_doc_view.php
+¦   ¦       cri_1.3.2_pdf_report.php
+¦   ¦       cri_1.3.2_value_added_course.php
+¦   ¦       cri_1.3.3_doc_upload.php
+¦   ¦       cri_1.3.3_doc_view.php
+¦   ¦       cri_1.3.3_pdf_report.php
+¦   ¦       cri_1.3.4_add_project.php
+¦   ¦       cri_1.3.4_add_project_export.php
+¦   ¦       cri_1.3.4_doc_upload.php
+¦   ¦       cri_1.3.4_doc_view.php
+¦   ¦       cri_1.3.4_pdf_report.php
+¦   ¦       cri_1.4.1_doc_upload.php
+¦   ¦       cri_1.4.1_doc_view.php
+¦   ¦       cri_1.4.1_report.php
+¦   ¦       cri_1.4.2_doc_upload.php
+¦   ¦       cri_1.4.2_doc_view.php
+¦   ¦       cri_1.4.2_report.php
+¦   ¦       dashboard.php
+¦   ¦       footer.php
+¦   ¦       header.php
+¦   ¦       logout.php
+¦   ¦       side_bar.php
+¦   ¦       
+¦   +---Criterion_2
+¦   ¦       cri_2.1.1_add_student.php
+¦   ¦       cri_2.1.1_doc_upload.php
+¦   ¦       cri_2.1.1_doc_view.php
+¦   ¦       cri_2.1.1_sanctioned_seats.php
+¦   ¦       cri_2.1.1_student_export.php
+¦   ¦       cri_2.1.1_student_import.php
+¦   ¦       cri_2.1.2_doc_upload.php
+¦   ¦       cri_2.1.2_doc_view.php
+¦   ¦       cri_2.1.2_reserved_categories.php
+¦   ¦       cri_2.1.2_student_community.php
+¦   ¦       cri_2.1.2_student_export.php
+¦   ¦       cri_2.1.2_student_import.php
+¦   ¦       cri_2.2.1_doc_upload.php
+¦   ¦       cri_2.2.1_doc_view.php
+¦   ¦       cri_2.2.1_spc_programmes.php
+¦   ¦       cri_2.2.1_spc_prog_doc_view.php
+¦   ¦       cri_2.2.2_add_student.php
+¦   ¦       cri_2.2.2_doc_upload.php
+¦   ¦       cri_2.2.2_doc_view.php
+¦   ¦       cri_2.2.2_edit_full_time_teacher.php
+¦   ¦       cri_2.2.2_full_time_teacher.php
+¦   ¦       cri_2.2.2_student_export.php
+¦   ¦       cri_2.2.2_student_import.php
+¦   ¦       cri_2.3.1_doc_upload.php
+¦   ¦       cri_2.3.1_doc_view.php
+¦   ¦       cri_2.3.2_doc_upload.php
+¦   ¦       cri_2.3.2_doc_view.php
+¦   ¦       cri_2.3.3_doc_upload.php
+¦   ¦       cri_2.3.3_doc_view.php
+¦   ¦       cri_2.3.3_ratio.php
+¦   ¦       cri_2.3.4_doc_upload.php
+¦   ¦       cri_2.3.4_doc_view.php
+¦   ¦       cri_2.4.1_doc_upload.php
+¦   ¦       cri_2.4.1_doc_view.php
+¦   ¦       cri_2.4.1_sanctioned_posts.php
+¦   ¦       cri_2.4.2_data_entry.php
+¦   ¦       cri_2.4.2_doc_upload.php
+¦   ¦       cri_2.4.2_doc_view.php
+¦   ¦       cri_2.4.3_doc_upload.php
+¦   ¦       cri_2.4.3_doc_view.php
+¦   ¦       cri_2.6.1_doc_upload.php
+¦   ¦       cri_2.6.1_doc_view.php
+¦   ¦       cri_2.6.2_doc_upload.php
+¦   ¦       cri_2.6.2_doc_view.php
+¦   ¦       cri_2.6.3_doc_upload.php
+¦   ¦       cri_2.6.3_doc_view.php
+¦   ¦       cri_2.6.3_pass_percentage.php
+¦   ¦       cri_2.6.3_student_export.php
+¦   ¦       cri_2.6.3_student_import.php
+¦   ¦       cri_2.7.1_doc_upload.php
+¦   ¦       cri_2.7.1_doc_view.php
+¦   ¦       dashboard.php
+¦   ¦       edit_full_time_teacher.php
+¦   ¦       footer.php
+¦   ¦       header.php
+¦   ¦       logout.php
+¦   ¦       side_bar.php
+¦   ¦       
+¦   +---Criterion_3
+¦           cri_3.1.1_doc_upload.php
+¦           cri_3.1.1_doc_view.php
+¦           cri_3.1.2_data_entry.php
+¦           cri_3.1.2_doc_upload.php
+¦           cri_3.1.2_doc_view.php
+¦           cri_3.1.3_data_entry.php
+¦           cri_3.1.3_doc_upload.php
+¦           cri_3.1.3_doc_view.php
+¦           cri_3.2.1_data_entry.php
+¦           cri_3.2.1_doc_upload.php
+¦           cri_3.2.1_doc_view.php
+¦           cri_3.2.2_doc_upload.php
+¦           cri_3.2.2_doc_view.php
+¦           cri_3.2.3_doc_upload.php
+¦           cri_3.2.3_doc_view.php
+¦           cri_3.2.4_doc_upload.php
+¦           cri_3.2.4_doc_view.php
+¦           cri_3.3.1_doc_upload.php
+¦           cri_3.3.1_doc_view.php
+¦           cri_3.3.2_data_entry.php
+¦           cri_3.3.2_doc_upload.php
+¦           cri_3.3.2_doc_view.php
+¦           cri_3.4.1_doc_upload.php
+¦           cri_3.4.1_doc_view.php
+¦           cri_3.4.2_data_entry.php
+¦           cri_3.4.2_doc_upload.php
+¦           cri_3.4.2_doc_view.php
+¦           cri_3.4.3_data_entry.php
+¦           cri_3.4.3_doc_upload.php
+¦           cri_3.4.3_doc_view.php
+¦           cri_3.4.4_data_entry.php
+¦           cri_3.4.4_doc_upload.php
+¦           cri_3.4.4_doc_view.php
+¦           cri_3.4.5_data_entry.php
+¦           cri_3.4.5_doc_upload.php
+¦           cri_3.4.5_doc_view.php
+¦           cri_3.4.6_data_entry.php
+¦           cri_3.4.6_doc_upload.php
+¦           cri_3.4.6_doc_view.php
+¦           cri_3.5.1_data_entry.php
+¦           cri_3.5.1_doc_upload.php
+¦           cri_3.5.1_doc_view.php
+¦           cri_3.5.2_data_entry.php
+¦           cri_3.5.2_doc_upload.php
+¦           cri_3.5.2_doc_view.php
+¦           cri_3.6.1_doc_upload.php
+¦           cri_3.6.1_doc_view.php
+¦           cri_3.6.2_data_entry.php
+¦           cri_3.6.2_doc_upload.php
+¦           cri_3.6.2_doc_view.php
+¦           cri_3.6.3_data_entry.php
+¦           cri_3.6.3_doc_upload.php
+¦           cri_3.6.3_doc_view.php
+¦           cri_3.6.4_doc_upload.php
+¦           cri_3.6.4_doc_view.php
+¦           cri_3.7.1_collaborating_agency.php
+¦           cri_3.7.1_doc_upload.php
+¦           cri_3.7.1_doc_view.php
+¦           cri_3.7.1_stdents.php
+¦           cri_3.7.2_activities.php
+¦           cri_3.7.2_doc_upload.php
+¦           cri_3.7.2_doc_view.php
+¦           cri_3.7.2_mou_details.php
+¦           dashboard.php
+¦           footer.php
+¦           header.php
+¦           logout.php
+¦           side_bar.php
+¦           
++---images
+¦       adminlogin.png
+¦       college_logo.png
+¦       college_logo_1.png
+¦       pdf_header.png
+¦       psna_logo.png
+¦       
++---Incharge
+¦   +---Criterion_4
+¦   ¦       cri_4.1.1_doc_upload.php
+¦   ¦       cri_4.1.1_doc_view.php
+¦   ¦       cri_4.1.2_doc_upload.php
+¦   ¦       cri_4.1.2_doc_view.php
+¦   ¦       cri_4.1.3_doc_view.php
+¦   ¦       cri_4.1.3_ict_classrooms.php
+¦   ¦       cri_4.1.4_doc_view.php
+¦   ¦       cri_4.1.4_infrastructure_expenditure.php
+¦   ¦       cri_4.2.1_doc_upload.php
+¦   ¦       cri_4.2.1_doc_view.php
+¦   ¦       cri_4.2.2_doc_upload.php
+¦   ¦       cri_4.2.2_doc_view.php
+¦   ¦       cri_4.2.3_doc_upload.php
+¦   ¦       cri_4.2.3_doc_view.php
+¦   ¦       cri_4.2.4_doc_upload.php
+¦   ¦       cri_4.2.4_doc_view.php
+¦   ¦       cri_4.2.4_library_usage.php
+¦   ¦       cri_4.3.1_doc_upload.php
+¦   ¦       cri_4.3.1_doc_view.php
+¦   ¦       cri_4.3.2_computer_ratio.php
+¦   ¦       cri_4.3.2_doc_upload.php
+¦   ¦       cri_4.3.2_doc_view.php
+¦   ¦       cri_4.3.3_doc_upload.php
+¦   ¦       cri_4.3.3_doc_view.php
+¦   ¦       cri_4.3.4_doc_upload.php
+¦   ¦       cri_4.3.4_doc_view.php
+¦   ¦       cri_4.4.1_doc_upload.php
+¦   ¦       cri_4.4.1_doc_view.php
+¦   ¦       cri_4.4.2_doc_upload.php
+¦   ¦       cri_4.4.2_doc_view.php
+¦   ¦       dashboard.php
+¦   ¦       footer.php
+¦   ¦       header.php
+¦   ¦       logout.php
+¦   ¦       side_bar.php
+¦   ¦       template.php
+¦   ¦       
+¦   +---Criterion_5
+¦   ¦       cri_5.1.1_data_entry.php
+¦   ¦       cri_5.1.1_doc_upload.php
+¦   ¦       cri_5.1.1_doc_view.php
+¦   ¦       cri_5.1.2_data_entry.php
+¦   ¦       cri_5.1.2_data_entry_a.php
+¦   ¦       cri_5.1.2_doc_upload.php
+¦   ¦       cri_5.1.2_doc_view.php
+¦   ¦       cri_5.1.3_data_entry.php
+¦   ¦       cri_5.1.3_doc_upload.php
+¦   ¦       cri_5.1.3_doc_view.php
+¦   ¦       cri_5.1.4_data_entry.php
+¦   ¦       cri_5.1.4_doc_upload.php
+¦   ¦       cri_5.1.4_doc_view.php
+¦   ¦       cri_5.1.5_doc_upload.php
+¦   ¦       cri_5.1.5_doc_view.php
+¦   ¦       cri_5.2.1_data_entry.php
+¦   ¦       cri_5.2.1_doc_upload.php
+¦   ¦       cri_5.2.1_doc_view.php
+¦   ¦       cri_5.2.2_data_entry.php
+¦   ¦       cri_5.2.2_doc_upload.php
+¦   ¦       cri_5.2.2_doc_view.php
+¦   ¦       cri_5.2.3_data_entry.php
+¦   ¦       cri_5.2.3_doc_upload.php
+¦   ¦       cri_5.2.3_doc_view.php
+¦   ¦       cri_5.3.1_data_entry.php
+¦   ¦       cri_5.3.1_doc_upload.php
+¦   ¦       cri_5.3.1_doc_view.php
+¦   ¦       cri_5.3.2_doc_upload.php
+¦   ¦       cri_5.3.2_doc_view.php
+¦   ¦       cri_5.3.3_data_entry.php
+¦   ¦       cri_5.3.3_doc_upload.php
+¦   ¦       cri_5.3.3_doc_view.php
+¦   ¦       cri_5.4.1_doc_upload.php
+¦   ¦       cri_5.4.1_doc_view.php
+¦   ¦       cri_5.4.2_doc_upload.php
+¦   ¦       cri_5.4.2_doc_view.php
+¦   ¦       dashboard.php
+¦   ¦       footer.php
+¦   ¦       header.php
+¦   ¦       logout.php
+¦   ¦       side_bar.php
+¦   ¦       
+¦   +---Criterion_6
+¦   ¦       cri_6.1.1_doc_upload.php
+¦   ¦       cri_6.1.1_doc_view.php
+¦   ¦       cri_6.1.2_doc_upload.php
+¦   ¦       cri_6.1.2_doc_view.php
+¦   ¦       cri_6.2.1_doc_upload.php
+¦   ¦       cri_6.2.1_doc_view.php
+¦   ¦       cri_6.2.2_doc_upload.php
+¦   ¦       cri_6.2.2_doc_view.php
+¦   ¦       cri_6.2.3_doc_upload.php
+¦   ¦       cri_6.2.3_doc_view.php
+¦   ¦       cri_6.2.3_e_governance.php
+¦   ¦       cri_6.3.1_doc_upload.php
+¦   ¦       cri_6.3.1_doc_view.php
+¦   ¦       cri_6.3.2_doc_upload.php
+¦   ¦       cri_6.3.2_doc_view.php
+¦   ¦       cri_6.3.2_form.php
+¦   ¦       cri_6.3.3_doc_upload.php
+¦   ¦       cri_6.3.3_doc_view.php
+¦   ¦       cri_6.3.3_form.php
+¦   ¦       cri_6.3.4_doc_upload.php
+¦   ¦       cri_6.3.4_doc_view.php
+¦   ¦       cri_6.3.4_form.php
+¦   ¦       cri_6.4.1_doc_upload.php
+¦   ¦       cri_6.4.1_doc_view.php
+¦   ¦       cri_6.4.2_doc_upload.php
+¦   ¦       cri_6.4.2_doc_view.php
+¦   ¦       cri_6.4.2_form.php
+¦   ¦       cri_6.4.3_doc_upload.php
+¦   ¦       cri_6.4.3_doc_view.php
+¦   ¦       cri_6.5.1_doc_upload.php
+¦   ¦       cri_6.5.1_doc_view.php
+¦   ¦       cri_6.5.2_doc_upload.php
+¦   ¦       cri_6.5.2_doc_view.php
+¦   ¦       cri_6.5.3_doc_upload.php
+¦   ¦       cri_6.5.3_doc_view.php
+¦   ¦       cri_6.5.3_initiatives.php
+¦   ¦       dashboard.php
+¦   ¦       footer.php
+¦   ¦       header.php
+¦   ¦       logout.php
+¦   ¦       side_bar.php
+¦   ¦       
+¦   +---Criterion_7
+¦           cri_7.1.10_doc_upload.php
+¦           cri_7.1.10_doc_view.php
+¦           cri_7.1.10_option.php
+¦           cri_7.1.11_doc_upload.php
+¦           cri_7.1.11_doc_view.php
+¦           cri_7.1.1_doc_upload.php
+¦           cri_7.1.1_doc_view.php
+¦           cri_7.1.2_doc_upload.php
+¦           cri_7.1.2_doc_view.php
+¦           cri_7.1.2_option.php
+¦           cri_7.1.3_doc_upload.php
+¦           cri_7.1.3_doc_view.php
+¦           cri_7.1.4_doc_upload.php
+¦           cri_7.1.4_doc_view.php
+¦           cri_7.1.4_option.php
+¦           cri_7.1.5_doc_upload.php
+¦           cri_7.1.5_doc_view.php
+¦           cri_7.1.5_option.php
+¦           cri_7.1.6_doc_upload.php
+¦           cri_7.1.6_doc_view.php
+¦           cri_7.1.6_option.php
+¦           cri_7.1.7_doc_upload.php
+¦           cri_7.1.7_doc_view.php
+¦           cri_7.1.7_option.php
+¦           cri_7.1.8_doc_upload.php
+¦           cri_7.1.8_doc_view.php
+¦           cri_7.1.9_doc_upload.php
+¦           cri_7.1.9_doc_view.php
+¦           cri_7.2.1_doc_upload.php
+¦           cri_7.2.1_doc_view.php
+¦           cri_7.3.1_doc_upload.php
+¦           cri_7.3.1_doc_view.php
+¦           dashboard.php
+¦           footer.php
+¦           header.php
+¦           logout.php
+¦           manage_incharge.php
+¦           side_bar.php
+¦           
++---IQAC_Director
+¦       add_academic_year.php
+¦       add_criterion_head.php
+¦       add_director.php
+¦       criteria_2.php
+¦       criteria_3.php
+¦       criteria_4.php
+¦       criteria_5.php
+¦       criteria_6.php
+¦       criteria_7.php
+¦       cri_2_aqar_report.php
+¦       cri_2_benchmark_report.php
+¦       cri_3_aqar_report.php
+¦       cri_3_benchmark_report.php
+¦       cri_4_aqar_report.php
+¦       cri_4_benchmark_report.php
+¦       cri_5_aqar_report.php
+¦       cri_5_benchmark_report.php
+¦       cri_6_aqar_report.php
+¦       cri_6_benchmark_report.php
+¦       cri_7_aqar_report.php
+¦       cri_7_benchmark_report.php
+¦       dashboard.php
+¦       delete_criterion_head.php
+¦       delete_director.php
+¦       edit_academic_year.php
+¦       edit_criterion_head.php
+¦       edit_director.php
+¦       footer.php
+¦       header.php
+¦       hide_academic_year.php
+¦       logout.php
+¦       manage_academic_year.php
+¦       manage_criterion_head.php
+¦       manage_director.php
+¦       side_bar.php
+¦       unhide_academic_year.php
+¦       
++---Libraries
+¦   +---assets
+¦   ¦   +---css
+¦   ¦   ¦       bootstrap.min.css
+¦   ¦   ¦       datatables.min.css
+¦   ¦   ¦       style.css
+¦   ¦   ¦       
+¦   ¦   +---images
+¦   ¦   ¦       favicon.png
+¦   ¦   ¦       logo.png
+¦   ¦   ¦       
+¦   ¦   +---js
+¦   ¦           bootstrap.bundle.min.js
+¦   ¦           custom.js
+¦   ¦           datatables.min.js
+¦   ¦           jquery-3.6.0.min.js
+¦   ¦           pdfmake.min.js
+¦   ¦           vfs_fonts.js
+¦   ¦           
+¦   +---bootstrap-5.2.0
+¦   ¦   +---css
+¦   ¦   ¦       bootstrap-grid.css
+¦   ¦   ¦       bootstrap-grid.css.map
+¦   ¦   ¦       bootstrap-grid.min.css
+¦   ¦   ¦       bootstrap-grid.min.css.map
+¦   ¦   ¦       bootstrap-grid.rtl.css
+¦   ¦   ¦       bootstrap-grid.rtl.css.map
+¦   ¦   ¦       bootstrap-grid.rtl.min.css
+¦   ¦   ¦       bootstrap-grid.rtl.min.css.map
+¦   ¦   ¦       bootstrap-reboot.css
+¦   ¦   ¦       bootstrap-reboot.css.map
+¦   ¦   ¦       bootstrap-reboot.min.css
+¦   ¦   ¦       bootstrap-reboot.min.css.map
+¦   ¦   ¦       bootstrap-reboot.rtl.css
+¦   ¦   ¦       bootstrap-reboot.rtl.css.map
+¦   ¦   ¦       bootstrap-reboot.rtl.min.css
+¦   ¦   ¦       bootstrap-reboot.rtl.min.css.map
+¦   ¦   ¦       bootstrap-utilities.css
+¦   ¦   ¦       bootstrap-utilities.css.map
+¦   ¦   ¦       bootstrap-utilities.min.css
+¦   ¦   ¦       bootstrap-utilities.min.css.map
+¦   ¦   ¦       bootstrap-utilities.rtl.css
+¦   ¦   ¦       bootstrap-utilities.rtl.css.map
+¦   ¦   ¦       bootstrap-utilities.rtl.min.css
+¦   ¦   ¦       bootstrap-utilities.rtl.min.css.map
+¦   ¦   ¦       bootstrap.css
+¦   ¦   ¦       bootstrap.css.map
+¦   ¦   ¦       bootstrap.min.css
+¦   ¦   ¦       bootstrap.min.css.map
+¦   ¦   ¦       bootstrap.rtl.css
+¦   ¦   ¦       bootstrap.rtl.css.map
+¦   ¦   ¦       bootstrap.rtl.min.css
+¦   ¦   ¦       bootstrap.rtl.min.css.map
+¦   ¦   ¦       
+¦   ¦   +---js
+¦   ¦           bootstrap.bundle.js
+¦   ¦           bootstrap.bundle.js.map
+¦   ¦           bootstrap.bundle.min.js
+¦   ¦           bootstrap.bundle.min.js.map
+¦   ¦           bootstrap.esm.js
+¦   ¦           bootstrap.esm.js.map
+¦   ¦           bootstrap.esm.min.js
+¦   ¦           bootstrap.esm.min.js.map
+¦   ¦           bootstrap.js
+¦   ¦           bootstrap.js.map
+¦   ¦           bootstrap.min.js
+¦   ¦           bootstrap.min.js.map
+¦   ¦           
+¦   +---DataTables
+¦   ¦   ¦   datatables.css
+¦   ¦   ¦   datatables.js
+¦   ¦   ¦   datatables.min.css
+¦   ¦   ¦   datatables.min.js
+¦   ¦   ¦   
+¦   ¦   +---DataTables-1.13.6
+¦   ¦       +---css
+¦   ¦       ¦       dataTables.bootstrap.css
+¦   ¦       ¦       dataTables.bootstrap.min.css
+¦   ¦       ¦       dataTables.bootstrap4.css
+¦   ¦       ¦       dataTables.bootstrap4.min.css
+¦   ¦       ¦       dataTables.bootstrap5.css
+¦   ¦       ¦       dataTables.bootstrap5.min(1).css
+¦   ¦       ¦       dataTables.bootstrap5.min.css
+¦   ¦       ¦       dataTables.bulma(1).css
+¦   ¦       ¦       dataTables.bulma.css
+¦   ¦       ¦       dataTables.bulma.min(1).css
+¦   ¦       ¦       dataTables.bulma.min.css
+¦   ¦       ¦       dataTables.dataTables(1).css
+¦   ¦       ¦       dataTables.dataTables.css
+¦   ¦       ¦       dataTables.dataTables.min(1).css
+¦   ¦       ¦       dataTables.dataTables.min.css
+¦   ¦       ¦       dataTables.foundation.css
+¦   ¦       ¦       dataTables.foundation.min.css
+¦   ¦       ¦       dataTables.jqueryui.css
+¦   ¦       ¦       dataTables.jqueryui.min.css
+¦   ¦       ¦       dataTables.semanticui.css
+¦   ¦       ¦       dataTables.semanticui.min.css
+¦   ¦       ¦       jquery.dataTables.css
+¦   ¦       ¦       jquery.dataTables.min(1).css
+¦   ¦       ¦       jquery.dataTables.min.css
+¦   ¦       ¦       
+¦   ¦       +---images
+¦   ¦       ¦       sort_asc.png
+¦   ¦       ¦       sort_asc_disabled.png
+¦   ¦       ¦       sort_both.png
+¦   ¦       ¦       sort_desc.png
+¦   ¦       ¦       sort_desc_disabled.png
+¦   ¦       ¦       
+¦   ¦       +---js
+¦   ¦               dataTables.bootstrap.js
+¦   ¦               dataTables.bootstrap.min.js
+¦   ¦               dataTables.bootstrap4.js
+¦   ¦               dataTables.bootstrap4.min.js
+¦   ¦               dataTables.bootstrap5.js
+¦   ¦               dataTables.bootstrap5.min.js
+¦   ¦               dataTables.bulma.js
+¦   ¦               dataTables.bulma.min.js
+¦   ¦               dataTables.dataTables.js
+¦   ¦               dataTables.dataTables.min.js
+¦   ¦               dataTables.foundation.js
+¦   ¦               dataTables.foundation.min.js
+¦   ¦               dataTables.jqueryui.js
+¦   ¦               dataTables.jqueryui.min.js
+¦   ¦               dataTables.semanticui.js
+¦   ¦               dataTables.semanticui.min.js
+¦   ¦               jquery.dataTables.js
+¦   ¦               jquery.dataTables.min.js
+¦   ¦               
+¦   +---fontawesome-6.1.2
+¦   ¦   ¦   LICENSE.txt
+¦   ¦   ¦   
+¦   ¦   +---css
+¦   ¦   ¦       all.css
+¦   ¦   ¦       all.min.css
+¦   ¦   ¦       brands.css
+¦   ¦   ¦       brands.min.css
+¦   ¦   ¦       fontawesome.css
+¦   ¦   ¦       fontawesome.min.css
+¦   ¦   ¦       regular.css
+¦   ¦   ¦       regular.min.css
+¦   ¦   ¦       solid.css
+¦   ¦   ¦       solid.min.css
+¦   ¦   ¦       svg-with-js.css
+¦   ¦   ¦       svg-with-js.min.css
+¦   ¦   ¦       v4-font-face.css
+¦   ¦   ¦       v4-font-face.min.css
+¦   ¦   ¦       v4-shims.css
+¦   ¦   ¦       v4-shims.min.css
+¦   ¦   ¦       v5-font-face.css
+¦   ¦   ¦       v5-font-face.min.css
+¦   ¦   ¦       
+¦   ¦   +---js
+¦   ¦   ¦       all.js
+¦   ¦   ¦       all.min.js
+¦   ¦   ¦       brands.js
+¦   ¦   ¦       brands.min.js
+¦   ¦   ¦       conflict-detection.js
+¦   ¦   ¦       conflict-detection.min.js
+¦   ¦   ¦       fontawesome.js
+¦   ¦   ¦       fontawesome.min.js
+¦   ¦   ¦       regular.js
+¦   ¦   ¦       regular.min.js
+¦   ¦   ¦       solid.js
+¦   ¦   ¦       solid.min.js
+¦   ¦   ¦       v4-shims.js
+¦   ¦   ¦       v4-shims.min.js
+¦   ¦   ¦       
+¦   ¦   +---less
+¦   ¦   ¦       brands.less
+¦   ¦   ¦       fontawesome.less
+¦   ¦   ¦       regular.less
+¦   ¦   ¦       solid.less
+¦   ¦   ¦       v4-shims.less
+¦   ¦   ¦       _animated.less
+¦   ¦   ¦       _bordered-pulled.less
+¦   ¦   ¦       _core.less
+¦   ¦   ¦       _fixed-width.less
+¦   ¦   ¦       _icons.less
+¦   ¦   ¦       _list.less
+¦   ¦   ¦       _mixins.less
+¦   ¦   ¦       _rotated-flipped.less
+¦   ¦   ¦       _screen-reader.less
+¦   ¦   ¦       _shims.less
+¦   ¦   ¦       _sizing.less
+¦   ¦   ¦       _stacked.less
+¦   ¦   ¦       _variables.less
+¦   ¦   ¦       
+¦   ¦   +---metadata
+¦   ¦   ¦       categories.yml
+¦   ¦   ¦       icons.json
+¦   ¦   ¦       icons.yml
+¦   ¦   ¦       shims.json
+¦   ¦   ¦       shims.yml
+¦   ¦   ¦       sponsors.yml
+¦   ¦   ¦       
+¦   ¦   +---scss
+¦   ¦   ¦       brands.scss
+¦   ¦   ¦       fontawesome.scss
+¦   ¦   ¦       regular.scss
+¦   ¦   ¦       solid.scss
+¦   ¦   ¦       v4-shims.scss
+¦   ¦   ¦       _animated.scss
+¦   ¦   ¦       _bordered-pulled.scss
+¦   ¦   ¦       _core.scss
+¦   ¦   ¦       _fixed-width.scss
+¦   ¦   ¦       _functions.scss
+¦   ¦   ¦       _icons.scss
+¦   ¦   ¦       _list.scss
+¦   ¦   ¦       _mixins.scss
+¦   ¦   ¦       _rotated-flipped.scss
+¦   ¦   ¦       _screen-reader.scss
+¦   ¦   ¦       _shims.scss
+¦   ¦   ¦       _sizing.scss
+¦   ¦   ¦       _stacked.scss
+¦   ¦   ¦       _variables.scss
+¦   ¦   ¦       
+¦   ¦   +---sprites
+¦   ¦   ¦       brands.svg
+¦   ¦   ¦       regular.svg
+¦   ¦   ¦       solid.svg
+¦   ¦   ¦       
+¦   ¦   +---svgs
+¦   ¦   ¦   +---brands
+¦   ¦   ¦   ¦       42-group.svg
+¦   ¦   ¦   ¦       500px.svg
+¦   ¦   ¦   ¦       accessible-icon.svg
+¦   ¦   ¦   ¦       accusoft.svg
+¦   ¦   ¦   ¦       adn.svg
+¦   ¦   ¦   ¦       adversal.svg
+¦   ¦   ¦   ¦       affiliatetheme.svg
+¦   ¦   ¦   ¦       airbnb.svg
+¦   ¦   ¦   ¦       algolia.svg
+¦   ¦   ¦   ¦       alipay.svg
+¦   ¦   ¦   ¦       amazon-pay.svg
+¦   ¦   ¦   ¦       amazon.svg
+¦   ¦   ¦   ¦       amilia.svg
+¦   ¦   ¦   ¦       android.svg
+¦   ¦   ¦   ¦       angellist.svg
+¦   ¦   ¦   ¦       angrycreative.svg
+¦   ¦   ¦   ¦       angular.svg
+¦   ¦   ¦   ¦       app-store-ios.svg
+¦   ¦   ¦   ¦       app-store.svg
+¦   ¦   ¦   ¦       apper.svg
+¦   ¦   ¦   ¦       apple-pay.svg
+¦   ¦   ¦   ¦       apple.svg
+¦   ¦   ¦   ¦       artstation.svg
+¦   ¦   ¦   ¦       asymmetrik.svg
+¦   ¦   ¦   ¦       atlassian.svg
+¦   ¦   ¦   ¦       audible.svg
+¦   ¦   ¦   ¦       autoprefixer.svg
+¦   ¦   ¦   ¦       avianex.svg
+¦   ¦   ¦   ¦       aviato.svg
+¦   ¦   ¦   ¦       aws.svg
+¦   ¦   ¦   ¦       bandcamp.svg
+¦   ¦   ¦   ¦       battle-net.svg
+¦   ¦   ¦   ¦       behance.svg
+¦   ¦   ¦   ¦       bilibili.svg
+¦   ¦   ¦   ¦       bimobject.svg
+¦   ¦   ¦   ¦       bitbucket.svg
+¦   ¦   ¦   ¦       bitcoin.svg
+¦   ¦   ¦   ¦       bity.svg
+¦   ¦   ¦   ¦       black-tie.svg
+¦   ¦   ¦   ¦       blackberry.svg
+¦   ¦   ¦   ¦       blogger-b.svg
+¦   ¦   ¦   ¦       blogger.svg
+¦   ¦   ¦   ¦       bluetooth-b.svg
+¦   ¦   ¦   ¦       bluetooth.svg
+¦   ¦   ¦   ¦       bootstrap.svg
+¦   ¦   ¦   ¦       bots.svg
+¦   ¦   ¦   ¦       btc.svg
+¦   ¦   ¦   ¦       buffer.svg
+¦   ¦   ¦   ¦       buromobelexperte.svg
+¦   ¦   ¦   ¦       buy-n-large.svg
+¦   ¦   ¦   ¦       buysellads.svg
+¦   ¦   ¦   ¦       canadian-maple-leaf.svg
+¦   ¦   ¦   ¦       cc-amazon-pay.svg
+¦   ¦   ¦   ¦       cc-amex.svg
+¦   ¦   ¦   ¦       cc-apple-pay.svg
+¦   ¦   ¦   ¦       cc-diners-club.svg
+¦   ¦   ¦   ¦       cc-discover.svg
+¦   ¦   ¦   ¦       cc-jcb.svg
+¦   ¦   ¦   ¦       cc-mastercard.svg
+¦   ¦   ¦   ¦       cc-paypal.svg
+¦   ¦   ¦   ¦       cc-stripe.svg
+¦   ¦   ¦   ¦       cc-visa.svg
+¦   ¦   ¦   ¦       centercode.svg
+¦   ¦   ¦   ¦       centos.svg
+¦   ¦   ¦   ¦       chrome.svg
+¦   ¦   ¦   ¦       chromecast.svg
+¦   ¦   ¦   ¦       cloudflare.svg
+¦   ¦   ¦   ¦       cloudscale.svg
+¦   ¦   ¦   ¦       cloudsmith.svg
+¦   ¦   ¦   ¦       cloudversify.svg
+¦   ¦   ¦   ¦       cmplid.svg
+¦   ¦   ¦   ¦       codepen.svg
+¦   ¦   ¦   ¦       codiepie.svg
+¦   ¦   ¦   ¦       confluence.svg
+¦   ¦   ¦   ¦       connectdevelop.svg
+¦   ¦   ¦   ¦       contao.svg
+¦   ¦   ¦   ¦       cotton-bureau.svg
+¦   ¦   ¦   ¦       cpanel.svg
+¦   ¦   ¦   ¦       creative-commons-by.svg
+¦   ¦   ¦   ¦       creative-commons-nc-eu.svg
+¦   ¦   ¦   ¦       creative-commons-nc-jp.svg
+¦   ¦   ¦   ¦       creative-commons-nc.svg
+¦   ¦   ¦   ¦       creative-commons-nd.svg
+¦   ¦   ¦   ¦       creative-commons-pd-alt.svg
+¦   ¦   ¦   ¦       creative-commons-pd.svg
+¦   ¦   ¦   ¦       creative-commons-remix.svg
+¦   ¦   ¦   ¦       creative-commons-sa.svg
+¦   ¦   ¦   ¦       creative-commons-sampling-plus.svg
+¦   ¦   ¦   ¦       creative-commons-sampling.svg
+¦   ¦   ¦   ¦       creative-commons-share.svg
+¦   ¦   ¦   ¦       creative-commons-zero.svg
+¦   ¦   ¦   ¦       creative-commons.svg
+¦   ¦   ¦   ¦       critical-role.svg
+¦   ¦   ¦   ¦       css3-alt.svg
+¦   ¦   ¦   ¦       css3.svg
+¦   ¦   ¦   ¦       cuttlefish.svg
+¦   ¦   ¦   ¦       d-and-d-beyond.svg
+¦   ¦   ¦   ¦       d-and-d.svg
+¦   ¦   ¦   ¦       dailymotion.svg
+¦   ¦   ¦   ¦       dashcube.svg
+¦   ¦   ¦   ¦       deezer.svg
+¦   ¦   ¦   ¦       delicious.svg
+¦   ¦   ¦   ¦       deploydog.svg
+¦   ¦   ¦   ¦       deskpro.svg
+¦   ¦   ¦   ¦       dev.svg
+¦   ¦   ¦   ¦       deviantart.svg
+¦   ¦   ¦   ¦       dhl.svg
+¦   ¦   ¦   ¦       diaspora.svg
+¦   ¦   ¦   ¦       digg.svg
+¦   ¦   ¦   ¦       digital-ocean.svg
+¦   ¦   ¦   ¦       discord.svg
+¦   ¦   ¦   ¦       discourse.svg
+¦   ¦   ¦   ¦       dochub.svg
+¦   ¦   ¦   ¦       docker.svg
+¦   ¦   ¦   ¦       draft2digital.svg
+¦   ¦   ¦   ¦       dribbble.svg
+¦   ¦   ¦   ¦       dropbox.svg
+¦   ¦   ¦   ¦       drupal.svg
+¦   ¦   ¦   ¦       dyalog.svg
+¦   ¦   ¦   ¦       earlybirds.svg
+¦   ¦   ¦   ¦       ebay.svg
+¦   ¦   ¦   ¦       edge-legacy.svg
+¦   ¦   ¦   ¦       edge.svg
+¦   ¦   ¦   ¦       elementor.svg
+¦   ¦   ¦   ¦       ello.svg
+¦   ¦   ¦   ¦       ember.svg
+¦   ¦   ¦   ¦       empire.svg
+¦   ¦   ¦   ¦       envira.svg
+¦   ¦   ¦   ¦       erlang.svg
+¦   ¦   ¦   ¦       ethereum.svg
+¦   ¦   ¦   ¦       etsy.svg
+¦   ¦   ¦   ¦       evernote.svg
+¦   ¦   ¦   ¦       expeditedssl.svg
+¦   ¦   ¦   ¦       facebook-f.svg
+¦   ¦   ¦   ¦       facebook-messenger.svg
+¦   ¦   ¦   ¦       facebook.svg
+¦   ¦   ¦   ¦       fantasy-flight-games.svg
+¦   ¦   ¦   ¦       fedex.svg
+¦   ¦   ¦   ¦       fedora.svg
+¦   ¦   ¦   ¦       figma.svg
+¦   ¦   ¦   ¦       firefox-browser.svg
+¦   ¦   ¦   ¦       firefox.svg
+¦   ¦   ¦   ¦       first-order-alt.svg
+¦   ¦   ¦   ¦       first-order.svg
+¦   ¦   ¦   ¦       firstdraft.svg
+¦   ¦   ¦   ¦       flickr.svg
+¦   ¦   ¦   ¦       flipboard.svg
+¦   ¦   ¦   ¦       fly.svg
+¦   ¦   ¦   ¦       font-awesome.svg
+¦   ¦   ¦   ¦       fonticons-fi.svg
+¦   ¦   ¦   ¦       fonticons.svg
+¦   ¦   ¦   ¦       fort-awesome-alt.svg
+¦   ¦   ¦   ¦       fort-awesome.svg
+¦   ¦   ¦   ¦       forumbee.svg
+¦   ¦   ¦   ¦       foursquare.svg
+¦   ¦   ¦   ¦       free-code-camp.svg
+¦   ¦   ¦   ¦       freebsd.svg
+¦   ¦   ¦   ¦       fulcrum.svg
+¦   ¦   ¦   ¦       galactic-republic.svg
+¦   ¦   ¦   ¦       galactic-senate.svg
+¦   ¦   ¦   ¦       get-pocket.svg
+¦   ¦   ¦   ¦       gg-circle.svg
+¦   ¦   ¦   ¦       gg.svg
+¦   ¦   ¦   ¦       git-alt.svg
+¦   ¦   ¦   ¦       git.svg
+¦   ¦   ¦   ¦       github-alt.svg
+¦   ¦   ¦   ¦       github.svg
+¦   ¦   ¦   ¦       gitkraken.svg
+¦   ¦   ¦   ¦       gitlab.svg
+¦   ¦   ¦   ¦       gitter.svg
+¦   ¦   ¦   ¦       glide-g.svg
+¦   ¦   ¦   ¦       glide.svg
+¦   ¦   ¦   ¦       gofore.svg
+¦   ¦   ¦   ¦       golang.svg
+¦   ¦   ¦   ¦       goodreads-g.svg
+¦   ¦   ¦   ¦       goodreads.svg
+¦   ¦   ¦   ¦       google-drive.svg
+¦   ¦   ¦   ¦       google-pay.svg
+¦   ¦   ¦   ¦       google-play.svg
+¦   ¦   ¦   ¦       google-plus-g.svg
+¦   ¦   ¦   ¦       google-plus.svg
+¦   ¦   ¦   ¦       google-wallet.svg
+¦   ¦   ¦   ¦       google.svg
+¦   ¦   ¦   ¦       gratipay.svg
+¦   ¦   ¦   ¦       grav.svg
+¦   ¦   ¦   ¦       gripfire.svg
+¦   ¦   ¦   ¦       grunt.svg
+¦   ¦   ¦   ¦       guilded.svg
+¦   ¦   ¦   ¦       gulp.svg
+¦   ¦   ¦   ¦       hacker-news.svg
+¦   ¦   ¦   ¦       hackerrank.svg
+¦   ¦   ¦   ¦       hashnode.svg
+¦   ¦   ¦   ¦       hips.svg
+¦   ¦   ¦   ¦       hire-a-helper.svg
+¦   ¦   ¦   ¦       hive.svg
+¦   ¦   ¦   ¦       hooli.svg
+¦   ¦   ¦   ¦       hornbill.svg
+¦   ¦   ¦   ¦       hotjar.svg
+¦   ¦   ¦   ¦       houzz.svg
+¦   ¦   ¦   ¦       html5.svg
+¦   ¦   ¦   ¦       hubspot.svg
+¦   ¦   ¦   ¦       ideal.svg
+¦   ¦   ¦   ¦       imdb.svg
+¦   ¦   ¦   ¦       instagram.svg
+¦   ¦   ¦   ¦       instalod.svg
+¦   ¦   ¦   ¦       intercom.svg
+¦   ¦   ¦   ¦       internet-explorer.svg
+¦   ¦   ¦   ¦       invision.svg
+¦   ¦   ¦   ¦       ioxhost.svg
+¦   ¦   ¦   ¦       itch-io.svg
+¦   ¦   ¦   ¦       itunes-note.svg
+¦   ¦   ¦   ¦       itunes.svg
+¦   ¦   ¦   ¦       java.svg
+¦   ¦   ¦   ¦       jedi-order.svg
+¦   ¦   ¦   ¦       jenkins.svg
+¦   ¦   ¦   ¦       jira.svg
+¦   ¦   ¦   ¦       joget.svg
+¦   ¦   ¦   ¦       joomla.svg
+¦   ¦   ¦   ¦       js.svg
+¦   ¦   ¦   ¦       jsfiddle.svg
+¦   ¦   ¦   ¦       kaggle.svg
+¦   ¦   ¦   ¦       keybase.svg
+¦   ¦   ¦   ¦       keycdn.svg
+¦   ¦   ¦   ¦       kickstarter-k.svg
+¦   ¦   ¦   ¦       kickstarter.svg
+¦   ¦   ¦   ¦       korvue.svg
+¦   ¦   ¦   ¦       laravel.svg
+¦   ¦   ¦   ¦       lastfm.svg
+¦   ¦   ¦   ¦       leanpub.svg
+¦   ¦   ¦   ¦       less.svg
+¦   ¦   ¦   ¦       line.svg
+¦   ¦   ¦   ¦       linkedin-in.svg
+¦   ¦   ¦   ¦       linkedin.svg
+¦   ¦   ¦   ¦       linode.svg
+¦   ¦   ¦   ¦       linux.svg
+¦   ¦   ¦   ¦       lyft.svg
+¦   ¦   ¦   ¦       magento.svg
+¦   ¦   ¦   ¦       mailchimp.svg
+¦   ¦   ¦   ¦       mandalorian.svg
+¦   ¦   ¦   ¦       markdown.svg
+¦   ¦   ¦   ¦       mastodon.svg
+¦   ¦   ¦   ¦       maxcdn.svg
+¦   ¦   ¦   ¦       mdb.svg
+¦   ¦   ¦   ¦       medapps.svg
+¦   ¦   ¦   ¦       medium.svg
+¦   ¦   ¦   ¦       medrt.svg
+¦   ¦   ¦   ¦       meetup.svg
+¦   ¦   ¦   ¦       megaport.svg
+¦   ¦   ¦   ¦       mendeley.svg
+¦   ¦   ¦   ¦       meta.svg
+¦   ¦   ¦   ¦       microblog.svg
+¦   ¦   ¦   ¦       microsoft.svg
+¦   ¦   ¦   ¦       mix.svg
+¦   ¦   ¦   ¦       mixcloud.svg
+¦   ¦   ¦   ¦       mixer.svg
+¦   ¦   ¦   ¦       mizuni.svg
+¦   ¦   ¦   ¦       modx.svg
+¦   ¦   ¦   ¦       monero.svg
+¦   ¦   ¦   ¦       napster.svg
+¦   ¦   ¦   ¦       neos.svg
+¦   ¦   ¦   ¦       nfc-directional.svg
+¦   ¦   ¦   ¦       nfc-symbol.svg
+¦   ¦   ¦   ¦       nimblr.svg
+¦   ¦   ¦   ¦       node-js.svg
+¦   ¦   ¦   ¦       node.svg
+¦   ¦   ¦   ¦       npm.svg
+¦   ¦   ¦   ¦       ns8.svg
+¦   ¦   ¦   ¦       nutritionix.svg
+¦   ¦   ¦   ¦       octopus-deploy.svg
+¦   ¦   ¦   ¦       odnoklassniki.svg
+¦   ¦   ¦   ¦       old-republic.svg
+¦   ¦   ¦   ¦       opencart.svg
+¦   ¦   ¦   ¦       openid.svg
+¦   ¦   ¦   ¦       opera.svg
+¦   ¦   ¦   ¦       optin-monster.svg
+¦   ¦   ¦   ¦       orcid.svg
+¦   ¦   ¦   ¦       osi.svg
+¦   ¦   ¦   ¦       padlet.svg
+¦   ¦   ¦   ¦       page4.svg
+¦   ¦   ¦   ¦       pagelines.svg
+¦   ¦   ¦   ¦       palfed.svg
+¦   ¦   ¦   ¦       patreon.svg
+¦   ¦   ¦   ¦       paypal.svg
+¦   ¦   ¦   ¦       perbyte.svg
+¦   ¦   ¦   ¦       periscope.svg
+¦   ¦   ¦   ¦       phabricator.svg
+¦   ¦   ¦   ¦       phoenix-framework.svg
+¦   ¦   ¦   ¦       phoenix-squadron.svg
+¦   ¦   ¦   ¦       php.svg
+¦   ¦   ¦   ¦       pied-piper-alt.svg
+¦   ¦   ¦   ¦       pied-piper-hat.svg
+¦   ¦   ¦   ¦       pied-piper-pp.svg
+¦   ¦   ¦   ¦       pied-piper.svg
+¦   ¦   ¦   ¦       pinterest-p.svg
+¦   ¦   ¦   ¦       pinterest.svg
+¦   ¦   ¦   ¦       pix.svg
+¦   ¦   ¦   ¦       playstation.svg
+¦   ¦   ¦   ¦       product-hunt.svg
+¦   ¦   ¦   ¦       pushed.svg
+¦   ¦   ¦   ¦       python.svg
+¦   ¦   ¦   ¦       qq.svg
+¦   ¦   ¦   ¦       quinscape.svg
+¦   ¦   ¦   ¦       quora.svg
+¦   ¦   ¦   ¦       r-project.svg
+¦   ¦   ¦   ¦       raspberry-pi.svg
+¦   ¦   ¦   ¦       ravelry.svg
+¦   ¦   ¦   ¦       react.svg
+¦   ¦   ¦   ¦       reacteurope.svg
+¦   ¦   ¦   ¦       readme.svg
+¦   ¦   ¦   ¦       rebel.svg
+¦   ¦   ¦   ¦       red-river.svg
+¦   ¦   ¦   ¦       reddit-alien.svg
+¦   ¦   ¦   ¦       reddit.svg
+¦   ¦   ¦   ¦       redhat.svg
+¦   ¦   ¦   ¦       renren.svg
+¦   ¦   ¦   ¦       replyd.svg
+¦   ¦   ¦   ¦       researchgate.svg
+¦   ¦   ¦   ¦       resolving.svg
+¦   ¦   ¦   ¦       rev.svg
+¦   ¦   ¦   ¦       rocketchat.svg
+¦   ¦   ¦   ¦       rockrms.svg
+¦   ¦   ¦   ¦       rust.svg
+¦   ¦   ¦   ¦       safari.svg
+¦   ¦   ¦   ¦       salesforce.svg
+¦   ¦   ¦   ¦       sass.svg
+¦   ¦   ¦   ¦       schlix.svg
+¦   ¦   ¦   ¦       screenpal.svg
+¦   ¦   ¦   ¦       scribd.svg
+¦   ¦   ¦   ¦       searchengin.svg
+¦   ¦   ¦   ¦       sellcast.svg
+¦   ¦   ¦   ¦       sellsy.svg
+¦   ¦   ¦   ¦       servicestack.svg
+¦   ¦   ¦   ¦       shirtsinbulk.svg
+¦   ¦   ¦   ¦       shopify.svg
+¦   ¦   ¦   ¦       shopware.svg
+¦   ¦   ¦   ¦       simplybuilt.svg
+¦   ¦   ¦   ¦       sistrix.svg
+¦   ¦   ¦   ¦       sith.svg
+¦   ¦   ¦   ¦       sitrox.svg
+¦   ¦   ¦   ¦       sketch.svg
+¦   ¦   ¦   ¦       skyatlas.svg
+¦   ¦   ¦   ¦       skype.svg
+¦   ¦   ¦   ¦       slack.svg
+¦   ¦   ¦   ¦       slideshare.svg
+¦   ¦   ¦   ¦       snapchat.svg
+¦   ¦   ¦   ¦       soundcloud.svg
+¦   ¦   ¦   ¦       sourcetree.svg
+¦   ¦   ¦   ¦       space-awesome.svg
+¦   ¦   ¦   ¦       speakap.svg
+¦   ¦   ¦   ¦       speaker-deck.svg
+¦   ¦   ¦   ¦       spotify.svg
+¦   ¦   ¦   ¦       square-behance.svg
+¦   ¦   ¦   ¦       square-dribbble.svg
+¦   ¦   ¦   ¦       square-facebook.svg
+¦   ¦   ¦   ¦       square-font-awesome-stroke.svg
+¦   ¦   ¦   ¦       square-font-awesome.svg
+¦   ¦   ¦   ¦       square-git.svg
+¦   ¦   ¦   ¦       square-github.svg
+¦   ¦   ¦   ¦       square-gitlab.svg
+¦   ¦   ¦   ¦       square-google-plus.svg
+¦   ¦   ¦   ¦       square-hacker-news.svg
+¦   ¦   ¦   ¦       square-instagram.svg
+¦   ¦   ¦   ¦       square-js.svg
+¦   ¦   ¦   ¦       square-lastfm.svg
+¦   ¦   ¦   ¦       square-odnoklassniki.svg
+¦   ¦   ¦   ¦       square-pied-piper.svg
+¦   ¦   ¦   ¦       square-pinterest.svg
+¦   ¦   ¦   ¦       square-reddit.svg
+¦   ¦   ¦   ¦       square-snapchat.svg
+¦   ¦   ¦   ¦       square-steam.svg
+¦   ¦   ¦   ¦       square-tumblr.svg
+¦   ¦   ¦   ¦       square-twitter.svg
+¦   ¦   ¦   ¦       square-viadeo.svg
+¦   ¦   ¦   ¦       square-vimeo.svg
+¦   ¦   ¦   ¦       square-whatsapp.svg
+¦   ¦   ¦   ¦       square-xing.svg
+¦   ¦   ¦   ¦       square-youtube.svg
+¦   ¦   ¦   ¦       squarespace.svg
+¦   ¦   ¦   ¦       stack-exchange.svg
+¦   ¦   ¦   ¦       stack-overflow.svg
+¦   ¦   ¦   ¦       stackpath.svg
+¦   ¦   ¦   ¦       staylinked.svg
+¦   ¦   ¦   ¦       steam-symbol.svg
+¦   ¦   ¦   ¦       steam.svg
+¦   ¦   ¦   ¦       sticker-mule.svg
+¦   ¦   ¦   ¦       strava.svg
+¦   ¦   ¦   ¦       stripe-s.svg
+¦   ¦   ¦   ¦       stripe.svg
+¦   ¦   ¦   ¦       studiovinari.svg
+¦   ¦   ¦   ¦       stumbleupon-circle.svg
+¦   ¦   ¦   ¦       stumbleupon.svg
+¦   ¦   ¦   ¦       superpowers.svg
+¦   ¦   ¦   ¦       supple.svg
+¦   ¦   ¦   ¦       suse.svg
+¦   ¦   ¦   ¦       swift.svg
+¦   ¦   ¦   ¦       symfony.svg
+¦   ¦   ¦   ¦       teamspeak.svg
+¦   ¦   ¦   ¦       telegram.svg
+¦   ¦   ¦   ¦       tencent-weibo.svg
+¦   ¦   ¦   ¦       the-red-yeti.svg
+¦   ¦   ¦   ¦       themeco.svg
+¦   ¦   ¦   ¦       themeisle.svg
+¦   ¦   ¦   ¦       think-peaks.svg
+¦   ¦   ¦   ¦       tiktok.svg
+¦   ¦   ¦   ¦       trade-federation.svg
+¦   ¦   ¦   ¦       trello.svg
+¦   ¦   ¦   ¦       tumblr.svg
+¦   ¦   ¦   ¦       twitch.svg
+¦   ¦   ¦   ¦       twitter.svg
+¦   ¦   ¦   ¦       typo3.svg
+¦   ¦   ¦   ¦       uber.svg
+¦   ¦   ¦   ¦       ubuntu.svg
+¦   ¦   ¦   ¦       uikit.svg
+¦   ¦   ¦   ¦       umbraco.svg
+¦   ¦   ¦   ¦       uncharted.svg
+¦   ¦   ¦   ¦       uniregistry.svg
+¦   ¦   ¦   ¦       unity.svg
+¦   ¦   ¦   ¦       unsplash.svg
+¦   ¦   ¦   ¦       untappd.svg
+¦   ¦   ¦   ¦       ups.svg
+¦   ¦   ¦   ¦       usb.svg
+¦   ¦   ¦   ¦       usps.svg
+¦   ¦   ¦   ¦       ussunnah.svg
+¦   ¦   ¦   ¦       vaadin.svg
+¦   ¦   ¦   ¦       viacoin.svg
+¦   ¦   ¦   ¦       viadeo.svg
+¦   ¦   ¦   ¦       viber.svg
+¦   ¦   ¦   ¦       vimeo-v.svg
+¦   ¦   ¦   ¦       vimeo.svg
+¦   ¦   ¦   ¦       vine.svg
+¦   ¦   ¦   ¦       vk.svg
+¦   ¦   ¦   ¦       vnv.svg
+¦   ¦   ¦   ¦       vuejs.svg
+¦   ¦   ¦   ¦       watchman-monitoring.svg
+¦   ¦   ¦   ¦       waze.svg
+¦   ¦   ¦   ¦       weebly.svg
+¦   ¦   ¦   ¦       weibo.svg
+¦   ¦   ¦   ¦       weixin.svg
+¦   ¦   ¦   ¦       whatsapp.svg
+¦   ¦   ¦   ¦       whmcs.svg
+¦   ¦   ¦   ¦       wikipedia-w.svg
+¦   ¦   ¦   ¦       windows.svg
+¦   ¦   ¦   ¦       wirsindhandwerk.svg
+¦   ¦   ¦   ¦       wix.svg
+¦   ¦   ¦   ¦       wizards-of-the-coast.svg
+¦   ¦   ¦   ¦       wodu.svg
+¦   ¦   ¦   ¦       wolf-pack-battalion.svg
+¦   ¦   ¦   ¦       wordpress-simple.svg
+¦   ¦   ¦   ¦       wordpress.svg
+¦   ¦   ¦   ¦       wpbeginner.svg
+¦   ¦   ¦   ¦       wpexplorer.svg
+¦   ¦   ¦   ¦       wpforms.svg
+¦   ¦   ¦   ¦       wpressr.svg
+¦   ¦   ¦   ¦       xbox.svg
+¦   ¦   ¦   ¦       xing.svg
+¦   ¦   ¦   ¦       y-combinator.svg
+¦   ¦   ¦   ¦       yahoo.svg
+¦   ¦   ¦   ¦       yammer.svg
+¦   ¦   ¦   ¦       yandex-international.svg
+¦   ¦   ¦   ¦       yandex.svg
+¦   ¦   ¦   ¦       yarn.svg
+¦   ¦   ¦   ¦       yelp.svg
+¦   ¦   ¦   ¦       yoast.svg
+¦   ¦   ¦   ¦       youtube.svg
+¦   ¦   ¦   ¦       zhihu.svg
+¦   ¦   ¦   ¦       
+¦   ¦   ¦   +---regular
+¦   ¦   ¦   ¦       address-book.svg
+¦   ¦   ¦   ¦       address-card.svg
+¦   ¦   ¦   ¦       bell-slash.svg
+¦   ¦   ¦   ¦       bell.svg
+¦   ¦   ¦   ¦       bookmark.svg
+¦   ¦   ¦   ¦       building.svg
+¦   ¦   ¦   ¦       calendar-check.svg
+¦   ¦   ¦   ¦       calendar-days.svg
+¦   ¦   ¦   ¦       calendar-minus.svg
+¦   ¦   ¦   ¦       calendar-plus.svg
+¦   ¦   ¦   ¦       calendar-xmark.svg
+¦   ¦   ¦   ¦       calendar.svg
+¦   ¦   ¦   ¦       chart-bar.svg
+¦   ¦   ¦   ¦       chess-bishop.svg
+¦   ¦   ¦   ¦       chess-king.svg
+¦   ¦   ¦   ¦       chess-knight.svg
+¦   ¦   ¦   ¦       chess-pawn.svg
+¦   ¦   ¦   ¦       chess-queen.svg
+¦   ¦   ¦   ¦       chess-rook.svg
+¦   ¦   ¦   ¦       circle-check.svg
+¦   ¦   ¦   ¦       circle-dot.svg
+¦   ¦   ¦   ¦       circle-down.svg
+¦   ¦   ¦   ¦       circle-left.svg
+¦   ¦   ¦   ¦       circle-pause.svg
+¦   ¦   ¦   ¦       circle-play.svg
+¦   ¦   ¦   ¦       circle-question.svg
+¦   ¦   ¦   ¦       circle-right.svg
+¦   ¦   ¦   ¦       circle-stop.svg
+¦   ¦   ¦   ¦       circle-up.svg
+¦   ¦   ¦   ¦       circle-user.svg
+¦   ¦   ¦   ¦       circle-xmark.svg
+¦   ¦   ¦   ¦       circle.svg
+¦   ¦   ¦   ¦       clipboard.svg
+¦   ¦   ¦   ¦       clock.svg
+¦   ¦   ¦   ¦       clone.svg
+¦   ¦   ¦   ¦       closed-captioning.svg
+¦   ¦   ¦   ¦       comment-dots.svg
+¦   ¦   ¦   ¦       comment.svg
+¦   ¦   ¦   ¦       comments.svg
+¦   ¦   ¦   ¦       compass.svg
+¦   ¦   ¦   ¦       copy.svg
+¦   ¦   ¦   ¦       copyright.svg
+¦   ¦   ¦   ¦       credit-card.svg
+¦   ¦   ¦   ¦       envelope-open.svg
+¦   ¦   ¦   ¦       envelope.svg
+¦   ¦   ¦   ¦       eye-slash.svg
+¦   ¦   ¦   ¦       eye.svg
+¦   ¦   ¦   ¦       face-angry.svg
+¦   ¦   ¦   ¦       face-dizzy.svg
+¦   ¦   ¦   ¦       face-flushed.svg
+¦   ¦   ¦   ¦       face-frown-open.svg
+¦   ¦   ¦   ¦       face-frown.svg
+¦   ¦   ¦   ¦       face-grimace.svg
+¦   ¦   ¦   ¦       face-grin-beam-sweat.svg
+¦   ¦   ¦   ¦       face-grin-beam.svg
+¦   ¦   ¦   ¦       face-grin-hearts.svg
+¦   ¦   ¦   ¦       face-grin-squint-tears.svg
+¦   ¦   ¦   ¦       face-grin-squint.svg
+¦   ¦   ¦   ¦       face-grin-stars.svg
+¦   ¦   ¦   ¦       face-grin-tears.svg
+¦   ¦   ¦   ¦       face-grin-tongue-squint.svg
+¦   ¦   ¦   ¦       face-grin-tongue-wink.svg
+¦   ¦   ¦   ¦       face-grin-tongue.svg
+¦   ¦   ¦   ¦       face-grin-wide.svg
+¦   ¦   ¦   ¦       face-grin-wink.svg
+¦   ¦   ¦   ¦       face-grin.svg
+¦   ¦   ¦   ¦       face-kiss-beam.svg
+¦   ¦   ¦   ¦       face-kiss-wink-heart.svg
+¦   ¦   ¦   ¦       face-kiss.svg
+¦   ¦   ¦   ¦       face-laugh-beam.svg
+¦   ¦   ¦   ¦       face-laugh-squint.svg
+¦   ¦   ¦   ¦       face-laugh-wink.svg
+¦   ¦   ¦   ¦       face-laugh.svg
+¦   ¦   ¦   ¦       face-meh-blank.svg
+¦   ¦   ¦   ¦       face-meh.svg
+¦   ¦   ¦   ¦       face-rolling-eyes.svg
+¦   ¦   ¦   ¦       face-sad-cry.svg
+¦   ¦   ¦   ¦       face-sad-tear.svg
+¦   ¦   ¦   ¦       face-smile-beam.svg
+¦   ¦   ¦   ¦       face-smile-wink.svg
+¦   ¦   ¦   ¦       face-smile.svg
+¦   ¦   ¦   ¦       face-surprise.svg
+¦   ¦   ¦   ¦       face-tired.svg
+¦   ¦   ¦   ¦       file-audio.svg
+¦   ¦   ¦   ¦       file-code.svg
+¦   ¦   ¦   ¦       file-excel.svg
+¦   ¦   ¦   ¦       file-image.svg
+¦   ¦   ¦   ¦       file-lines.svg
+¦   ¦   ¦   ¦       file-pdf.svg
+¦   ¦   ¦   ¦       file-powerpoint.svg
+¦   ¦   ¦   ¦       file-video.svg
+¦   ¦   ¦   ¦       file-word.svg
+¦   ¦   ¦   ¦       file-zipper.svg
+¦   ¦   ¦   ¦       file.svg
+¦   ¦   ¦   ¦       flag.svg
+¦   ¦   ¦   ¦       floppy-disk.svg
+¦   ¦   ¦   ¦       folder-closed.svg
+¦   ¦   ¦   ¦       folder-open.svg
+¦   ¦   ¦   ¦       folder.svg
+¦   ¦   ¦   ¦       font-awesome.svg
+¦   ¦   ¦   ¦       futbol.svg
+¦   ¦   ¦   ¦       gem.svg
+¦   ¦   ¦   ¦       hand-back-fist.svg
+¦   ¦   ¦   ¦       hand-lizard.svg
+¦   ¦   ¦   ¦       hand-peace.svg
+¦   ¦   ¦   ¦       hand-point-down.svg
+¦   ¦   ¦   ¦       hand-point-left.svg
+¦   ¦   ¦   ¦       hand-point-right.svg
+¦   ¦   ¦   ¦       hand-point-up.svg
+¦   ¦   ¦   ¦       hand-pointer.svg
+¦   ¦   ¦   ¦       hand-scissors.svg
+¦   ¦   ¦   ¦       hand-spock.svg
+¦   ¦   ¦   ¦       hand.svg
+¦   ¦   ¦   ¦       handshake.svg
+¦   ¦   ¦   ¦       hard-drive.svg
+¦   ¦   ¦   ¦       heart.svg
+¦   ¦   ¦   ¦       hospital.svg
+¦   ¦   ¦   ¦       hourglass-half.svg
+¦   ¦   ¦   ¦       hourglass.svg
+¦   ¦   ¦   ¦       id-badge.svg
+¦   ¦   ¦   ¦       id-card.svg
+¦   ¦   ¦   ¦       image.svg
+¦   ¦   ¦   ¦       images.svg
+¦   ¦   ¦   ¦       keyboard.svg
+¦   ¦   ¦   ¦       lemon.svg
+¦   ¦   ¦   ¦       life-ring.svg
+¦   ¦   ¦   ¦       lightbulb.svg
+¦   ¦   ¦   ¦       map.svg
+¦   ¦   ¦   ¦       message.svg
+¦   ¦   ¦   ¦       money-bill-1.svg
+¦   ¦   ¦   ¦       moon.svg
+¦   ¦   ¦   ¦       newspaper.svg
+¦   ¦   ¦   ¦       notdef.svg
+¦   ¦   ¦   ¦       note-sticky.svg
+¦   ¦   ¦   ¦       object-group.svg
+¦   ¦   ¦   ¦       object-ungroup.svg
+¦   ¦   ¦   ¦       paper-plane.svg
+¦   ¦   ¦   ¦       paste.svg
+¦   ¦   ¦   ¦       pen-to-square.svg
+¦   ¦   ¦   ¦       rectangle-list.svg
+¦   ¦   ¦   ¦       rectangle-xmark.svg
+¦   ¦   ¦   ¦       registered.svg
+¦   ¦   ¦   ¦       share-from-square.svg
+¦   ¦   ¦   ¦       snowflake.svg
+¦   ¦   ¦   ¦       square-caret-down.svg
+¦   ¦   ¦   ¦       square-caret-left.svg
+¦   ¦   ¦   ¦       square-caret-right.svg
+¦   ¦   ¦   ¦       square-caret-up.svg
+¦   ¦   ¦   ¦       square-check.svg
+¦   ¦   ¦   ¦       square-full.svg
+¦   ¦   ¦   ¦       square-minus.svg
+¦   ¦   ¦   ¦       square-plus.svg
+¦   ¦   ¦   ¦       square.svg
+¦   ¦   ¦   ¦       star-half-stroke.svg
+¦   ¦   ¦   ¦       star-half.svg
+¦   ¦   ¦   ¦       star.svg
+¦   ¦   ¦   ¦       sun.svg
+¦   ¦   ¦   ¦       thumbs-down.svg
+¦   ¦   ¦   ¦       thumbs-up.svg
+¦   ¦   ¦   ¦       trash-can.svg
+¦   ¦   ¦   ¦       user.svg
+¦   ¦   ¦   ¦       window-maximize.svg
+¦   ¦   ¦   ¦       window-minimize.svg
+¦   ¦   ¦   ¦       window-restore.svg
+¦   ¦   ¦   ¦       
+¦   ¦   ¦   +---solid
+¦   ¦   ¦           0.svg
+¦   ¦   ¦           1.svg
+¦   ¦   ¦           2.svg
+¦   ¦   ¦           3.svg
+¦   ¦   ¦           4.svg
+¦   ¦   ¦           5.svg
+¦   ¦   ¦           6.svg
+¦   ¦   ¦           7.svg
+¦   ¦   ¦           8.svg
+¦   ¦   ¦           9.svg
+¦   ¦   ¦           a.svg
+¦   ¦   ¦           address-book.svg
+¦   ¦   ¦           address-card.svg
+¦   ¦   ¦           align-center.svg
+¦   ¦   ¦           align-justify.svg
+¦   ¦   ¦           align-left.svg
+¦   ¦   ¦           align-right.svg
+¦   ¦   ¦           anchor-circle-check.svg
+¦   ¦   ¦           anchor-circle-exclamation.svg
+¦   ¦   ¦           anchor-circle-xmark.svg
+¦   ¦   ¦           anchor-lock.svg
+¦   ¦   ¦           anchor.svg
+¦   ¦   ¦           angle-down.svg
+¦   ¦   ¦           angle-left.svg
+¦   ¦   ¦           angle-right.svg
+¦   ¦   ¦           angle-up.svg
+¦   ¦   ¦           angles-down.svg
+¦   ¦   ¦           angles-left.svg
+¦   ¦   ¦           angles-right.svg
+¦   ¦   ¦           angles-up.svg
+¦   ¦   ¦           ankh.svg
+¦   ¦   ¦           apple-whole.svg
+¦   ¦   ¦           archway.svg
+¦   ¦   ¦           arrow-down-1-9.svg
+¦   ¦   ¦           arrow-down-9-1.svg
+¦   ¦   ¦           arrow-down-a-z.svg
+¦   ¦   ¦           arrow-down-long.svg
+¦   ¦   ¦           arrow-down-short-wide.svg
+¦   ¦   ¦           arrow-down-up-across-line.svg
+¦   ¦   ¦           arrow-down-up-lock.svg
+¦   ¦   ¦           arrow-down-wide-short.svg
+¦   ¦   ¦           arrow-down-z-a.svg
+¦   ¦   ¦           arrow-down.svg
+¦   ¦   ¦           arrow-left-long.svg
+¦   ¦   ¦           arrow-left.svg
+¦   ¦   ¦           arrow-pointer.svg
+¦   ¦   ¦           arrow-right-arrow-left.svg
+¦   ¦   ¦           arrow-right-from-bracket.svg
+¦   ¦   ¦           arrow-right-long.svg
+¦   ¦   ¦           arrow-right-to-bracket.svg
+¦   ¦   ¦           arrow-right-to-city.svg
+¦   ¦   ¦           arrow-right.svg
+¦   ¦   ¦           arrow-rotate-left.svg
+¦   ¦   ¦           arrow-rotate-right.svg
+¦   ¦   ¦           arrow-trend-down.svg
+¦   ¦   ¦           arrow-trend-up.svg
+¦   ¦   ¦           arrow-turn-down.svg
+¦   ¦   ¦           arrow-turn-up.svg
+¦   ¦   ¦           arrow-up-1-9.svg
+¦   ¦   ¦           arrow-up-9-1.svg
+¦   ¦   ¦           arrow-up-a-z.svg
+¦   ¦   ¦           arrow-up-from-bracket.svg
+¦   ¦   ¦           arrow-up-from-ground-water.svg
+¦   ¦   ¦           arrow-up-from-water-pump.svg
+¦   ¦   ¦           arrow-up-long.svg
+¦   ¦   ¦           arrow-up-right-dots.svg
+¦   ¦   ¦           arrow-up-right-from-square.svg
+¦   ¦   ¦           arrow-up-short-wide.svg
+¦   ¦   ¦           arrow-up-wide-short.svg
+¦   ¦   ¦           arrow-up-z-a.svg
+¦   ¦   ¦           arrow-up.svg
+¦   ¦   ¦           arrows-down-to-line.svg
+¦   ¦   ¦           arrows-down-to-people.svg
+¦   ¦   ¦           arrows-left-right-to-line.svg
+¦   ¦   ¦           arrows-left-right.svg
+¦   ¦   ¦           arrows-rotate.svg
+¦   ¦   ¦           arrows-spin.svg
+¦   ¦   ¦           arrows-split-up-and-left.svg
+¦   ¦   ¦           arrows-to-circle.svg
+¦   ¦   ¦           arrows-to-dot.svg
+¦   ¦   ¦           arrows-to-eye.svg
+¦   ¦   ¦           arrows-turn-right.svg
+¦   ¦   ¦           arrows-turn-to-dots.svg
+¦   ¦   ¦           arrows-up-down-left-right.svg
+¦   ¦   ¦           arrows-up-down.svg
+¦   ¦   ¦           arrows-up-to-line.svg
+¦   ¦   ¦           asterisk.svg
+¦   ¦   ¦           at.svg
+¦   ¦   ¦           atom.svg
+¦   ¦   ¦           audio-description.svg
+¦   ¦   ¦           austral-sign.svg
+¦   ¦   ¦           award.svg
+¦   ¦   ¦           b.svg
+¦   ¦   ¦           baby-carriage.svg
+¦   ¦   ¦           baby.svg
+¦   ¦   ¦           backward-fast.svg
+¦   ¦   ¦           backward-step.svg
+¦   ¦   ¦           backward.svg
+¦   ¦   ¦           bacon.svg
+¦   ¦   ¦           bacteria.svg
+¦   ¦   ¦           bacterium.svg
+¦   ¦   ¦           bag-shopping.svg
+¦   ¦   ¦           bahai.svg
+¦   ¦   ¦           baht-sign.svg
+¦   ¦   ¦           ban-smoking.svg
+¦   ¦   ¦           ban.svg
+¦   ¦   ¦           bandage.svg
+¦   ¦   ¦           barcode.svg
+¦   ¦   ¦           bars-progress.svg
+¦   ¦   ¦           bars-staggered.svg
+¦   ¦   ¦           bars.svg
+¦   ¦   ¦           baseball-bat-ball.svg
+¦   ¦   ¦           baseball.svg
+¦   ¦   ¦           basket-shopping.svg
+¦   ¦   ¦           basketball.svg
+¦   ¦   ¦           bath.svg
+¦   ¦   ¦           battery-empty.svg
+¦   ¦   ¦           battery-full.svg
+¦   ¦   ¦           battery-half.svg
+¦   ¦   ¦           battery-quarter.svg
+¦   ¦   ¦           battery-three-quarters.svg
+¦   ¦   ¦           bed-pulse.svg
+¦   ¦   ¦           bed.svg
+¦   ¦   ¦           beer-mug-empty.svg
+¦   ¦   ¦           bell-concierge.svg
+¦   ¦   ¦           bell-slash.svg
+¦   ¦   ¦           bell.svg
+¦   ¦   ¦           bezier-curve.svg
+¦   ¦   ¦           bicycle.svg
+¦   ¦   ¦           binoculars.svg
+¦   ¦   ¦           biohazard.svg
+¦   ¦   ¦           bitcoin-sign.svg
+¦   ¦   ¦           blender-phone.svg
+¦   ¦   ¦           blender.svg
+¦   ¦   ¦           blog.svg
+¦   ¦   ¦           bold.svg
+¦   ¦   ¦           bolt-lightning.svg
+¦   ¦   ¦           bolt.svg
+¦   ¦   ¦           bomb.svg
+¦   ¦   ¦           bone.svg
+¦   ¦   ¦           bong.svg
+¦   ¦   ¦           book-atlas.svg
+¦   ¦   ¦           book-bible.svg
+¦   ¦   ¦           book-bookmark.svg
+¦   ¦   ¦           book-journal-whills.svg
+¦   ¦   ¦           book-medical.svg
+¦   ¦   ¦           book-open-reader.svg
+¦   ¦   ¦           book-open.svg
+¦   ¦   ¦           book-quran.svg
+¦   ¦   ¦           book-skull.svg
+¦   ¦   ¦           book-tanakh.svg
+¦   ¦   ¦           book.svg
+¦   ¦   ¦           bookmark.svg
+¦   ¦   ¦           border-all.svg
+¦   ¦   ¦           border-none.svg
+¦   ¦   ¦           border-top-left.svg
+¦   ¦   ¦           bore-hole.svg
+¦   ¦   ¦           bottle-droplet.svg
+¦   ¦   ¦           bottle-water.svg
+¦   ¦   ¦           bowl-food.svg
+¦   ¦   ¦           bowl-rice.svg
+¦   ¦   ¦           bowling-ball.svg
+¦   ¦   ¦           box-archive.svg
+¦   ¦   ¦           box-open.svg
+¦   ¦   ¦           box-tissue.svg
+¦   ¦   ¦           box.svg
+¦   ¦   ¦           boxes-packing.svg
+¦   ¦   ¦           boxes-stacked.svg
+¦   ¦   ¦           braille.svg
+¦   ¦   ¦           brain.svg
+¦   ¦   ¦           brazilian-real-sign.svg
+¦   ¦   ¦           bread-slice.svg
+¦   ¦   ¦           bridge-circle-check.svg
+¦   ¦   ¦           bridge-circle-exclamation.svg
+¦   ¦   ¦           bridge-circle-xmark.svg
+¦   ¦   ¦           bridge-lock.svg
+¦   ¦   ¦           bridge-water.svg
+¦   ¦   ¦           bridge.svg
+¦   ¦   ¦           briefcase-medical.svg
+¦   ¦   ¦           briefcase.svg
+¦   ¦   ¦           broom-ball.svg
+¦   ¦   ¦           broom.svg
+¦   ¦   ¦           brush.svg
+¦   ¦   ¦           bucket.svg
+¦   ¦   ¦           bug-slash.svg
+¦   ¦   ¦           bug.svg
+¦   ¦   ¦           bugs.svg
+¦   ¦   ¦           building-circle-arrow-right.svg
+¦   ¦   ¦           building-circle-check.svg
+¦   ¦   ¦           building-circle-exclamation.svg
+¦   ¦   ¦           building-circle-xmark.svg
+¦   ¦   ¦           building-columns.svg
+¦   ¦   ¦           building-flag.svg
+¦   ¦   ¦           building-lock.svg
+¦   ¦   ¦           building-ngo.svg
+¦   ¦   ¦           building-shield.svg
+¦   ¦   ¦           building-un.svg
+¦   ¦   ¦           building-user.svg
+¦   ¦   ¦           building-wheat.svg
+¦   ¦   ¦           building.svg
+¦   ¦   ¦           bullhorn.svg
+¦   ¦   ¦           bullseye.svg
+¦   ¦   ¦           burger.svg
+¦   ¦   ¦           burst.svg
+¦   ¦   ¦           bus-simple.svg
+¦   ¦   ¦           bus.svg
+¦   ¦   ¦           business-time.svg
+¦   ¦   ¦           c.svg
+¦   ¦   ¦           cable-car.svg
+¦   ¦   ¦           cake-candles.svg
+¦   ¦   ¦           calculator.svg
+¦   ¦   ¦           calendar-check.svg
+¦   ¦   ¦           calendar-day.svg
+¦   ¦   ¦           calendar-days.svg
+¦   ¦   ¦           calendar-minus.svg
+¦   ¦   ¦           calendar-plus.svg
+¦   ¦   ¦           calendar-week.svg
+¦   ¦   ¦           calendar-xmark.svg
+¦   ¦   ¦           calendar.svg
+¦   ¦   ¦           camera-retro.svg
+¦   ¦   ¦           camera-rotate.svg
+¦   ¦   ¦           camera.svg
+¦   ¦   ¦           campground.svg
+¦   ¦   ¦           candy-cane.svg
+¦   ¦   ¦           cannabis.svg
+¦   ¦   ¦           capsules.svg
+¦   ¦   ¦           car-battery.svg
+¦   ¦   ¦           car-burst.svg
+¦   ¦   ¦           car-on.svg
+¦   ¦   ¦           car-rear.svg
+¦   ¦   ¦           car-side.svg
+¦   ¦   ¦           car-tunnel.svg
+¦   ¦   ¦           car.svg
+¦   ¦   ¦           caravan.svg
+¦   ¦   ¦           caret-down.svg
+¦   ¦   ¦           caret-left.svg
+¦   ¦   ¦           caret-right.svg
+¦   ¦   ¦           caret-up.svg
+¦   ¦   ¦           carrot.svg
+¦   ¦   ¦           cart-arrow-down.svg
+¦   ¦   ¦           cart-flatbed-suitcase.svg
+¦   ¦   ¦           cart-flatbed.svg
+¦   ¦   ¦           cart-plus.svg
+¦   ¦   ¦           cart-shopping.svg
+¦   ¦   ¦           cash-register.svg
+¦   ¦   ¦           cat.svg
+¦   ¦   ¦           cedi-sign.svg
+¦   ¦   ¦           cent-sign.svg
+¦   ¦   ¦           certificate.svg
+¦   ¦   ¦           chair.svg
+¦   ¦   ¦           chalkboard-user.svg
+¦   ¦   ¦           chalkboard.svg
+¦   ¦   ¦           champagne-glasses.svg
+¦   ¦   ¦           charging-station.svg
+¦   ¦   ¦           chart-area.svg
+¦   ¦   ¦           chart-bar.svg
+¦   ¦   ¦           chart-column.svg
+¦   ¦   ¦           chart-gantt.svg
+¦   ¦   ¦           chart-line.svg
+¦   ¦   ¦           chart-pie.svg
+¦   ¦   ¦           chart-simple.svg
+¦   ¦   ¦           check-double.svg
+¦   ¦   ¦           check-to-slot.svg
+¦   ¦   ¦           check.svg
+¦   ¦   ¦           cheese.svg
+¦   ¦   ¦           chess-bishop.svg
+¦   ¦   ¦           chess-board.svg
+¦   ¦   ¦           chess-king.svg
+¦   ¦   ¦           chess-knight.svg
+¦   ¦   ¦           chess-pawn.svg
+¦   ¦   ¦           chess-queen.svg
+¦   ¦   ¦           chess-rook.svg
+¦   ¦   ¦           chess.svg
+¦   ¦   ¦           chevron-down.svg
+¦   ¦   ¦           chevron-left.svg
+¦   ¦   ¦           chevron-right.svg
+¦   ¦   ¦           chevron-up.svg
+¦   ¦   ¦           child-dress.svg
+¦   ¦   ¦           child-reaching.svg
+¦   ¦   ¦           child-rifle.svg
+¦   ¦   ¦           child.svg
+¦   ¦   ¦           children.svg
+¦   ¦   ¦           church.svg
+¦   ¦   ¦           circle-arrow-down.svg
+¦   ¦   ¦           circle-arrow-left.svg
+¦   ¦   ¦           circle-arrow-right.svg
+¦   ¦   ¦           circle-arrow-up.svg
+¦   ¦   ¦           circle-check.svg
+¦   ¦   ¦           circle-chevron-down.svg
+¦   ¦   ¦           circle-chevron-left.svg
+¦   ¦   ¦           circle-chevron-right.svg
+¦   ¦   ¦           circle-chevron-up.svg
+¦   ¦   ¦           circle-dollar-to-slot.svg
+¦   ¦   ¦           circle-dot.svg
+¦   ¦   ¦           circle-down.svg
+¦   ¦   ¦           circle-exclamation.svg
+¦   ¦   ¦           circle-h.svg
+¦   ¦   ¦           circle-half-stroke.svg
+¦   ¦   ¦           circle-info.svg
+¦   ¦   ¦           circle-left.svg
+¦   ¦   ¦           circle-minus.svg
+¦   ¦   ¦           circle-nodes.svg
+¦   ¦   ¦           circle-notch.svg
+¦   ¦   ¦           circle-pause.svg
+¦   ¦   ¦           circle-play.svg
+¦   ¦   ¦           circle-plus.svg
+¦   ¦   ¦           circle-question.svg
+¦   ¦   ¦           circle-radiation.svg
+¦   ¦   ¦           circle-right.svg
+¦   ¦   ¦           circle-stop.svg
+¦   ¦   ¦           circle-up.svg
+¦   ¦   ¦           circle-user.svg
+¦   ¦   ¦           circle-xmark.svg
+¦   ¦   ¦           circle.svg
+¦   ¦   ¦           city.svg
+¦   ¦   ¦           clapperboard.svg
+¦   ¦   ¦           clipboard-check.svg
+¦   ¦   ¦           clipboard-list.svg
+¦   ¦   ¦           clipboard-question.svg
+¦   ¦   ¦           clipboard-user.svg
+¦   ¦   ¦           clipboard.svg
+¦   ¦   ¦           clock-rotate-left.svg
+¦   ¦   ¦           clock.svg
+¦   ¦   ¦           clone.svg
+¦   ¦   ¦           closed-captioning.svg
+¦   ¦   ¦           cloud-arrow-down.svg
+¦   ¦   ¦           cloud-arrow-up.svg
+¦   ¦   ¦           cloud-bolt.svg
+¦   ¦   ¦           cloud-meatball.svg
+¦   ¦   ¦           cloud-moon-rain.svg
+¦   ¦   ¦           cloud-moon.svg
+¦   ¦   ¦           cloud-rain.svg
+¦   ¦   ¦           cloud-showers-heavy.svg
+¦   ¦   ¦           cloud-showers-water.svg
+¦   ¦   ¦           cloud-sun-rain.svg
+¦   ¦   ¦           cloud-sun.svg
+¦   ¦   ¦           cloud.svg
+¦   ¦   ¦           clover.svg
+¦   ¦   ¦           code-branch.svg
+¦   ¦   ¦           code-commit.svg
+¦   ¦   ¦           code-compare.svg
+¦   ¦   ¦           code-fork.svg
+¦   ¦   ¦           code-merge.svg
+¦   ¦   ¦           code-pull-request.svg
+¦   ¦   ¦           code.svg
+¦   ¦   ¦           coins.svg
+¦   ¦   ¦           colon-sign.svg
+¦   ¦   ¦           comment-dollar.svg
+¦   ¦   ¦           comment-dots.svg
+¦   ¦   ¦           comment-medical.svg
+¦   ¦   ¦           comment-slash.svg
+¦   ¦   ¦           comment-sms.svg
+¦   ¦   ¦           comment.svg
+¦   ¦   ¦           comments-dollar.svg
+¦   ¦   ¦           comments.svg
+¦   ¦   ¦           compact-disc.svg
+¦   ¦   ¦           compass-drafting.svg
+¦   ¦   ¦           compass.svg
+¦   ¦   ¦           compress.svg
+¦   ¦   ¦           computer-mouse.svg
+¦   ¦   ¦           computer.svg
+¦   ¦   ¦           cookie-bite.svg
+¦   ¦   ¦           cookie.svg
+¦   ¦   ¦           copy.svg
+¦   ¦   ¦           copyright.svg
+¦   ¦   ¦           couch.svg
+¦   ¦   ¦           cow.svg
+¦   ¦   ¦           credit-card.svg
+¦   ¦   ¦           crop-simple.svg
+¦   ¦   ¦           crop.svg
+¦   ¦   ¦           cross.svg
+¦   ¦   ¦           crosshairs.svg
+¦   ¦   ¦           crow.svg
+¦   ¦   ¦           crown.svg
+¦   ¦   ¦           crutch.svg
+¦   ¦   ¦           cruzeiro-sign.svg
+¦   ¦   ¦           cube.svg
+¦   ¦   ¦           cubes-stacked.svg
+¦   ¦   ¦           cubes.svg
+¦   ¦   ¦           d.svg
+¦   ¦   ¦           database.svg
+¦   ¦   ¦           delete-left.svg
+¦   ¦   ¦           democrat.svg
+¦   ¦   ¦           desktop.svg
+¦   ¦   ¦           dharmachakra.svg
+¦   ¦   ¦           diagram-next.svg
+¦   ¦   ¦           diagram-predecessor.svg
+¦   ¦   ¦           diagram-project.svg
+¦   ¦   ¦           diagram-successor.svg
+¦   ¦   ¦           diamond-turn-right.svg
+¦   ¦   ¦           diamond.svg
+¦   ¦   ¦           dice-d20.svg
+¦   ¦   ¦           dice-d6.svg
+¦   ¦   ¦           dice-five.svg
+¦   ¦   ¦           dice-four.svg
+¦   ¦   ¦           dice-one.svg
+¦   ¦   ¦           dice-six.svg
+¦   ¦   ¦           dice-three.svg
+¦   ¦   ¦           dice-two.svg
+¦   ¦   ¦           dice.svg
+¦   ¦   ¦           disease.svg
+¦   ¦   ¦           display.svg
+¦   ¦   ¦           divide.svg
+¦   ¦   ¦           dna.svg
+¦   ¦   ¦           dog.svg
+¦   ¦   ¦           dollar-sign.svg
+¦   ¦   ¦           dolly.svg
+¦   ¦   ¦           dong-sign.svg
+¦   ¦   ¦           door-closed.svg
+¦   ¦   ¦           door-open.svg
+¦   ¦   ¦           dove.svg
+¦   ¦   ¦           down-left-and-up-right-to-center.svg
+¦   ¦   ¦           down-long.svg
+¦   ¦   ¦           download.svg
+¦   ¦   ¦           dragon.svg
+¦   ¦   ¦           draw-polygon.svg
+¦   ¦   ¦           droplet-slash.svg
+¦   ¦   ¦           droplet.svg
+¦   ¦   ¦           drum-steelpan.svg
+¦   ¦   ¦           drum.svg
+¦   ¦   ¦           drumstick-bite.svg
+¦   ¦   ¦           dumbbell.svg
+¦   ¦   ¦           dumpster-fire.svg
+¦   ¦   ¦           dumpster.svg
+¦   ¦   ¦           dungeon.svg
+¦   ¦   ¦           e.svg
+¦   ¦   ¦           ear-deaf.svg
+¦   ¦   ¦           ear-listen.svg
+¦   ¦   ¦           earth-africa.svg
+¦   ¦   ¦           earth-americas.svg
+¦   ¦   ¦           earth-asia.svg
+¦   ¦   ¦           earth-europe.svg
+¦   ¦   ¦           earth-oceania.svg
+¦   ¦   ¦           egg.svg
+¦   ¦   ¦           eject.svg
+¦   ¦   ¦           elevator.svg
+¦   ¦   ¦           ellipsis-vertical.svg
+¦   ¦   ¦           ellipsis.svg
+¦   ¦   ¦           envelope-circle-check.svg
+¦   ¦   ¦           envelope-open-text.svg
+¦   ¦   ¦           envelope-open.svg
+¦   ¦   ¦           envelope.svg
+¦   ¦   ¦           envelopes-bulk.svg
+¦   ¦   ¦           equals.svg
+¦   ¦   ¦           eraser.svg
+¦   ¦   ¦           ethernet.svg
+¦   ¦   ¦           euro-sign.svg
+¦   ¦   ¦           exclamation.svg
+¦   ¦   ¦           expand.svg
+¦   ¦   ¦           explosion.svg
+¦   ¦   ¦           eye-dropper.svg
+¦   ¦   ¦           eye-low-vision.svg
+¦   ¦   ¦           eye-slash.svg
+¦   ¦   ¦           eye.svg
+¦   ¦   ¦           f.svg
+¦   ¦   ¦           face-angry.svg
+¦   ¦   ¦           face-dizzy.svg
+¦   ¦   ¦           face-flushed.svg
+¦   ¦   ¦           face-frown-open.svg
+¦   ¦   ¦           face-frown.svg
+¦   ¦   ¦           face-grimace.svg
+¦   ¦   ¦           face-grin-beam-sweat.svg
+¦   ¦   ¦           face-grin-beam.svg
+¦   ¦   ¦           face-grin-hearts.svg
+¦   ¦   ¦           face-grin-squint-tears.svg
+¦   ¦   ¦           face-grin-squint.svg
+¦   ¦   ¦           face-grin-stars.svg
+¦   ¦   ¦           face-grin-tears.svg
+¦   ¦   ¦           face-grin-tongue-squint.svg
+¦   ¦   ¦           face-grin-tongue-wink.svg
+¦   ¦   ¦           face-grin-tongue.svg
+¦   ¦   ¦           face-grin-wide.svg
+¦   ¦   ¦           face-grin-wink.svg
+¦   ¦   ¦           face-grin.svg
+¦   ¦   ¦           face-kiss-beam.svg
+¦   ¦   ¦           face-kiss-wink-heart.svg
+¦   ¦   ¦           face-kiss.svg
+¦   ¦   ¦           face-laugh-beam.svg
+¦   ¦   ¦           face-laugh-squint.svg
+¦   ¦   ¦           face-laugh-wink.svg
+¦   ¦   ¦           face-laugh.svg
+¦   ¦   ¦           face-meh-blank.svg
+¦   ¦   ¦           face-meh.svg
+¦   ¦   ¦           face-rolling-eyes.svg
+¦   ¦   ¦           face-sad-cry.svg
+¦   ¦   ¦           face-sad-tear.svg
+¦   ¦   ¦           face-smile-beam.svg
+¦   ¦   ¦           face-smile-wink.svg
+¦   ¦   ¦           face-smile.svg
+¦   ¦   ¦           face-surprise.svg
+¦   ¦   ¦           face-tired.svg
+¦   ¦   ¦           fan.svg
+¦   ¦   ¦           faucet-drip.svg
+¦   ¦   ¦           faucet.svg
+¦   ¦   ¦           fax.svg
+¦   ¦   ¦           feather-pointed.svg
+¦   ¦   ¦           feather.svg
+¦   ¦   ¦           ferry.svg
+¦   ¦   ¦           file-arrow-down.svg
+¦   ¦   ¦           file-arrow-up.svg
+¦   ¦   ¦           file-audio.svg
+¦   ¦   ¦           file-circle-check.svg
+¦   ¦   ¦           file-circle-exclamation.svg
+¦   ¦   ¦           file-circle-minus.svg
+¦   ¦   ¦           file-circle-plus.svg
+¦   ¦   ¦           file-circle-question.svg
+¦   ¦   ¦           file-circle-xmark.svg
+¦   ¦   ¦           file-code.svg
+¦   ¦   ¦           file-contract.svg
+¦   ¦   ¦           file-csv.svg
+¦   ¦   ¦           file-excel.svg
+¦   ¦   ¦           file-export.svg
+¦   ¦   ¦           file-image.svg
+¦   ¦   ¦           file-import.svg
+¦   ¦   ¦           file-invoice-dollar.svg
+¦   ¦   ¦           file-invoice.svg
+¦   ¦   ¦           file-lines.svg
+¦   ¦   ¦           file-medical.svg
+¦   ¦   ¦           file-pdf.svg
+¦   ¦   ¦           file-pen.svg
+¦   ¦   ¦           file-powerpoint.svg
+¦   ¦   ¦           file-prescription.svg
+¦   ¦   ¦           file-shield.svg
+¦   ¦   ¦           file-signature.svg
+¦   ¦   ¦           file-video.svg
+¦   ¦   ¦           file-waveform.svg
+¦   ¦   ¦           file-word.svg
+¦   ¦   ¦           file-zipper.svg
+¦   ¦   ¦           file.svg
+¦   ¦   ¦           fill-drip.svg
+¦   ¦   ¦           fill.svg
+¦   ¦   ¦           film.svg
+¦   ¦   ¦           filter-circle-dollar.svg
+¦   ¦   ¦           filter-circle-xmark.svg
+¦   ¦   ¦           filter.svg
+¦   ¦   ¦           fingerprint.svg
+¦   ¦   ¦           fire-burner.svg
+¦   ¦   ¦           fire-extinguisher.svg
+¦   ¦   ¦           fire-flame-curved.svg
+¦   ¦   ¦           fire-flame-simple.svg
+¦   ¦   ¦           fire.svg
+¦   ¦   ¦           fish-fins.svg
+¦   ¦   ¦           fish.svg
+¦   ¦   ¦           flag-checkered.svg
+¦   ¦   ¦           flag-usa.svg
+¦   ¦   ¦           flag.svg
+¦   ¦   ¦           flask-vial.svg
+¦   ¦   ¦           flask.svg
+¦   ¦   ¦           floppy-disk.svg
+¦   ¦   ¦           florin-sign.svg
+¦   ¦   ¦           folder-closed.svg
+¦   ¦   ¦           folder-minus.svg
+¦   ¦   ¦           folder-open.svg
+¦   ¦   ¦           folder-plus.svg
+¦   ¦   ¦           folder-tree.svg
+¦   ¦   ¦           folder.svg
+¦   ¦   ¦           font-awesome.svg
+¦   ¦   ¦           font.svg
+¦   ¦   ¦           football.svg
+¦   ¦   ¦           forward-fast.svg
+¦   ¦   ¦           forward-step.svg
+¦   ¦   ¦           forward.svg
+¦   ¦   ¦           franc-sign.svg
+¦   ¦   ¦           frog.svg
+¦   ¦   ¦           futbol.svg
+¦   ¦   ¦           g.svg
+¦   ¦   ¦           gamepad.svg
+¦   ¦   ¦           gas-pump.svg
+¦   ¦   ¦           gauge-high.svg
+¦   ¦   ¦           gauge-simple-high.svg
+¦   ¦   ¦           gauge-simple.svg
+¦   ¦   ¦           gauge.svg
+¦   ¦   ¦           gavel.svg
+¦   ¦   ¦           gear.svg
+¦   ¦   ¦           gears.svg
+¦   ¦   ¦           gem.svg
+¦   ¦   ¦           genderless.svg
+¦   ¦   ¦           ghost.svg
+¦   ¦   ¦           gift.svg
+¦   ¦   ¦           gifts.svg
+¦   ¦   ¦           glass-water-droplet.svg
+¦   ¦   ¦           glass-water.svg
+¦   ¦   ¦           glasses.svg
+¦   ¦   ¦           globe.svg
+¦   ¦   ¦           golf-ball-tee.svg
+¦   ¦   ¦           gopuram.svg
+¦   ¦   ¦           graduation-cap.svg
+¦   ¦   ¦           greater-than-equal.svg
+¦   ¦   ¦           greater-than.svg
+¦   ¦   ¦           grip-lines-vertical.svg
+¦   ¦   ¦           grip-lines.svg
+¦   ¦   ¦           grip-vertical.svg
+¦   ¦   ¦           grip.svg
+¦   ¦   ¦           group-arrows-rotate.svg
+¦   ¦   ¦           guarani-sign.svg
+¦   ¦   ¦           guitar.svg
+¦   ¦   ¦           gun.svg
+¦   ¦   ¦           h.svg
+¦   ¦   ¦           hammer.svg
+¦   ¦   ¦           hamsa.svg
+¦   ¦   ¦           hand-back-fist.svg
+¦   ¦   ¦           hand-dots.svg
+¦   ¦   ¦           hand-fist.svg
+¦   ¦   ¦           hand-holding-dollar.svg
+¦   ¦   ¦           hand-holding-droplet.svg
+¦   ¦   ¦           hand-holding-hand.svg
+¦   ¦   ¦           hand-holding-heart.svg
+¦   ¦   ¦           hand-holding-medical.svg
+¦   ¦   ¦           hand-holding.svg
+¦   ¦   ¦           hand-lizard.svg
+¦   ¦   ¦           hand-middle-finger.svg
+¦   ¦   ¦           hand-peace.svg
+¦   ¦   ¦           hand-point-down.svg
+¦   ¦   ¦           hand-point-left.svg
+¦   ¦   ¦           hand-point-right.svg
+¦   ¦   ¦           hand-point-up.svg
+¦   ¦   ¦           hand-pointer.svg
+¦   ¦   ¦           hand-scissors.svg
+¦   ¦   ¦           hand-sparkles.svg
+¦   ¦   ¦           hand-spock.svg
+¦   ¦   ¦           hand.svg
+¦   ¦   ¦           handcuffs.svg
+¦   ¦   ¦           hands-asl-interpreting.svg
+¦   ¦   ¦           hands-bound.svg
+¦   ¦   ¦           hands-bubbles.svg
+¦   ¦   ¦           hands-clapping.svg
+¦   ¦   ¦           hands-holding-child.svg
+¦   ¦   ¦           hands-holding-circle.svg
+¦   ¦   ¦           hands-holding.svg
+¦   ¦   ¦           hands-praying.svg
+¦   ¦   ¦           hands.svg
+¦   ¦   ¦           handshake-angle.svg
+¦   ¦   ¦           handshake-simple-slash.svg
+¦   ¦   ¦           handshake-simple.svg
+¦   ¦   ¦           handshake-slash.svg
+¦   ¦   ¦           handshake.svg
+¦   ¦   ¦           hanukiah.svg
+¦   ¦   ¦           hard-drive.svg
+¦   ¦   ¦           hashtag.svg
+¦   ¦   ¦           hat-cowboy-side.svg
+¦   ¦   ¦           hat-cowboy.svg
+¦   ¦   ¦           hat-wizard.svg
+¦   ¦   ¦           head-side-cough-slash.svg
+¦   ¦   ¦           head-side-cough.svg
+¦   ¦   ¦           head-side-mask.svg
+¦   ¦   ¦           head-side-virus.svg
+¦   ¦   ¦           heading.svg
+¦   ¦   ¦           headphones-simple.svg
+¦   ¦   ¦           headphones.svg
+¦   ¦   ¦           headset.svg
+¦   ¦   ¦           heart-circle-bolt.svg
+¦   ¦   ¦           heart-circle-check.svg
+¦   ¦   ¦           heart-circle-exclamation.svg
+¦   ¦   ¦           heart-circle-minus.svg
+¦   ¦   ¦           heart-circle-plus.svg
+¦   ¦   ¦           heart-circle-xmark.svg
+¦   ¦   ¦           heart-crack.svg
+¦   ¦   ¦           heart-pulse.svg
+¦   ¦   ¦           heart.svg
+¦   ¦   ¦           helicopter-symbol.svg
+¦   ¦   ¦           helicopter.svg
+¦   ¦   ¦           helmet-safety.svg
+¦   ¦   ¦           helmet-un.svg
+¦   ¦   ¦           highlighter.svg
+¦   ¦   ¦           hill-avalanche.svg
+¦   ¦   ¦           hill-rockslide.svg
+¦   ¦   ¦           hippo.svg
+¦   ¦   ¦           hockey-puck.svg
+¦   ¦   ¦           holly-berry.svg
+¦   ¦   ¦           horse-head.svg
+¦   ¦   ¦           horse.svg
+¦   ¦   ¦           hospital-user.svg
+¦   ¦   ¦           hospital.svg
+¦   ¦   ¦           hot-tub-person.svg
+¦   ¦   ¦           hotdog.svg
+¦   ¦   ¦           hotel.svg
+¦   ¦   ¦           hourglass-end.svg
+¦   ¦   ¦           hourglass-half.svg
+¦   ¦   ¦           hourglass-start.svg
+¦   ¦   ¦           hourglass.svg
+¦   ¦   ¦           house-chimney-crack.svg
+¦   ¦   ¦           house-chimney-medical.svg
+¦   ¦   ¦           house-chimney-user.svg
+¦   ¦   ¦           house-chimney-window.svg
+¦   ¦   ¦           house-chimney.svg
+¦   ¦   ¦           house-circle-check.svg
+¦   ¦   ¦           house-circle-exclamation.svg
+¦   ¦   ¦           house-circle-xmark.svg
+¦   ¦   ¦           house-crack.svg
+¦   ¦   ¦           house-fire.svg
+¦   ¦   ¦           house-flag.svg
+¦   ¦   ¦           house-flood-water-circle-arrow-right.svg
+¦   ¦   ¦           house-flood-water.svg
+¦   ¦   ¦           house-laptop.svg
+¦   ¦   ¦           house-lock.svg
+¦   ¦   ¦           house-medical-circle-check.svg
+¦   ¦   ¦           house-medical-circle-exclamation.svg
+¦   ¦   ¦           house-medical-circle-xmark.svg
+¦   ¦   ¦           house-medical-flag.svg
+¦   ¦   ¦           house-medical.svg
+¦   ¦   ¦           house-signal.svg
+¦   ¦   ¦           house-tsunami.svg
+¦   ¦   ¦           house-user.svg
+¦   ¦   ¦           house.svg
+¦   ¦   ¦           hryvnia-sign.svg
+¦   ¦   ¦           hurricane.svg
+¦   ¦   ¦           i-cursor.svg
+¦   ¦   ¦           i.svg
+¦   ¦   ¦           ice-cream.svg
+¦   ¦   ¦           icicles.svg
+¦   ¦   ¦           icons.svg
+¦   ¦   ¦           id-badge.svg
+¦   ¦   ¦           id-card-clip.svg
+¦   ¦   ¦           id-card.svg
+¦   ¦   ¦           igloo.svg
+¦   ¦   ¦           image-portrait.svg
+¦   ¦   ¦           image.svg
+¦   ¦   ¦           images.svg
+¦   ¦   ¦           inbox.svg
+¦   ¦   ¦           indent.svg
+¦   ¦   ¦           indian-rupee-sign.svg
+¦   ¦   ¦           industry.svg
+¦   ¦   ¦           infinity.svg
+¦   ¦   ¦           info.svg
+¦   ¦   ¦           italic.svg
+¦   ¦   ¦           j.svg
+¦   ¦   ¦           jar-wheat.svg
+¦   ¦   ¦           jar.svg
+¦   ¦   ¦           jedi.svg
+¦   ¦   ¦           jet-fighter-up.svg
+¦   ¦   ¦           jet-fighter.svg
+¦   ¦   ¦           joint.svg
+¦   ¦   ¦           jug-detergent.svg
+¦   ¦   ¦           k.svg
+¦   ¦   ¦           kaaba.svg
+¦   ¦   ¦           key.svg
+¦   ¦   ¦           keyboard.svg
+¦   ¦   ¦           khanda.svg
+¦   ¦   ¦           kip-sign.svg
+¦   ¦   ¦           kit-medical.svg
+¦   ¦   ¦           kitchen-set.svg
+¦   ¦   ¦           kiwi-bird.svg
+¦   ¦   ¦           l.svg
+¦   ¦   ¦           land-mine-on.svg
+¦   ¦   ¦           landmark-dome.svg
+¦   ¦   ¦           landmark-flag.svg
+¦   ¦   ¦           landmark.svg
+¦   ¦   ¦           language.svg
+¦   ¦   ¦           laptop-code.svg
+¦   ¦   ¦           laptop-file.svg
+¦   ¦   ¦           laptop-medical.svg
+¦   ¦   ¦           laptop.svg
+¦   ¦   ¦           lari-sign.svg
+¦   ¦   ¦           layer-group.svg
+¦   ¦   ¦           leaf.svg
+¦   ¦   ¦           left-long.svg
+¦   ¦   ¦           left-right.svg
+¦   ¦   ¦           lemon.svg
+¦   ¦   ¦           less-than-equal.svg
+¦   ¦   ¦           less-than.svg
+¦   ¦   ¦           life-ring.svg
+¦   ¦   ¦           lightbulb.svg
+¦   ¦   ¦           lines-leaning.svg
+¦   ¦   ¦           link-slash.svg
+¦   ¦   ¦           link.svg
+¦   ¦   ¦           lira-sign.svg
+¦   ¦   ¦           list-check.svg
+¦   ¦   ¦           list-ol.svg
+¦   ¦   ¦           list-ul.svg
+¦   ¦   ¦           list.svg
+¦   ¦   ¦           litecoin-sign.svg
+¦   ¦   ¦           location-arrow.svg
+¦   ¦   ¦           location-crosshairs.svg
+¦   ¦   ¦           location-dot.svg
+¦   ¦   ¦           location-pin-lock.svg
+¦   ¦   ¦           location-pin.svg
+¦   ¦   ¦           lock-open.svg
+¦   ¦   ¦           lock.svg
+¦   ¦   ¦           locust.svg
+¦   ¦   ¦           lungs-virus.svg
+¦   ¦   ¦           lungs.svg
+¦   ¦   ¦           m.svg
+¦   ¦   ¦           magnet.svg
+¦   ¦   ¦           magnifying-glass-arrow-right.svg
+¦   ¦   ¦           magnifying-glass-chart.svg
+¦   ¦   ¦           magnifying-glass-dollar.svg
+¦   ¦   ¦           magnifying-glass-location.svg
+¦   ¦   ¦           magnifying-glass-minus.svg
+¦   ¦   ¦           magnifying-glass-plus.svg
+¦   ¦   ¦           magnifying-glass.svg
+¦   ¦   ¦           manat-sign.svg
+¦   ¦   ¦           map-location-dot.svg
+¦   ¦   ¦           map-location.svg
+¦   ¦   ¦           map-pin.svg
+¦   ¦   ¦           map.svg
+¦   ¦   ¦           marker.svg
+¦   ¦   ¦           mars-and-venus-burst.svg
+¦   ¦   ¦           mars-and-venus.svg
+¦   ¦   ¦           mars-double.svg
+¦   ¦   ¦           mars-stroke-right.svg
+¦   ¦   ¦           mars-stroke-up.svg
+¦   ¦   ¦           mars-stroke.svg
+¦   ¦   ¦           mars.svg
+¦   ¦   ¦           martini-glass-citrus.svg
+¦   ¦   ¦           martini-glass-empty.svg
+¦   ¦   ¦           martini-glass.svg
+¦   ¦   ¦           mask-face.svg
+¦   ¦   ¦           mask-ventilator.svg
+¦   ¦   ¦           mask.svg
+¦   ¦   ¦           masks-theater.svg
+¦   ¦   ¦           mattress-pillow.svg
+¦   ¦   ¦           maximize.svg
+¦   ¦   ¦           medal.svg
+¦   ¦   ¦           memory.svg
+¦   ¦   ¦           menorah.svg
+¦   ¦   ¦           mercury.svg
+¦   ¦   ¦           message.svg
+¦   ¦   ¦           meteor.svg
+¦   ¦   ¦           microchip.svg
+¦   ¦   ¦           microphone-lines-slash.svg
+¦   ¦   ¦           microphone-lines.svg
+¦   ¦   ¦           microphone-slash.svg
+¦   ¦   ¦           microphone.svg
+¦   ¦   ¦           microscope.svg
+¦   ¦   ¦           mill-sign.svg
+¦   ¦   ¦           minimize.svg
+¦   ¦   ¦           minus.svg
+¦   ¦   ¦           mitten.svg
+¦   ¦   ¦           mobile-button.svg
+¦   ¦   ¦           mobile-retro.svg
+¦   ¦   ¦           mobile-screen-button.svg
+¦   ¦   ¦           mobile-screen.svg
+¦   ¦   ¦           mobile.svg
+¦   ¦   ¦           money-bill-1-wave.svg
+¦   ¦   ¦           money-bill-1.svg
+¦   ¦   ¦           money-bill-transfer.svg
+¦   ¦   ¦           money-bill-trend-up.svg
+¦   ¦   ¦           money-bill-wave.svg
+¦   ¦   ¦           money-bill-wheat.svg
+¦   ¦   ¦           money-bill.svg
+¦   ¦   ¦           money-bills.svg
+¦   ¦   ¦           money-check-dollar.svg
+¦   ¦   ¦           money-check.svg
+¦   ¦   ¦           monument.svg
+¦   ¦   ¦           moon.svg
+¦   ¦   ¦           mortar-pestle.svg
+¦   ¦   ¦           mosque.svg
+¦   ¦   ¦           mosquito-net.svg
+¦   ¦   ¦           mosquito.svg
+¦   ¦   ¦           motorcycle.svg
+¦   ¦   ¦           mound.svg
+¦   ¦   ¦           mountain-city.svg
+¦   ¦   ¦           mountain-sun.svg
+¦   ¦   ¦           mountain.svg
+¦   ¦   ¦           mug-hot.svg
+¦   ¦   ¦           mug-saucer.svg
+¦   ¦   ¦           music.svg
+¦   ¦   ¦           n.svg
+¦   ¦   ¦           naira-sign.svg
+¦   ¦   ¦           network-wired.svg
+¦   ¦   ¦           neuter.svg
+¦   ¦   ¦           newspaper.svg
+¦   ¦   ¦           not-equal.svg
+¦   ¦   ¦           notdef.svg
+¦   ¦   ¦           note-sticky.svg
+¦   ¦   ¦           notes-medical.svg
+¦   ¦   ¦           o.svg
+¦   ¦   ¦           object-group.svg
+¦   ¦   ¦           object-ungroup.svg
+¦   ¦   ¦           oil-can.svg
+¦   ¦   ¦           oil-well.svg
+¦   ¦   ¦           om.svg
+¦   ¦   ¦           otter.svg
+¦   ¦   ¦           outdent.svg
+¦   ¦   ¦           p.svg
+¦   ¦   ¦           pager.svg
+¦   ¦   ¦           paint-roller.svg
+¦   ¦   ¦           paintbrush.svg
+¦   ¦   ¦           palette.svg
+¦   ¦   ¦           pallet.svg
+¦   ¦   ¦           panorama.svg
+¦   ¦   ¦           paper-plane.svg
+¦   ¦   ¦           paperclip.svg
+¦   ¦   ¦           parachute-box.svg
+¦   ¦   ¦           paragraph.svg
+¦   ¦   ¦           passport.svg
+¦   ¦   ¦           paste.svg
+¦   ¦   ¦           pause.svg
+¦   ¦   ¦           paw.svg
+¦   ¦   ¦           peace.svg
+¦   ¦   ¦           pen-clip.svg
+¦   ¦   ¦           pen-fancy.svg
+¦   ¦   ¦           pen-nib.svg
+¦   ¦   ¦           pen-ruler.svg
+¦   ¦   ¦           pen-to-square.svg
+¦   ¦   ¦           pen.svg
+¦   ¦   ¦           pencil.svg
+¦   ¦   ¦           people-arrows.svg
+¦   ¦   ¦           people-carry-box.svg
+¦   ¦   ¦           people-group.svg
+¦   ¦   ¦           people-line.svg
+¦   ¦   ¦           people-pulling.svg
+¦   ¦   ¦           people-robbery.svg
+¦   ¦   ¦           people-roof.svg
+¦   ¦   ¦           pepper-hot.svg
+¦   ¦   ¦           percent.svg
+¦   ¦   ¦           person-arrow-down-to-line.svg
+¦   ¦   ¦           person-arrow-up-from-line.svg
+¦   ¦   ¦           person-biking.svg
+¦   ¦   ¦           person-booth.svg
+¦   ¦   ¦           person-breastfeeding.svg
+¦   ¦   ¦           person-burst.svg
+¦   ¦   ¦           person-cane.svg
+¦   ¦   ¦           person-chalkboard.svg
+¦   ¦   ¦           person-circle-check.svg
+¦   ¦   ¦           person-circle-exclamation.svg
+¦   ¦   ¦           person-circle-minus.svg
+¦   ¦   ¦           person-circle-plus.svg
+¦   ¦   ¦           person-circle-question.svg
+¦   ¦   ¦           person-circle-xmark.svg
+¦   ¦   ¦           person-digging.svg
+¦   ¦   ¦           person-dots-from-line.svg
+¦   ¦   ¦           person-dress-burst.svg
+¦   ¦   ¦           person-dress.svg
+¦   ¦   ¦           person-drowning.svg
+¦   ¦   ¦           person-falling-burst.svg
+¦   ¦   ¦           person-falling.svg
+¦   ¦   ¦           person-half-dress.svg
+¦   ¦   ¦           person-harassing.svg
+¦   ¦   ¦           person-hiking.svg
+¦   ¦   ¦           person-military-pointing.svg
+¦   ¦   ¦           person-military-rifle.svg
+¦   ¦   ¦           person-military-to-person.svg
+¦   ¦   ¦           person-praying.svg
+¦   ¦   ¦           person-pregnant.svg
+¦   ¦   ¦           person-rays.svg
+¦   ¦   ¦           person-rifle.svg
+¦   ¦   ¦           person-running.svg
+¦   ¦   ¦           person-shelter.svg
+¦   ¦   ¦           person-skating.svg
+¦   ¦   ¦           person-skiing-nordic.svg
+¦   ¦   ¦           person-skiing.svg
+¦   ¦   ¦           person-snowboarding.svg
+¦   ¦   ¦           person-swimming.svg
+¦   ¦   ¦           person-through-window.svg
+¦   ¦   ¦           person-walking-arrow-loop-left.svg
+¦   ¦   ¦           person-walking-arrow-right.svg
+¦   ¦   ¦           person-walking-dashed-line-arrow-right.svg
+¦   ¦   ¦           person-walking-luggage.svg
+¦   ¦   ¦           person-walking-with-cane.svg
+¦   ¦   ¦           person-walking.svg
+¦   ¦   ¦           person.svg
+¦   ¦   ¦           peseta-sign.svg
+¦   ¦   ¦           peso-sign.svg
+¦   ¦   ¦           phone-flip.svg
+¦   ¦   ¦           phone-slash.svg
+¦   ¦   ¦           phone-volume.svg
+¦   ¦   ¦           phone.svg
+¦   ¦   ¦           photo-film.svg
+¦   ¦   ¦           piggy-bank.svg
+¦   ¦   ¦           pills.svg
+¦   ¦   ¦           pizza-slice.svg
+¦   ¦   ¦           place-of-worship.svg
+¦   ¦   ¦           plane-arrival.svg
+¦   ¦   ¦           plane-circle-check.svg
+¦   ¦   ¦           plane-circle-exclamation.svg
+¦   ¦   ¦           plane-circle-xmark.svg
+¦   ¦   ¦           plane-departure.svg
+¦   ¦   ¦           plane-lock.svg
+¦   ¦   ¦           plane-slash.svg
+¦   ¦   ¦           plane-up.svg
+¦   ¦   ¦           plane.svg
+¦   ¦   ¦           plant-wilt.svg
+¦   ¦   ¦           plate-wheat.svg
+¦   ¦   ¦           play.svg
+¦   ¦   ¦           plug-circle-bolt.svg
+¦   ¦   ¦           plug-circle-check.svg
+¦   ¦   ¦           plug-circle-exclamation.svg
+¦   ¦   ¦           plug-circle-minus.svg
+¦   ¦   ¦           plug-circle-plus.svg
+¦   ¦   ¦           plug-circle-xmark.svg
+¦   ¦   ¦           plug.svg
+¦   ¦   ¦           plus-minus.svg
+¦   ¦   ¦           plus.svg
+¦   ¦   ¦           podcast.svg
+¦   ¦   ¦           poo-storm.svg
+¦   ¦   ¦           poo.svg
+¦   ¦   ¦           poop.svg
+¦   ¦   ¦           power-off.svg
+¦   ¦   ¦           prescription-bottle-medical.svg
+¦   ¦   ¦           prescription-bottle.svg
+¦   ¦   ¦           prescription.svg
+¦   ¦   ¦           print.svg
+¦   ¦   ¦           pump-medical.svg
+¦   ¦   ¦           pump-soap.svg
+¦   ¦   ¦           puzzle-piece.svg
+¦   ¦   ¦           q.svg
+¦   ¦   ¦           qrcode.svg
+¦   ¦   ¦           question.svg
+¦   ¦   ¦           quote-left.svg
+¦   ¦   ¦           quote-right.svg
+¦   ¦   ¦           r.svg
+¦   ¦   ¦           radiation.svg
+¦   ¦   ¦           radio.svg
+¦   ¦   ¦           rainbow.svg
+¦   ¦   ¦           ranking-star.svg
+¦   ¦   ¦           receipt.svg
+¦   ¦   ¦           record-vinyl.svg
+¦   ¦   ¦           rectangle-ad.svg
+¦   ¦   ¦           rectangle-list.svg
+¦   ¦   ¦           rectangle-xmark.svg
+¦   ¦   ¦           recycle.svg
+¦   ¦   ¦           registered.svg
+¦   ¦   ¦           repeat.svg
+¦   ¦   ¦           reply-all.svg
+¦   ¦   ¦           reply.svg
+¦   ¦   ¦           republican.svg
+¦   ¦   ¦           restroom.svg
+¦   ¦   ¦           retweet.svg
+¦   ¦   ¦           ribbon.svg
+¦   ¦   ¦           right-from-bracket.svg
+¦   ¦   ¦           right-left.svg
+¦   ¦   ¦           right-long.svg
+¦   ¦   ¦           right-to-bracket.svg
+¦   ¦   ¦           ring.svg
+¦   ¦   ¦           road-barrier.svg
+¦   ¦   ¦           road-bridge.svg
+¦   ¦   ¦           road-circle-check.svg
+¦   ¦   ¦           road-circle-exclamation.svg
+¦   ¦   ¦           road-circle-xmark.svg
+¦   ¦   ¦           road-lock.svg
+¦   ¦   ¦           road-spikes.svg
+¦   ¦   ¦           road.svg
+¦   ¦   ¦           robot.svg
+¦   ¦   ¦           rocket.svg
+¦   ¦   ¦           rotate-left.svg
+¦   ¦   ¦           rotate-right.svg
+¦   ¦   ¦           rotate.svg
+¦   ¦   ¦           route.svg
+¦   ¦   ¦           rss.svg
+¦   ¦   ¦           ruble-sign.svg
+¦   ¦   ¦           rug.svg
+¦   ¦   ¦           ruler-combined.svg
+¦   ¦   ¦           ruler-horizontal.svg
+¦   ¦   ¦           ruler-vertical.svg
+¦   ¦   ¦           ruler.svg
+¦   ¦   ¦           rupee-sign.svg
+¦   ¦   ¦           rupiah-sign.svg
+¦   ¦   ¦           s.svg
+¦   ¦   ¦           sack-dollar.svg
+¦   ¦   ¦           sack-xmark.svg
+¦   ¦   ¦           sailboat.svg
+¦   ¦   ¦           satellite-dish.svg
+¦   ¦   ¦           satellite.svg
+¦   ¦   ¦           scale-balanced.svg
+¦   ¦   ¦           scale-unbalanced-flip.svg
+¦   ¦   ¦           scale-unbalanced.svg
+¦   ¦   ¦           school-circle-check.svg
+¦   ¦   ¦           school-circle-exclamation.svg
+¦   ¦   ¦           school-circle-xmark.svg
+¦   ¦   ¦           school-flag.svg
+¦   ¦   ¦           school-lock.svg
+¦   ¦   ¦           school.svg
+¦   ¦   ¦           scissors.svg
+¦   ¦   ¦           screwdriver-wrench.svg
+¦   ¦   ¦           screwdriver.svg
+¦   ¦   ¦           scroll-torah.svg
+¦   ¦   ¦           scroll.svg
+¦   ¦   ¦           sd-card.svg
+¦   ¦   ¦           section.svg
+¦   ¦   ¦           seedling.svg
+¦   ¦   ¦           server.svg
+¦   ¦   ¦           shapes.svg
+¦   ¦   ¦           share-from-square.svg
+¦   ¦   ¦           share-nodes.svg
+¦   ¦   ¦           share.svg
+¦   ¦   ¦           sheet-plastic.svg
+¦   ¦   ¦           shekel-sign.svg
+¦   ¦   ¦           shield-cat.svg
+¦   ¦   ¦           shield-dog.svg
+¦   ¦   ¦           shield-halved.svg
+¦   ¦   ¦           shield-heart.svg
+¦   ¦   ¦           shield-virus.svg
+¦   ¦   ¦           shield.svg
+¦   ¦   ¦           ship.svg
+¦   ¦   ¦           shirt.svg
+¦   ¦   ¦           shoe-prints.svg
+¦   ¦   ¦           shop-lock.svg
+¦   ¦   ¦           shop-slash.svg
+¦   ¦   ¦           shop.svg
+¦   ¦   ¦           shower.svg
+¦   ¦   ¦           shrimp.svg
+¦   ¦   ¦           shuffle.svg
+¦   ¦   ¦           shuttle-space.svg
+¦   ¦   ¦           sign-hanging.svg
+¦   ¦   ¦           signal.svg
+¦   ¦   ¦           signature.svg
+¦   ¦   ¦           signs-post.svg
+¦   ¦   ¦           sim-card.svg
+¦   ¦   ¦           sink.svg
+¦   ¦   ¦           sitemap.svg
+¦   ¦   ¦           skull-crossbones.svg
+¦   ¦   ¦           skull.svg
+¦   ¦   ¦           slash.svg
+¦   ¦   ¦           sleigh.svg
+¦   ¦   ¦           sliders.svg
+¦   ¦   ¦           smog.svg
+¦   ¦   ¦           smoking.svg
+¦   ¦   ¦           snowflake.svg
+¦   ¦   ¦           snowman.svg
+¦   ¦   ¦           snowplow.svg
+¦   ¦   ¦           soap.svg
+¦   ¦   ¦           socks.svg
+¦   ¦   ¦           solar-panel.svg
+¦   ¦   ¦           sort-down.svg
+¦   ¦   ¦           sort-up.svg
+¦   ¦   ¦           sort.svg
+¦   ¦   ¦           spa.svg
+¦   ¦   ¦           spaghetti-monster-flying.svg
+¦   ¦   ¦           spell-check.svg
+¦   ¦   ¦           spider.svg
+¦   ¦   ¦           spinner.svg
+¦   ¦   ¦           splotch.svg
+¦   ¦   ¦           spoon.svg
+¦   ¦   ¦           spray-can-sparkles.svg
+¦   ¦   ¦           spray-can.svg
+¦   ¦   ¦           square-arrow-up-right.svg
+¦   ¦   ¦           square-caret-down.svg
+¦   ¦   ¦           square-caret-left.svg
+¦   ¦   ¦           square-caret-right.svg
+¦   ¦   ¦           square-caret-up.svg
+¦   ¦   ¦           square-check.svg
+¦   ¦   ¦           square-envelope.svg
+¦   ¦   ¦           square-full.svg
+¦   ¦   ¦           square-h.svg
+¦   ¦   ¦           square-minus.svg
+¦   ¦   ¦           square-nfi.svg
+¦   ¦   ¦           square-parking.svg
+¦   ¦   ¦           square-pen.svg
+¦   ¦   ¦           square-person-confined.svg
+¦   ¦   ¦           square-phone-flip.svg
+¦   ¦   ¦           square-phone.svg
+¦   ¦   ¦           square-plus.svg
+¦   ¦   ¦           square-poll-horizontal.svg
+¦   ¦   ¦           square-poll-vertical.svg
+¦   ¦   ¦           square-root-variable.svg
+¦   ¦   ¦           square-rss.svg
+¦   ¦   ¦           square-share-nodes.svg
+¦   ¦   ¦           square-up-right.svg
+¦   ¦   ¦           square-virus.svg
+¦   ¦   ¦           square-xmark.svg
+¦   ¦   ¦           square.svg
+¦   ¦   ¦           staff-snake.svg
+¦   ¦   ¦           stairs.svg
+¦   ¦   ¦           stamp.svg
+¦   ¦   ¦           stapler.svg
+¦   ¦   ¦           star-and-crescent.svg
+¦   ¦   ¦           star-half-stroke.svg
+¦   ¦   ¦           star-half.svg
+¦   ¦   ¦           star-of-david.svg
+¦   ¦   ¦           star-of-life.svg
+¦   ¦   ¦           star.svg
+¦   ¦   ¦           sterling-sign.svg
+¦   ¦   ¦           stethoscope.svg
+¦   ¦   ¦           stop.svg
+¦   ¦   ¦           stopwatch-20.svg
+¦   ¦   ¦           stopwatch.svg
+¦   ¦   ¦           store-slash.svg
+¦   ¦   ¦           store.svg
+¦   ¦   ¦           street-view.svg
+¦   ¦   ¦           strikethrough.svg
+¦   ¦   ¦           stroopwafel.svg
+¦   ¦   ¦           subscript.svg
+¦   ¦   ¦           suitcase-medical.svg
+¦   ¦   ¦           suitcase-rolling.svg
+¦   ¦   ¦           suitcase.svg
+¦   ¦   ¦           sun-plant-wilt.svg
+¦   ¦   ¦           sun.svg
+¦   ¦   ¦           superscript.svg
+¦   ¦   ¦           swatchbook.svg
+¦   ¦   ¦           synagogue.svg
+¦   ¦   ¦           syringe.svg
+¦   ¦   ¦           t.svg
+¦   ¦   ¦           table-cells-large.svg
+¦   ¦   ¦           table-cells.svg
+¦   ¦   ¦           table-columns.svg
+¦   ¦   ¦           table-list.svg
+¦   ¦   ¦           table-tennis-paddle-ball.svg
+¦   ¦   ¦           table.svg
+¦   ¦   ¦           tablet-button.svg
+¦   ¦   ¦           tablet-screen-button.svg
+¦   ¦   ¦           tablet.svg
+¦   ¦   ¦           tablets.svg
+¦   ¦   ¦           tachograph-digital.svg
+¦   ¦   ¦           tag.svg
+¦   ¦   ¦           tags.svg
+¦   ¦   ¦           tape.svg
+¦   ¦   ¦           tarp-droplet.svg
+¦   ¦   ¦           tarp.svg
+¦   ¦   ¦           taxi.svg
+¦   ¦   ¦           teeth-open.svg
+¦   ¦   ¦           teeth.svg
+¦   ¦   ¦           temperature-arrow-down.svg
+¦   ¦   ¦           temperature-arrow-up.svg
+¦   ¦   ¦           temperature-empty.svg
+¦   ¦   ¦           temperature-full.svg
+¦   ¦   ¦           temperature-half.svg
+¦   ¦   ¦           temperature-high.svg
+¦   ¦   ¦           temperature-low.svg
+¦   ¦   ¦           temperature-quarter.svg
+¦   ¦   ¦           temperature-three-quarters.svg
+¦   ¦   ¦           tenge-sign.svg
+¦   ¦   ¦           tent-arrow-down-to-line.svg
+¦   ¦   ¦           tent-arrow-left-right.svg
+¦   ¦   ¦           tent-arrow-turn-left.svg
+¦   ¦   ¦           tent-arrows-down.svg
+¦   ¦   ¦           tent.svg
+¦   ¦   ¦           tents.svg
+¦   ¦   ¦           terminal.svg
+¦   ¦   ¦           text-height.svg
+¦   ¦   ¦           text-slash.svg
+¦   ¦   ¦           text-width.svg
+¦   ¦   ¦           thermometer.svg
+¦   ¦   ¦           thumbs-down.svg
+¦   ¦   ¦           thumbs-up.svg
+¦   ¦   ¦           thumbtack.svg
+¦   ¦   ¦           ticket-simple.svg
+¦   ¦   ¦           ticket.svg
+¦   ¦   ¦           timeline.svg
+¦   ¦   ¦           toggle-off.svg
+¦   ¦   ¦           toggle-on.svg
+¦   ¦   ¦           toilet-paper-slash.svg
+¦   ¦   ¦           toilet-paper.svg
+¦   ¦   ¦           toilet-portable.svg
+¦   ¦   ¦           toilet.svg
+¦   ¦   ¦           toilets-portable.svg
+¦   ¦   ¦           toolbox.svg
+¦   ¦   ¦           tooth.svg
+¦   ¦   ¦           torii-gate.svg
+¦   ¦   ¦           tornado.svg
+¦   ¦   ¦           tower-broadcast.svg
+¦   ¦   ¦           tower-cell.svg
+¦   ¦   ¦           tower-observation.svg
+¦   ¦   ¦           tractor.svg
+¦   ¦   ¦           trademark.svg
+¦   ¦   ¦           traffic-light.svg
+¦   ¦   ¦           trailer.svg
+¦   ¦   ¦           train-subway.svg
+¦   ¦   ¦           train-tram.svg
+¦   ¦   ¦           train.svg
+¦   ¦   ¦           transgender.svg
+¦   ¦   ¦           trash-arrow-up.svg
+¦   ¦   ¦           trash-can-arrow-up.svg
+¦   ¦   ¦           trash-can.svg
+¦   ¦   ¦           trash.svg
+¦   ¦   ¦           tree-city.svg
+¦   ¦   ¦           tree.svg
+¦   ¦   ¦           triangle-exclamation.svg
+¦   ¦   ¦           trophy.svg
+¦   ¦   ¦           trowel-bricks.svg
+¦   ¦   ¦           trowel.svg
+¦   ¦   ¦           truck-arrow-right.svg
+¦   ¦   ¦           truck-droplet.svg
+¦   ¦   ¦           truck-fast.svg
+¦   ¦   ¦           truck-field-un.svg
+¦   ¦   ¦           truck-field.svg
+¦   ¦   ¦           truck-front.svg
+¦   ¦   ¦           truck-medical.svg
+¦   ¦   ¦           truck-monster.svg
+¦   ¦   ¦           truck-moving.svg
+¦   ¦   ¦           truck-pickup.svg
+¦   ¦   ¦           truck-plane.svg
+¦   ¦   ¦           truck-ramp-box.svg
+¦   ¦   ¦           truck.svg
+¦   ¦   ¦           tty.svg
+¦   ¦   ¦           turkish-lira-sign.svg
+¦   ¦   ¦           turn-down.svg
+¦   ¦   ¦           turn-up.svg
+¦   ¦   ¦           tv.svg
+¦   ¦   ¦           u.svg
+¦   ¦   ¦           umbrella-beach.svg
+¦   ¦   ¦           umbrella.svg
+¦   ¦   ¦           underline.svg
+¦   ¦   ¦           universal-access.svg
+¦   ¦   ¦           unlock-keyhole.svg
+¦   ¦   ¦           unlock.svg
+¦   ¦   ¦           up-down-left-right.svg
+¦   ¦   ¦           up-down.svg
+¦   ¦   ¦           up-long.svg
+¦   ¦   ¦           up-right-and-down-left-from-center.svg
+¦   ¦   ¦           up-right-from-square.svg
+¦   ¦   ¦           upload.svg
+¦   ¦   ¦           user-astronaut.svg
+¦   ¦   ¦           user-check.svg
+¦   ¦   ¦           user-clock.svg
+¦   ¦   ¦           user-doctor.svg
+¦   ¦   ¦           user-gear.svg
+¦   ¦   ¦           user-graduate.svg
+¦   ¦   ¦           user-group.svg
+¦   ¦   ¦           user-injured.svg
+¦   ¦   ¦           user-large-slash.svg
+¦   ¦   ¦           user-large.svg
+¦   ¦   ¦           user-lock.svg
+¦   ¦   ¦           user-minus.svg
+¦   ¦   ¦           user-ninja.svg
+¦   ¦   ¦           user-nurse.svg
+¦   ¦   ¦           user-pen.svg
+¦   ¦   ¦           user-plus.svg
+¦   ¦   ¦           user-secret.svg
+¦   ¦   ¦           user-shield.svg
+¦   ¦   ¦           user-slash.svg
+¦   ¦   ¦           user-tag.svg
+¦   ¦   ¦           user-tie.svg
+¦   ¦   ¦           user-xmark.svg
+¦   ¦   ¦           user.svg
+¦   ¦   ¦           users-between-lines.svg
+¦   ¦   ¦           users-gear.svg
+¦   ¦   ¦           users-line.svg
+¦   ¦   ¦           users-rays.svg
+¦   ¦   ¦           users-rectangle.svg
+¦   ¦   ¦           users-slash.svg
+¦   ¦   ¦           users-viewfinder.svg
+¦   ¦   ¦           users.svg
+¦   ¦   ¦           utensils.svg
+¦   ¦   ¦           v.svg
+¦   ¦   ¦           van-shuttle.svg
+¦   ¦   ¦           vault.svg
+¦   ¦   ¦           vector-square.svg
+¦   ¦   ¦           venus-double.svg
+¦   ¦   ¦           venus-mars.svg
+¦   ¦   ¦           venus.svg
+¦   ¦   ¦           vest-patches.svg
+¦   ¦   ¦           vest.svg
+¦   ¦   ¦           vial-circle-check.svg
+¦   ¦   ¦           vial-virus.svg
+¦   ¦   ¦           vial.svg
+¦   ¦   ¦           vials.svg
+¦   ¦   ¦           video-slash.svg
+¦   ¦   ¦           video.svg
+¦   ¦   ¦           vihara.svg
+¦   ¦   ¦           virus-covid-slash.svg
+¦   ¦   ¦           virus-covid.svg
+¦   ¦   ¦           virus-slash.svg
+¦   ¦   ¦           virus.svg
+¦   ¦   ¦           viruses.svg
+¦   ¦   ¦           voicemail.svg
+¦   ¦   ¦           volcano.svg
+¦   ¦   ¦           volleyball.svg
+¦   ¦   ¦           volume-high.svg
+¦   ¦   ¦           volume-low.svg
+¦   ¦   ¦           volume-off.svg
+¦   ¦   ¦           volume-xmark.svg
+¦   ¦   ¦           vr-cardboard.svg
+¦   ¦   ¦           w.svg
+¦   ¦   ¦           walkie-talkie.svg
+¦   ¦   ¦           wallet.svg
+¦   ¦   ¦           wand-magic-sparkles.svg
+¦   ¦   ¦           wand-magic.svg
+¦   ¦   ¦           wand-sparkles.svg
+¦   ¦   ¦           warehouse.svg
+¦   ¦   ¦           water-ladder.svg
+¦   ¦   ¦           water.svg
+¦   ¦   ¦           wave-square.svg
+¦   ¦   ¦           weight-hanging.svg
+¦   ¦   ¦           weight-scale.svg
+¦   ¦   ¦           wheat-awn-circle-exclamation.svg
+¦   ¦   ¦           wheat-awn.svg
+¦   ¦   ¦           wheelchair-move.svg
+¦   ¦   ¦           wheelchair.svg
+¦   ¦   ¦           whiskey-glass.svg
+¦   ¦   ¦           wifi.svg
+¦   ¦   ¦           wind.svg
+¦   ¦   ¦           window-maximize.svg
+¦   ¦   ¦           window-minimize.svg
+¦   ¦   ¦           window-restore.svg
+¦   ¦   ¦           wine-bottle.svg
+¦   ¦   ¦           wine-glass-empty.svg
+¦   ¦   ¦           wine-glass.svg
+¦   ¦   ¦           won-sign.svg
+¦   ¦   ¦           worm.svg
+¦   ¦   ¦           wrench.svg
+¦   ¦   ¦           x-ray.svg
+¦   ¦   ¦           x.svg
+¦   ¦   ¦           xmark.svg
+¦   ¦   ¦           xmarks-lines.svg
+¦   ¦   ¦           y.svg
+¦   ¦   ¦           yen-sign.svg
+¦   ¦   ¦           yin-yang.svg
+¦   ¦   ¦           z.svg
+¦   ¦   ¦           
+¦   ¦   +---webfonts
+¦   ¦           fa-brands-400.ttf
+¦   ¦           fa-brands-400.woff2
+¦   ¦           fa-regular-400.ttf
+¦   ¦           fa-regular-400.woff2
+¦   ¦           fa-solid-900.ttf
+¦   ¦           fa-solid-900.woff2
+¦   ¦           fa-v4compatibility.ttf
+¦   ¦           fa-v4compatibility.woff2
+¦   ¦           
+¦   +---PDF Merger
+¦   ¦   ¦   autoload.php
+¦   ¦   ¦   
+¦   ¦   +---composer
+¦   ¦   ¦       autoload_classmap.php
+¦   ¦   ¦       autoload_namespaces.php
+¦   ¦   ¦       autoload_psr4.php
+¦   ¦   ¦       autoload_real.php
+¦   ¦   ¦       autoload_static.php
+¦   ¦   ¦       ClassLoader.php
+¦   ¦   ¦       installed.json
+¦   ¦   ¦       LICENSE
+¦   ¦   ¦       
+¦   ¦   +---setasign
+¦   ¦   ¦   +---fpdf
+¦   ¦   ¦   ¦   ¦   changelog.htm
+¦   ¦   ¦   ¦   ¦   composer.json
+¦   ¦   ¦   ¦   ¦   FAQ.htm
+¦   ¦   ¦   ¦   ¦   fpdf.css
+¦   ¦   ¦   ¦   ¦   fpdf.php
+¦   ¦   ¦   ¦   ¦   install.txt
+¦   ¦   ¦   ¦   ¦   license.txt
+¦   ¦   ¦   ¦   ¦   README.md
+¦   ¦   ¦   ¦   ¦   
+¦   ¦   ¦   ¦   +---doc
+¦   ¦   ¦   ¦   ¦       acceptpagebreak.htm
+¦   ¦   ¦   ¦   ¦       addfont.htm
+¦   ¦   ¦   ¦   ¦       addlink.htm
+¦   ¦   ¦   ¦   ¦       addpage.htm
+¦   ¦   ¦   ¦   ¦       aliasnbpages.htm
+¦   ¦   ¦   ¦   ¦       cell.htm
+¦   ¦   ¦   ¦   ¦       close.htm
+¦   ¦   ¦   ¦   ¦       error.htm
+¦   ¦   ¦   ¦   ¦       footer.htm
+¦   ¦   ¦   ¦   ¦       getpageheight.htm
+¦   ¦   ¦   ¦   ¦       getpagewidth.htm
+¦   ¦   ¦   ¦   ¦       getstringwidth.htm
+¦   ¦   ¦   ¦   ¦       getx.htm
+¦   ¦   ¦   ¦   ¦       gety.htm
+¦   ¦   ¦   ¦   ¦       header.htm
+¦   ¦   ¦   ¦   ¦       image.htm
+¦   ¦   ¦   ¦   ¦       index.htm
+¦   ¦   ¦   ¦   ¦       line.htm
+¦   ¦   ¦   ¦   ¦       link.htm
+¦   ¦   ¦   ¦   ¦       ln.htm
+¦   ¦   ¦   ¦   ¦       multicell.htm
+¦   ¦   ¦   ¦   ¦       output.htm
+¦   ¦   ¦   ¦   ¦       pageno.htm
+¦   ¦   ¦   ¦   ¦       rect.htm
+¦   ¦   ¦   ¦   ¦       setauthor.htm
+¦   ¦   ¦   ¦   ¦       setautopagebreak.htm
+¦   ¦   ¦   ¦   ¦       setcompression.htm
+¦   ¦   ¦   ¦   ¦       setcreator.htm
+¦   ¦   ¦   ¦   ¦       setdisplaymode.htm
+¦   ¦   ¦   ¦   ¦       setdrawcolor.htm
+¦   ¦   ¦   ¦   ¦       setfillcolor.htm
+¦   ¦   ¦   ¦   ¦       setfont.htm
+¦   ¦   ¦   ¦   ¦       setfontsize.htm
+¦   ¦   ¦   ¦   ¦       setkeywords.htm
+¦   ¦   ¦   ¦   ¦       setleftmargin.htm
+¦   ¦   ¦   ¦   ¦       setlinewidth.htm
+¦   ¦   ¦   ¦   ¦       setlink.htm
+¦   ¦   ¦   ¦   ¦       setmargins.htm
+¦   ¦   ¦   ¦   ¦       setrightmargin.htm
+¦   ¦   ¦   ¦   ¦       setsubject.htm
+¦   ¦   ¦   ¦   ¦       settextcolor.htm
+¦   ¦   ¦   ¦   ¦       settitle.htm
+¦   ¦   ¦   ¦   ¦       settopmargin.htm
+¦   ¦   ¦   ¦   ¦       setx.htm
+¦   ¦   ¦   ¦   ¦       setxy.htm
+¦   ¦   ¦   ¦   ¦       sety.htm
+¦   ¦   ¦   ¦   ¦       text.htm
+¦   ¦   ¦   ¦   ¦       write.htm
+¦   ¦   ¦   ¦   ¦       __construct.htm
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---font
+¦   ¦   ¦   ¦   ¦       courier.php
+¦   ¦   ¦   ¦   ¦       courierb.php
+¦   ¦   ¦   ¦   ¦       courierbi.php
+¦   ¦   ¦   ¦   ¦       courieri.php
+¦   ¦   ¦   ¦   ¦       helvetica.php
+¦   ¦   ¦   ¦   ¦       helveticab.php
+¦   ¦   ¦   ¦   ¦       helveticabi.php
+¦   ¦   ¦   ¦   ¦       helveticai.php
+¦   ¦   ¦   ¦   ¦       symbol.php
+¦   ¦   ¦   ¦   ¦       times.php
+¦   ¦   ¦   ¦   ¦       timesb.php
+¦   ¦   ¦   ¦   ¦       timesbi.php
+¦   ¦   ¦   ¦   ¦       timesi.php
+¦   ¦   ¦   ¦   ¦       zapfdingbats.php
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---makefont
+¦   ¦   ¦   ¦   ¦       cp1250.map
+¦   ¦   ¦   ¦   ¦       cp1251.map
+¦   ¦   ¦   ¦   ¦       cp1252.map
+¦   ¦   ¦   ¦   ¦       cp1253.map
+¦   ¦   ¦   ¦   ¦       cp1254.map
+¦   ¦   ¦   ¦   ¦       cp1255.map
+¦   ¦   ¦   ¦   ¦       cp1257.map
+¦   ¦   ¦   ¦   ¦       cp1258.map
+¦   ¦   ¦   ¦   ¦       cp874.map
+¦   ¦   ¦   ¦   ¦       iso-8859-1.map
+¦   ¦   ¦   ¦   ¦       iso-8859-11.map
+¦   ¦   ¦   ¦   ¦       iso-8859-15.map
+¦   ¦   ¦   ¦   ¦       iso-8859-16.map
+¦   ¦   ¦   ¦   ¦       iso-8859-2.map
+¦   ¦   ¦   ¦   ¦       iso-8859-4.map
+¦   ¦   ¦   ¦   ¦       iso-8859-5.map
+¦   ¦   ¦   ¦   ¦       iso-8859-7.map
+¦   ¦   ¦   ¦   ¦       iso-8859-9.map
+¦   ¦   ¦   ¦   ¦       koi8-r.map
+¦   ¦   ¦   ¦   ¦       koi8-u.map
+¦   ¦   ¦   ¦   ¦       makefont.php
+¦   ¦   ¦   ¦   ¦       ttfparser.php
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---tutorial
+¦   ¦   ¦   ¦           20k_c1.txt
+¦   ¦   ¦   ¦           20k_c2.txt
+¦   ¦   ¦   ¦           calligra.php
+¦   ¦   ¦   ¦           calligra.ttf
+¦   ¦   ¦   ¦           calligra.z
+¦   ¦   ¦   ¦           countries.txt
+¦   ¦   ¦   ¦           index.htm
+¦   ¦   ¦   ¦           logo.png
+¦   ¦   ¦   ¦           makefont.php
+¦   ¦   ¦   ¦           tuto1.htm
+¦   ¦   ¦   ¦           tuto1.php
+¦   ¦   ¦   ¦           tuto2.htm
+¦   ¦   ¦   ¦           tuto2.php
+¦   ¦   ¦   ¦           tuto3.htm
+¦   ¦   ¦   ¦           tuto3.php
+¦   ¦   ¦   ¦           tuto4.htm
+¦   ¦   ¦   ¦           tuto4.php
+¦   ¦   ¦   ¦           tuto5.htm
+¦   ¦   ¦   ¦           tuto5.php
+¦   ¦   ¦   ¦           tuto6.htm
+¦   ¦   ¦   ¦           tuto6.php
+¦   ¦   ¦   ¦           tuto7.htm
+¦   ¦   ¦   ¦           tuto7.php
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---fpdi
+¦   ¦   ¦   ¦   ¦   .gitattributes
+¦   ¦   ¦   ¦   ¦   .gitignore
+¦   ¦   ¦   ¦   ¦   .travis.yml
+¦   ¦   ¦   ¦   ¦   composer.json
+¦   ¦   ¦   ¦   ¦   composer.lock
+¦   ¦   ¦   ¦   ¦   LICENSE.txt
+¦   ¦   ¦   ¦   ¦   phpunit.xml
+¦   ¦   ¦   ¦   ¦   README.md
+¦   ¦   ¦   ¦   ¦   
+¦   ¦   ¦   ¦   +---local-tests
+¦   ¦   ¦   ¦   ¦       alpha-test.php
+¦   ¦   ¦   ¦   ¦       concatenate.php
+¦   ¦   ¦   ¦   ¦       filelist.php
+¦   ¦   ¦   ¦   ¦       memory.php
+¦   ¦   ¦   ¦   ¦       simple-v1.php
+¦   ¦   ¦   ¦   ¦       simple.php
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---scratches
+¦   ¦   ¦   ¦   ¦       ArrayVsObject.php
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---src
+¦   ¦   ¦   ¦   ¦   ¦   autoload.php
+¦   ¦   ¦   ¦   ¦   ¦   FpdfTpl.php
+¦   ¦   ¦   ¦   ¦   ¦   Fpdi.php
+¦   ¦   ¦   ¦   ¦   ¦   FpdiException.php
+¦   ¦   ¦   ¦   ¦   ¦   FpdiTrait.php
+¦   ¦   ¦   ¦   ¦   ¦   TcpdfFpdi.php
+¦   ¦   ¦   ¦   ¦   ¦   
+¦   ¦   ¦   ¦   ¦   +---PdfParser
+¦   ¦   ¦   ¦   ¦   ¦   ¦   PdfParser.php
+¦   ¦   ¦   ¦   ¦   ¦   ¦   PdfParserException.php
+¦   ¦   ¦   ¦   ¦   ¦   ¦   StreamReader.php
+¦   ¦   ¦   ¦   ¦   ¦   ¦   Tokenizer.php
+¦   ¦   ¦   ¦   ¦   ¦   ¦   
+¦   ¦   ¦   ¦   ¦   ¦   +---CrossReference
+¦   ¦   ¦   ¦   ¦   ¦   ¦       AbstractReader.php
+¦   ¦   ¦   ¦   ¦   ¦   ¦       CrossReference.php
+¦   ¦   ¦   ¦   ¦   ¦   ¦       CrossReferenceException.php
+¦   ¦   ¦   ¦   ¦   ¦   ¦       FixedReader.php
+¦   ¦   ¦   ¦   ¦   ¦   ¦       LineReader.php
+¦   ¦   ¦   ¦   ¦   ¦   ¦       ReaderInterface.php
+¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   +---Filter
+¦   ¦   ¦   ¦   ¦   ¦   ¦       Ascii85.php
+¦   ¦   ¦   ¦   ¦   ¦   ¦       Ascii85Exception.php
+¦   ¦   ¦   ¦   ¦   ¦   ¦       AsciiHex.php
+¦   ¦   ¦   ¦   ¦   ¦   ¦       FilterException.php
+¦   ¦   ¦   ¦   ¦   ¦   ¦       FilterInterface.php
+¦   ¦   ¦   ¦   ¦   ¦   ¦       Flate.php
+¦   ¦   ¦   ¦   ¦   ¦   ¦       FlateException.php
+¦   ¦   ¦   ¦   ¦   ¦   ¦       Lzw.php
+¦   ¦   ¦   ¦   ¦   ¦   ¦       LzwException.php
+¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   +---Type
+¦   ¦   ¦   ¦   ¦   ¦           PdfArray.php
+¦   ¦   ¦   ¦   ¦   ¦           PdfBoolean.php
+¦   ¦   ¦   ¦   ¦   ¦           PdfDictionary.php
+¦   ¦   ¦   ¦   ¦   ¦           PdfHexString.php
+¦   ¦   ¦   ¦   ¦   ¦           PdfIndirectObject.php
+¦   ¦   ¦   ¦   ¦   ¦           PdfIndirectObjectReference.php
+¦   ¦   ¦   ¦   ¦   ¦           PdfName.php
+¦   ¦   ¦   ¦   ¦   ¦           PdfNull.php
+¦   ¦   ¦   ¦   ¦   ¦           PdfNumeric.php
+¦   ¦   ¦   ¦   ¦   ¦           PdfStream.php
+¦   ¦   ¦   ¦   ¦   ¦           PdfString.php
+¦   ¦   ¦   ¦   ¦   ¦           PdfToken.php
+¦   ¦   ¦   ¦   ¦   ¦           PdfType.php
+¦   ¦   ¦   ¦   ¦   ¦           PdfTypeException.php
+¦   ¦   ¦   ¦   ¦   ¦           
+¦   ¦   ¦   ¦   ¦   +---PdfReader
+¦   ¦   ¦   ¦   ¦       ¦   Page.php
+¦   ¦   ¦   ¦   ¦       ¦   PageBoundaries.php
+¦   ¦   ¦   ¦   ¦       ¦   PdfReader.php
+¦   ¦   ¦   ¦   ¦       ¦   PdfReaderException.php
+¦   ¦   ¦   ¦   ¦       ¦   
+¦   ¦   ¦   ¦   ¦       +---DataStructure
+¦   ¦   ¦   ¦   ¦               Rectangle.php
+¦   ¦   ¦   ¦   ¦               
+¦   ¦   ¦   ¦   +---tests
+¦   ¦   ¦   ¦       ¦   bootstrap.php
+¦   ¦   ¦   ¦       ¦   
+¦   ¦   ¦   ¦       +---functional
+¦   ¦   ¦   ¦       ¦   ¦   FpdfTplTest.php
+¦   ¦   ¦   ¦       ¦   ¦   FpdiTest.php
+¦   ¦   ¦   ¦       ¦   ¦   FpdiTraitTest.php
+¦   ¦   ¦   ¦       ¦   ¦   TcpdfFpdiTest.php
+¦   ¦   ¦   ¦       ¦   ¦   
+¦   ¦   ¦   ¦       ¦   +---PdfParser
+¦   ¦   ¦   ¦       ¦   ¦   ¦   PdfParserTest.php
+¦   ¦   ¦   ¦       ¦   ¦   ¦   TokenizerTest.php
+¦   ¦   ¦   ¦       ¦   ¦   ¦   
+¦   ¦   ¦   ¦       ¦   ¦   +---CrossReference
+¦   ¦   ¦   ¦       ¦   ¦   ¦       CrossReferenceTest.php
+¦   ¦   ¦   ¦       ¦   ¦   ¦       FixedReaderTest.php
+¦   ¦   ¦   ¦       ¦   ¦   ¦       LineReaderTest.php
+¦   ¦   ¦   ¦       ¦   ¦   ¦       
+¦   ¦   ¦   ¦       ¦   ¦   +---Filter
+¦   ¦   ¦   ¦       ¦   ¦   ¦       Ascii85Test.php
+¦   ¦   ¦   ¦       ¦   ¦   ¦       AsciiHexTest.php
+¦   ¦   ¦   ¦       ¦   ¦   ¦       FlateTest.php
+¦   ¦   ¦   ¦       ¦   ¦   ¦       LzwTest.php
+¦   ¦   ¦   ¦       ¦   ¦   ¦       
+¦   ¦   ¦   ¦       ¦   ¦   +---Type
+¦   ¦   ¦   ¦       ¦   ¦       ¦   PdfArrayTest.php
+¦   ¦   ¦   ¦       ¦   ¦       ¦   PdfBooleanTest.php
+¦   ¦   ¦   ¦       ¦   ¦       ¦   PdfDictionaryTest.php
+¦   ¦   ¦   ¦       ¦   ¦       ¦   PdfHexStringTest.php
+¦   ¦   ¦   ¦       ¦   ¦       ¦   PdfIndirectObjectTest.php
+¦   ¦   ¦   ¦       ¦   ¦       ¦   PdfNameTest.php
+¦   ¦   ¦   ¦       ¦   ¦       ¦   PdfStreamTest.php
+¦   ¦   ¦   ¦       ¦   ¦       ¦   PdfStringTest.php
+¦   ¦   ¦   ¦       ¦   ¦       ¦   
+¦   ¦   ¦   ¦       ¦   ¦       +---data
+¦   ¦   ¦   ¦       ¦   ¦           +---streams
+¦   ¦   ¦   ¦       ¦   ¦               +---Boombastic-Box.pdf
+¦   ¦   ¦   ¦       ¦   ¦                       11-0-R.dump
+¦   ¦   ¦   ¦       ¦   ¦                       
+¦   ¦   ¦   ¦       ¦   +---PdfReader
+¦   ¦   ¦   ¦       ¦           PdfReaderTest.php
+¦   ¦   ¦   ¦       ¦           
+¦   ¦   ¦   ¦       +---unit
+¦   ¦   ¦   ¦       ¦   ¦   FpdiTest.php
+¦   ¦   ¦   ¦       ¦   ¦   FpdiTraitTest.php
+¦   ¦   ¦   ¦       ¦   ¦   TcpdfFpdiTest.php
+¦   ¦   ¦   ¦       ¦   ¦   
+¦   ¦   ¦   ¦       ¦   +---PdfParser
+¦   ¦   ¦   ¦       ¦   ¦   ¦   PdfParserTest.php
+¦   ¦   ¦   ¦       ¦   ¦   ¦   StreamReaderTest.php
+¦   ¦   ¦   ¦       ¦   ¦   ¦   
+¦   ¦   ¦   ¦       ¦   ¦   +---CrossReference
+¦   ¦   ¦   ¦       ¦   ¦   ¦       CrossReferenceTest.php
+¦   ¦   ¦   ¦       ¦   ¦   ¦       
+¦   ¦   ¦   ¦       ¦   ¦   +---Type
+¦   ¦   ¦   ¦       ¦   ¦   ¦       PdfArrayTest.php
+¦   ¦   ¦   ¦       ¦   ¦   ¦       PdfBooleanTest.php
+¦   ¦   ¦   ¦       ¦   ¦   ¦       PdfDictionaryTest.php
+¦   ¦   ¦   ¦       ¦   ¦   ¦       PdfHexStringTest.php
+¦   ¦   ¦   ¦       ¦   ¦   ¦       PdfIndirectObjectReferenceTest.php
+¦   ¦   ¦   ¦       ¦   ¦   ¦       PdfIndirectObjectTest.php
+¦   ¦   ¦   ¦       ¦   ¦   ¦       PdfNameTest.php
+¦   ¦   ¦   ¦       ¦   ¦   ¦       PdfNumericTest.php
+¦   ¦   ¦   ¦       ¦   ¦   ¦       PdfStreamTest.php
+¦   ¦   ¦   ¦       ¦   ¦   ¦       PdfStringTest.php
+¦   ¦   ¦   ¦       ¦   ¦   ¦       PdfTokenTest.php
+¦   ¦   ¦   ¦       ¦   ¦   ¦       PdfTypeTest.php
+¦   ¦   ¦   ¦       ¦   ¦   ¦       
+¦   ¦   ¦   ¦       ¦   ¦   +---_files
+¦   ¦   ¦   ¦       ¦   ¦           streamReader.txt
+¦   ¦   ¦   ¦       ¦   ¦           
+¦   ¦   ¦   ¦       ¦   +---PdfReader
+¦   ¦   ¦   ¦       ¦       ¦   PageBoundariesTest.php
+¦   ¦   ¦   ¦       ¦       ¦   PageTest.php
+¦   ¦   ¦   ¦       ¦       ¦   
+¦   ¦   ¦   ¦       ¦       +---DataStructure
+¦   ¦   ¦   ¦       ¦               RectangleTest.php
+¦   ¦   ¦   ¦       ¦               
+¦   ¦   ¦   ¦       +---visual
+¦   ¦   ¦   ¦       ¦   ¦   ConcatTest.php
+¦   ¦   ¦   ¦       ¦   ¦   ConcatWithTcpdfTest.php
+¦   ¦   ¦   ¦       ¦   ¦   FpdfTplTest.php
+¦   ¦   ¦   ¦       ¦   ¦   VisualTestCase.php
+¦   ¦   ¦   ¦       ¦   ¦   
+¦   ¦   ¦   ¦       ¦   +---Alpha
+¦   ¦   ¦   ¦       ¦   ¦   ¦   AlphaPdf.php
+¦   ¦   ¦   ¦       ¦   ¦   ¦   AlphaTest.php
+¦   ¦   ¦   ¦       ¦   ¦   ¦   
+¦   ¦   ¦   ¦       ¦   ¦   +---AlphaTest
+¦   ¦   ¦   ¦       ¦   ¦       +---0
+¦   ¦   ¦   ¦       ¦   ¦           +---original
+¦   ¦   ¦   ¦       ¦   ¦                   1.png
+¦   ¦   ¦   ¦       ¦   ¦                   result.pdf
+¦   ¦   ¦   ¦       ¦   ¦                   
+¦   ¦   ¦   ¦       ¦   +---ConcatTest
+¦   ¦   ¦   ¦       ¦   ¦   +---0
+¦   ¦   ¦   ¦       ¦   ¦   ¦   +---original
+¦   ¦   ¦   ¦       ¦   ¦   ¦           1.png
+¦   ¦   ¦   ¦       ¦   ¦   ¦           10.png
+¦   ¦   ¦   ¦       ¦   ¦   ¦           11.png
+¦   ¦   ¦   ¦       ¦   ¦   ¦           12.png
+¦   ¦   ¦   ¦       ¦   ¦   ¦           13.png
+¦   ¦   ¦   ¦       ¦   ¦   ¦           14.png
+¦   ¦   ¦   ¦       ¦   ¦   ¦           15.png
+¦   ¦   ¦   ¦       ¦   ¦   ¦           2.png
+¦   ¦   ¦   ¦       ¦   ¦   ¦           3.png
+¦   ¦   ¦   ¦       ¦   ¦   ¦           4.png
+¦   ¦   ¦   ¦       ¦   ¦   ¦           5.png
+¦   ¦   ¦   ¦       ¦   ¦   ¦           6.png
+¦   ¦   ¦   ¦       ¦   ¦   ¦           7.png
+¦   ¦   ¦   ¦       ¦   ¦   ¦           8.png
+¦   ¦   ¦   ¦       ¦   ¦   ¦           9.png
+¦   ¦   ¦   ¦       ¦   ¦   ¦           result.pdf
+¦   ¦   ¦   ¦       ¦   ¦   ¦           
+¦   ¦   ¦   ¦       ¦   ¦   +---boxes
+¦   ¦   ¦   ¦       ¦   ¦   ¦   +---All2
+¦   ¦   ¦   ¦       ¦   ¦   ¦   ¦   +---original
+¦   ¦   ¦   ¦       ¦   ¦   ¦   ¦           1.png
+¦   ¦   ¦   ¦       ¦   ¦   ¦   ¦           2.png
+¦   ¦   ¦   ¦       ¦   ¦   ¦   ¦           3.png
+¦   ¦   ¦   ¦       ¦   ¦   ¦   ¦           4.png
+¦   ¦   ¦   ¦       ¦   ¦   ¦   ¦           5.png
+¦   ¦   ¦   ¦       ¦   ¦   ¦   ¦           result.pdf
+¦   ¦   ¦   ¦       ¦   ¦   ¦   ¦           
+¦   ¦   ¦   ¦       ¦   ¦   ¦   +---[-1000 -1000 -500 -500]
+¦   ¦   ¦   ¦       ¦   ¦   ¦   ¦   +---original
+¦   ¦   ¦   ¦       ¦   ¦   ¦   ¦           1.png
+¦   ¦   ¦   ¦       ¦   ¦   ¦   ¦           result.pdf
+¦   ¦   ¦   ¦       ¦   ¦   ¦   ¦           
+¦   ¦   ¦   ¦       ¦   ¦   ¦   +---[1000 500 -1000 -500]
+¦   ¦   ¦   ¦       ¦   ¦   ¦   ¦   +---original
+¦   ¦   ¦   ¦       ¦   ¦   ¦   ¦           1.png
+¦   ¦   ¦   ¦       ¦   ¦   ¦   ¦           result.pdf
+¦   ¦   ¦   ¦       ¦   ¦   ¦   ¦           
+¦   ¦   ¦   ¦       ¦   ¦   ¦   +---[1000 500 -1000 -500]-R90
+¦   ¦   ¦   ¦       ¦   ¦   ¦       +---original
+¦   ¦   ¦   ¦       ¦   ¦   ¦               1.png
+¦   ¦   ¦   ¦       ¦   ¦   ¦               result.pdf
+¦   ¦   ¦   ¦       ¦   ¦   ¦               
+¦   ¦   ¦   ¦       ¦   ¦   +---flate-and-hex
+¦   ¦   ¦   ¦       ¦   ¦   ¦   +---original
+¦   ¦   ¦   ¦       ¦   ¦   ¦           1.png
+¦   ¦   ¦   ¦       ¦   ¦   ¦           result.pdf
+¦   ¦   ¦   ¦       ¦   ¦   ¦           
+¦   ¦   ¦   ¦       ¦   ¦   +---rotated
+¦   ¦   ¦   ¦       ¦   ¦   ¦   +---original
+¦   ¦   ¦   ¦       ¦   ¦   ¦           1.png
+¦   ¦   ¦   ¦       ¦   ¦   ¦           10.png
+¦   ¦   ¦   ¦       ¦   ¦   ¦           11.png
+¦   ¦   ¦   ¦       ¦   ¦   ¦           12.png
+¦   ¦   ¦   ¦       ¦   ¦   ¦           13.png
+¦   ¦   ¦   ¦       ¦   ¦   ¦           14.png
+¦   ¦   ¦   ¦       ¦   ¦   ¦           15.png
+¦   ¦   ¦   ¦       ¦   ¦   ¦           16.png
+¦   ¦   ¦   ¦       ¦   ¦   ¦           17.png
+¦   ¦   ¦   ¦       ¦   ¦   ¦           18.png
+¦   ¦   ¦   ¦       ¦   ¦   ¦           19.png
+¦   ¦   ¦   ¦       ¦   ¦   ¦           2.png
+¦   ¦   ¦   ¦       ¦   ¦   ¦           20.png
+¦   ¦   ¦   ¦       ¦   ¦   ¦           3.png
+¦   ¦   ¦   ¦       ¦   ¦   ¦           4.png
+¦   ¦   ¦   ¦       ¦   ¦   ¦           5.png
+¦   ¦   ¦   ¦       ¦   ¦   ¦           6.png
+¦   ¦   ¦   ¦       ¦   ¦   ¦           7.png
+¦   ¦   ¦   ¦       ¦   ¦   ¦           8.png
+¦   ¦   ¦   ¦       ¦   ¦   ¦           9.png
+¦   ¦   ¦   ¦       ¦   ¦   ¦           result.pdf
+¦   ¦   ¦   ¦       ¦   ¦   ¦           
+¦   ¦   ¦   ¦       ¦   ¦   +---specials
+¦   ¦   ¦   ¦       ¦   ¦       +---0 0 R
+¦   ¦   ¦   ¦       ¦   ¦           +---original
+¦   ¦   ¦   ¦       ¦   ¦                   1.png
+¦   ¦   ¦   ¦       ¦   ¦                   result.pdf
+¦   ¦   ¦   ¦       ¦   ¦                   
+¦   ¦   ¦   ¦       ¦   +---FpdfTplTest
+¦   ¦   ¦   ¦       ¦       +---adjustPageSize
+¦   ¦   ¦   ¦       ¦       ¦   +---original
+¦   ¦   ¦   ¦       ¦       ¦           1.png
+¦   ¦   ¦   ¦       ¦       ¦           result.pdf
+¦   ¦   ¦   ¦       ¦       ¦           
+¦   ¦   ¦   ¦       ¦       +---colorHandling
+¦   ¦   ¦   ¦       ¦       ¦   +---original
+¦   ¦   ¦   ¦       ¦       ¦           1.png
+¦   ¦   ¦   ¦       ¦       ¦           result.pdf
+¦   ¦   ¦   ¦       ¦       ¦           
+¦   ¦   ¦   ¦       ¦       +---fontHandlingA
+¦   ¦   ¦   ¦       ¦       ¦   +---original
+¦   ¦   ¦   ¦       ¦       ¦           1.png
+¦   ¦   ¦   ¦       ¦       ¦           result.pdf
+¦   ¦   ¦   ¦       ¦       ¦           
+¦   ¦   ¦   ¦       ¦       +---fontHandlingB
+¦   ¦   ¦   ¦       ¦       ¦   +---original
+¦   ¦   ¦   ¦       ¦       ¦           1.png
+¦   ¦   ¦   ¦       ¦       ¦           result.pdf
+¦   ¦   ¦   ¦       ¦       ¦           
+¦   ¦   ¦   ¦       ¦       +---templateInTemplate
+¦   ¦   ¦   ¦       ¦           +---original
+¦   ¦   ¦   ¦       ¦                   1.png
+¦   ¦   ¦   ¦       ¦                   result.pdf
+¦   ¦   ¦   ¦       ¦                   
+¦   ¦   ¦   ¦       +---_files
+¦   ¦   ¦   ¦           +---images
+¦   ¦   ¦   ¦           ¦       jpeg.jpg
+¦   ¦   ¦   ¦           ¦       png-8.png
+¦   ¦   ¦   ¦           ¦       
+¦   ¦   ¦   ¦           +---pdfs
+¦   ¦   ¦   ¦               ¦   1000.pdf
+¦   ¦   ¦   ¦               ¦   10000.pdf
+¦   ¦   ¦   ¦               ¦   10000_with-tree.pdf
+¦   ¦   ¦   ¦               ¦   Boombastic-Box.pdf
+¦   ¦   ¦   ¦               ¦   compressed-xref.pdf
+¦   ¦   ¦   ¦               ¦   Fantastic-Speaker.pdf
+¦   ¦   ¦   ¦               ¦   HybridFile.pdf
+¦   ¦   ¦   ¦               ¦   Noisy-Tube.pdf
+¦   ¦   ¦   ¦               ¦   normal-xref.pdf
+¦   ¦   ¦   ¦               ¦   PageTree.pdf
+¦   ¦   ¦   ¦               ¦   PageTree2.pdf
+¦   ¦   ¦   ¦               ¦   PageTreeWithEmptyKids.pdf
+¦   ¦   ¦   ¦               ¦   ReferencesToInvalidObjects.pdf
+¦   ¦   ¦   ¦               ¦   Word2010.pdf
+¦   ¦   ¦   ¦               ¦   
+¦   ¦   ¦   ¦               +---boxes
+¦   ¦   ¦   ¦               ¦       All.pdf
+¦   ¦   ¦   ¦               ¦       All2.pdf
+¦   ¦   ¦   ¦               ¦       [-100 -100 1000 1000].pdf
+¦   ¦   ¦   ¦               ¦       [-1000 -1000 -500 -500].pdf
+¦   ¦   ¦   ¦               ¦       [-200 -100 1000 500].pdf
+¦   ¦   ¦   ¦               ¦       [1000 500 -1000 -500]-R-90.pdf
+¦   ¦   ¦   ¦               ¦       [1000 500 -1000 -500]-R90.pdf
+¦   ¦   ¦   ¦               ¦       [1000 500 -1000 -500].pdf
+¦   ¦   ¦   ¦               ¦       
+¦   ¦   ¦   ¦               +---encrypted
+¦   ¦   ¦   ¦               ¦       AES256-R6-u=user-o=owner.pdf
+¦   ¦   ¦   ¦               ¦       ex37.pdf
+¦   ¦   ¦   ¦               ¦       
+¦   ¦   ¦   ¦               +---filters
+¦   ¦   ¦   ¦               ¦   +---hex
+¦   ¦   ¦   ¦               ¦   ¦       hex.pdf
+¦   ¦   ¦   ¦               ¦   ¦       
+¦   ¦   ¦   ¦               ¦   +---lzw
+¦   ¦   ¦   ¦               ¦   ¦       999998.pdf
+¦   ¦   ¦   ¦               ¦   ¦       
+¦   ¦   ¦   ¦               ¦   +---multiple
+¦   ¦   ¦   ¦               ¦           flate-and-hex.pdf
+¦   ¦   ¦   ¦               ¦           
+¦   ¦   ¦   ¦               +---rotated
+¦   ¦   ¦   ¦               ¦       -180.pdf
+¦   ¦   ¦   ¦               ¦       -270.pdf
+¦   ¦   ¦   ¦               ¦       -360.pdf
+¦   ¦   ¦   ¦               ¦       -450.pdf
+¦   ¦   ¦   ¦               ¦       -90.pdf
+¦   ¦   ¦   ¦               ¦       180.pdf
+¦   ¦   ¦   ¦               ¦       270.pdf
+¦   ¦   ¦   ¦               ¦       360.pdf
+¦   ¦   ¦   ¦               ¦       450.pdf
+¦   ¦   ¦   ¦               ¦       90.pdf
+¦   ¦   ¦   ¦               ¦       all.pdf
+¦   ¦   ¦   ¦               ¦       
+¦   ¦   ¦   ¦               +---specials
+¦   ¦   ¦   ¦               ¦   +---0 0 R
+¦   ¦   ¦   ¦               ¦   ¦       template_pracovny_prikaz7-ooo-a.pdf
+¦   ¦   ¦   ¦               ¦   ¦       template_pracovny_prikaz7-ooo-a.txt
+¦   ¦   ¦   ¦               ¦   ¦       
+¦   ¦   ¦   ¦               ¦   +---bytes-before-file-header
+¦   ¦   ¦   ¦               ¦           Fantastic-Speaker-bytes-before-fileheader.pdf
+¦   ¦   ¦   ¦               ¦           
+¦   ¦   ¦   ¦               +---stamps
+¦   ¦   ¦   ¦               ¦   ¦   INFO.txt
+¦   ¦   ¦   ¦               ¦   ¦   
+¦   ¦   ¦   ¦               ¦   +---ENU
+¦   ¦   ¦   ¦               ¦           SignHere.pdf
+¦   ¦   ¦   ¦               ¦           Standard.pdf
+¦   ¦   ¦   ¦               ¦           StandardBusiness.pdf
+¦   ¦   ¦   ¦               ¦           
+¦   ¦   ¦   ¦               +---tektown
+¦   ¦   ¦   ¦               ¦       Logo.pdf
+¦   ¦   ¦   ¦               ¦       
+¦   ¦   ¦   ¦               +---transparency
+¦   ¦   ¦   ¦                       ex74.pdf
+¦   ¦   ¦   ¦                       
+¦   ¦   ¦   +---fpdi-fpdf
+¦   ¦   ¦   ¦   ¦   changelog.htm
+¦   ¦   ¦   ¦   ¦   composer.json
+¦   ¦   ¦   ¦   ¦   FAQ.htm
+¦   ¦   ¦   ¦   ¦   fpdf.css
+¦   ¦   ¦   ¦   ¦   fpdf.php
+¦   ¦   ¦   ¦   ¦   install.txt
+¦   ¦   ¦   ¦   ¦   license.txt
+¦   ¦   ¦   ¦   ¦   README.md
+¦   ¦   ¦   ¦   ¦   
+¦   ¦   ¦   ¦   +---doc
+¦   ¦   ¦   ¦   ¦       acceptpagebreak.htm
+¦   ¦   ¦   ¦   ¦       addfont.htm
+¦   ¦   ¦   ¦   ¦       addlink.htm
+¦   ¦   ¦   ¦   ¦       addpage.htm
+¦   ¦   ¦   ¦   ¦       aliasnbpages.htm
+¦   ¦   ¦   ¦   ¦       cell.htm
+¦   ¦   ¦   ¦   ¦       close.htm
+¦   ¦   ¦   ¦   ¦       error.htm
+¦   ¦   ¦   ¦   ¦       footer.htm
+¦   ¦   ¦   ¦   ¦       getpageheight.htm
+¦   ¦   ¦   ¦   ¦       getpagewidth.htm
+¦   ¦   ¦   ¦   ¦       getstringwidth.htm
+¦   ¦   ¦   ¦   ¦       getx.htm
+¦   ¦   ¦   ¦   ¦       gety.htm
+¦   ¦   ¦   ¦   ¦       header.htm
+¦   ¦   ¦   ¦   ¦       image.htm
+¦   ¦   ¦   ¦   ¦       index.htm
+¦   ¦   ¦   ¦   ¦       line.htm
+¦   ¦   ¦   ¦   ¦       link.htm
+¦   ¦   ¦   ¦   ¦       ln.htm
+¦   ¦   ¦   ¦   ¦       multicell.htm
+¦   ¦   ¦   ¦   ¦       output.htm
+¦   ¦   ¦   ¦   ¦       pageno.htm
+¦   ¦   ¦   ¦   ¦       rect.htm
+¦   ¦   ¦   ¦   ¦       setauthor.htm
+¦   ¦   ¦   ¦   ¦       setautopagebreak.htm
+¦   ¦   ¦   ¦   ¦       setcompression.htm
+¦   ¦   ¦   ¦   ¦       setcreator.htm
+¦   ¦   ¦   ¦   ¦       setdisplaymode.htm
+¦   ¦   ¦   ¦   ¦       setdrawcolor.htm
+¦   ¦   ¦   ¦   ¦       setfillcolor.htm
+¦   ¦   ¦   ¦   ¦       setfont.htm
+¦   ¦   ¦   ¦   ¦       setfontsize.htm
+¦   ¦   ¦   ¦   ¦       setkeywords.htm
+¦   ¦   ¦   ¦   ¦       setleftmargin.htm
+¦   ¦   ¦   ¦   ¦       setlinewidth.htm
+¦   ¦   ¦   ¦   ¦       setlink.htm
+¦   ¦   ¦   ¦   ¦       setmargins.htm
+¦   ¦   ¦   ¦   ¦       setrightmargin.htm
+¦   ¦   ¦   ¦   ¦       setsubject.htm
+¦   ¦   ¦   ¦   ¦       settextcolor.htm
+¦   ¦   ¦   ¦   ¦       settitle.htm
+¦   ¦   ¦   ¦   ¦       settopmargin.htm
+¦   ¦   ¦   ¦   ¦       setx.htm
+¦   ¦   ¦   ¦   ¦       setxy.htm
+¦   ¦   ¦   ¦   ¦       sety.htm
+¦   ¦   ¦   ¦   ¦       text.htm
+¦   ¦   ¦   ¦   ¦       write.htm
+¦   ¦   ¦   ¦   ¦       __construct.htm
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---font
+¦   ¦   ¦   ¦   ¦       courier.php
+¦   ¦   ¦   ¦   ¦       courierb.php
+¦   ¦   ¦   ¦   ¦       courierbi.php
+¦   ¦   ¦   ¦   ¦       courieri.php
+¦   ¦   ¦   ¦   ¦       helvetica.php
+¦   ¦   ¦   ¦   ¦       helveticab.php
+¦   ¦   ¦   ¦   ¦       helveticabi.php
+¦   ¦   ¦   ¦   ¦       helveticai.php
+¦   ¦   ¦   ¦   ¦       symbol.php
+¦   ¦   ¦   ¦   ¦       times.php
+¦   ¦   ¦   ¦   ¦       timesb.php
+¦   ¦   ¦   ¦   ¦       timesbi.php
+¦   ¦   ¦   ¦   ¦       timesi.php
+¦   ¦   ¦   ¦   ¦       zapfdingbats.php
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---makefont
+¦   ¦   ¦   ¦   ¦       cp1250.map
+¦   ¦   ¦   ¦   ¦       cp1251.map
+¦   ¦   ¦   ¦   ¦       cp1252.map
+¦   ¦   ¦   ¦   ¦       cp1253.map
+¦   ¦   ¦   ¦   ¦       cp1254.map
+¦   ¦   ¦   ¦   ¦       cp1255.map
+¦   ¦   ¦   ¦   ¦       cp1257.map
+¦   ¦   ¦   ¦   ¦       cp1258.map
+¦   ¦   ¦   ¦   ¦       cp874.map
+¦   ¦   ¦   ¦   ¦       iso-8859-1.map
+¦   ¦   ¦   ¦   ¦       iso-8859-11.map
+¦   ¦   ¦   ¦   ¦       iso-8859-15.map
+¦   ¦   ¦   ¦   ¦       iso-8859-16.map
+¦   ¦   ¦   ¦   ¦       iso-8859-2.map
+¦   ¦   ¦   ¦   ¦       iso-8859-4.map
+¦   ¦   ¦   ¦   ¦       iso-8859-5.map
+¦   ¦   ¦   ¦   ¦       iso-8859-7.map
+¦   ¦   ¦   ¦   ¦       iso-8859-9.map
+¦   ¦   ¦   ¦   ¦       koi8-r.map
+¦   ¦   ¦   ¦   ¦       koi8-u.map
+¦   ¦   ¦   ¦   ¦       makefont.php
+¦   ¦   ¦   ¦   ¦       ttfparser.php
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---tutorial
+¦   ¦   ¦   ¦           20k_c1.txt
+¦   ¦   ¦   ¦           20k_c2.txt
+¦   ¦   ¦   ¦           calligra.php
+¦   ¦   ¦   ¦           calligra.ttf
+¦   ¦   ¦   ¦           calligra.z
+¦   ¦   ¦   ¦           countries.txt
+¦   ¦   ¦   ¦           index.htm
+¦   ¦   ¦   ¦           logo.png
+¦   ¦   ¦   ¦           makefont.php
+¦   ¦   ¦   ¦           tuto1.htm
+¦   ¦   ¦   ¦           tuto1.php
+¦   ¦   ¦   ¦           tuto2.htm
+¦   ¦   ¦   ¦           tuto2.php
+¦   ¦   ¦   ¦           tuto3.htm
+¦   ¦   ¦   ¦           tuto3.php
+¦   ¦   ¦   ¦           tuto4.htm
+¦   ¦   ¦   ¦           tuto4.php
+¦   ¦   ¦   ¦           tuto5.htm
+¦   ¦   ¦   ¦           tuto5.php
+¦   ¦   ¦   ¦           tuto6.htm
+¦   ¦   ¦   ¦           tuto6.php
+¦   ¦   ¦   ¦           tuto7.htm
+¦   ¦   ¦   ¦           tuto7.php
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---fpdi-tcpdf
+¦   ¦   ¦   ¦   ¦   changelog.htm
+¦   ¦   ¦   ¦   ¦   composer.json
+¦   ¦   ¦   ¦   ¦   FAQ.htm
+¦   ¦   ¦   ¦   ¦   fpdf.css
+¦   ¦   ¦   ¦   ¦   fpdf.php
+¦   ¦   ¦   ¦   ¦   install.txt
+¦   ¦   ¦   ¦   ¦   license.txt
+¦   ¦   ¦   ¦   ¦   README.md
+¦   ¦   ¦   ¦   ¦   
+¦   ¦   ¦   ¦   +---doc
+¦   ¦   ¦   ¦   ¦       acceptpagebreak.htm
+¦   ¦   ¦   ¦   ¦       addfont.htm
+¦   ¦   ¦   ¦   ¦       addlink.htm
+¦   ¦   ¦   ¦   ¦       addpage.htm
+¦   ¦   ¦   ¦   ¦       aliasnbpages.htm
+¦   ¦   ¦   ¦   ¦       cell.htm
+¦   ¦   ¦   ¦   ¦       close.htm
+¦   ¦   ¦   ¦   ¦       error.htm
+¦   ¦   ¦   ¦   ¦       footer.htm
+¦   ¦   ¦   ¦   ¦       getpageheight.htm
+¦   ¦   ¦   ¦   ¦       getpagewidth.htm
+¦   ¦   ¦   ¦   ¦       getstringwidth.htm
+¦   ¦   ¦   ¦   ¦       getx.htm
+¦   ¦   ¦   ¦   ¦       gety.htm
+¦   ¦   ¦   ¦   ¦       header.htm
+¦   ¦   ¦   ¦   ¦       image.htm
+¦   ¦   ¦   ¦   ¦       index.htm
+¦   ¦   ¦   ¦   ¦       line.htm
+¦   ¦   ¦   ¦   ¦       link.htm
+¦   ¦   ¦   ¦   ¦       ln.htm
+¦   ¦   ¦   ¦   ¦       multicell.htm
+¦   ¦   ¦   ¦   ¦       output.htm
+¦   ¦   ¦   ¦   ¦       pageno.htm
+¦   ¦   ¦   ¦   ¦       rect.htm
+¦   ¦   ¦   ¦   ¦       setauthor.htm
+¦   ¦   ¦   ¦   ¦       setautopagebreak.htm
+¦   ¦   ¦   ¦   ¦       setcompression.htm
+¦   ¦   ¦   ¦   ¦       setcreator.htm
+¦   ¦   ¦   ¦   ¦       setdisplaymode.htm
+¦   ¦   ¦   ¦   ¦       setdrawcolor.htm
+¦   ¦   ¦   ¦   ¦       setfillcolor.htm
+¦   ¦   ¦   ¦   ¦       setfont.htm
+¦   ¦   ¦   ¦   ¦       setfontsize.htm
+¦   ¦   ¦   ¦   ¦       setkeywords.htm
+¦   ¦   ¦   ¦   ¦       setleftmargin.htm
+¦   ¦   ¦   ¦   ¦       setlinewidth.htm
+¦   ¦   ¦   ¦   ¦       setlink.htm
+¦   ¦   ¦   ¦   ¦       setmargins.htm
+¦   ¦   ¦   ¦   ¦       setrightmargin.htm
+¦   ¦   ¦   ¦   ¦       setsubject.htm
+¦   ¦   ¦   ¦   ¦       settextcolor.htm
+¦   ¦   ¦   ¦   ¦       settitle.htm
+¦   ¦   ¦   ¦   ¦       settopmargin.htm
+¦   ¦   ¦   ¦   ¦       setx.htm
+¦   ¦   ¦   ¦   ¦       setxy.htm
+¦   ¦   ¦   ¦   ¦       sety.htm
+¦   ¦   ¦   ¦   ¦       text.htm
+¦   ¦   ¦   ¦   ¦       write.htm
+¦   ¦   ¦   ¦   ¦       __construct.htm
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---font
+¦   ¦   ¦   ¦   ¦       courier.php
+¦   ¦   ¦   ¦   ¦       courierb.php
+¦   ¦   ¦   ¦   ¦       courierbi.php
+¦   ¦   ¦   ¦   ¦       courieri.php
+¦   ¦   ¦   ¦   ¦       helvetica.php
+¦   ¦   ¦   ¦   ¦       helveticab.php
+¦   ¦   ¦   ¦   ¦       helveticabi.php
+¦   ¦   ¦   ¦   ¦       helveticai.php
+¦   ¦   ¦   ¦   ¦       symbol.php
+¦   ¦   ¦   ¦   ¦       times.php
+¦   ¦   ¦   ¦   ¦       timesb.php
+¦   ¦   ¦   ¦   ¦       timesbi.php
+¦   ¦   ¦   ¦   ¦       timesi.php
+¦   ¦   ¦   ¦   ¦       zapfdingbats.php
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---makefont
+¦   ¦   ¦   ¦   ¦       cp1250.map
+¦   ¦   ¦   ¦   ¦       cp1251.map
+¦   ¦   ¦   ¦   ¦       cp1252.map
+¦   ¦   ¦   ¦   ¦       cp1253.map
+¦   ¦   ¦   ¦   ¦       cp1254.map
+¦   ¦   ¦   ¦   ¦       cp1255.map
+¦   ¦   ¦   ¦   ¦       cp1257.map
+¦   ¦   ¦   ¦   ¦       cp1258.map
+¦   ¦   ¦   ¦   ¦       cp874.map
+¦   ¦   ¦   ¦   ¦       iso-8859-1.map
+¦   ¦   ¦   ¦   ¦       iso-8859-11.map
+¦   ¦   ¦   ¦   ¦       iso-8859-15.map
+¦   ¦   ¦   ¦   ¦       iso-8859-16.map
+¦   ¦   ¦   ¦   ¦       iso-8859-2.map
+¦   ¦   ¦   ¦   ¦       iso-8859-4.map
+¦   ¦   ¦   ¦   ¦       iso-8859-5.map
+¦   ¦   ¦   ¦   ¦       iso-8859-7.map
+¦   ¦   ¦   ¦   ¦       iso-8859-9.map
+¦   ¦   ¦   ¦   ¦       koi8-r.map
+¦   ¦   ¦   ¦   ¦       koi8-u.map
+¦   ¦   ¦   ¦   ¦       makefont.php
+¦   ¦   ¦   ¦   ¦       ttfparser.php
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---tutorial
+¦   ¦   ¦   ¦           20k_c1.txt
+¦   ¦   ¦   ¦           20k_c2.txt
+¦   ¦   ¦   ¦           calligra.php
+¦   ¦   ¦   ¦           calligra.ttf
+¦   ¦   ¦   ¦           calligra.z
+¦   ¦   ¦   ¦           countries.txt
+¦   ¦   ¦   ¦           index.htm
+¦   ¦   ¦   ¦           logo.png
+¦   ¦   ¦   ¦           makefont.php
+¦   ¦   ¦   ¦           tuto1.htm
+¦   ¦   ¦   ¦           tuto1.php
+¦   ¦   ¦   ¦           tuto2.htm
+¦   ¦   ¦   ¦           tuto2.php
+¦   ¦   ¦   ¦           tuto3.htm
+¦   ¦   ¦   ¦           tuto3.php
+¦   ¦   ¦   ¦           tuto4.htm
+¦   ¦   ¦   ¦           tuto4.php
+¦   ¦   ¦   ¦           tuto5.htm
+¦   ¦   ¦   ¦           tuto5.php
+¦   ¦   ¦   ¦           tuto6.htm
+¦   ¦   ¦   ¦           tuto6.php
+¦   ¦   ¦   ¦           tuto7.htm
+¦   ¦   ¦   ¦           tuto7.php
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---tcpdf
+¦   ¦   ¦       ¦   CHANGELOG.TXT
+¦   ¦   ¦       ¦   composer.json
+¦   ¦   ¦       ¦   fpdf_tpl.php
+¦   ¦   ¦       ¦   LICENSE.TXT
+¦   ¦   ¦       ¦   README.md
+¦   ¦   ¦       ¦   tcpdf.php
+¦   ¦   ¦       ¦   tcpdf_autoconfig.php
+¦   ¦   ¦       ¦   tcpdf_barcodes_1d.php
+¦   ¦   ¦       ¦   tcpdf_barcodes_2d.php
+¦   ¦   ¦       ¦   tcpdf_import.php
+¦   ¦   ¦       ¦   tcpdf_parser.php
+¦   ¦   ¦       ¦   tcpdi.php
+¦   ¦   ¦       ¦   tcpdi_parser.php
+¦   ¦   ¦       ¦   
+¦   ¦   ¦       +---config
+¦   ¦   ¦       ¦       tcpdf_config.php
+¦   ¦   ¦       ¦       
+¦   ¦   ¦       +---examples
+¦   ¦   ¦       ¦   ¦   example_001.php
+¦   ¦   ¦       ¦   ¦   example_002.php
+¦   ¦   ¦       ¦   ¦   example_003.php
+¦   ¦   ¦       ¦   ¦   example_004.php
+¦   ¦   ¦       ¦   ¦   example_005.php
+¦   ¦   ¦       ¦   ¦   example_006.php
+¦   ¦   ¦       ¦   ¦   example_007.php
+¦   ¦   ¦       ¦   ¦   example_008.php
+¦   ¦   ¦       ¦   ¦   example_009.php
+¦   ¦   ¦       ¦   ¦   example_010.php
+¦   ¦   ¦       ¦   ¦   example_011.php
+¦   ¦   ¦       ¦   ¦   example_012.pdf
+¦   ¦   ¦       ¦   ¦   example_012.php
+¦   ¦   ¦       ¦   ¦   example_013.php
+¦   ¦   ¦       ¦   ¦   example_014.php
+¦   ¦   ¦       ¦   ¦   example_015.php
+¦   ¦   ¦       ¦   ¦   example_016.php
+¦   ¦   ¦       ¦   ¦   example_017.php
+¦   ¦   ¦       ¦   ¦   example_018.php
+¦   ¦   ¦       ¦   ¦   example_019.php
+¦   ¦   ¦       ¦   ¦   example_020.php
+¦   ¦   ¦       ¦   ¦   example_021.php
+¦   ¦   ¦       ¦   ¦   example_022.php
+¦   ¦   ¦       ¦   ¦   example_023.php
+¦   ¦   ¦       ¦   ¦   example_024.php
+¦   ¦   ¦       ¦   ¦   example_025.php
+¦   ¦   ¦       ¦   ¦   example_026.php
+¦   ¦   ¦       ¦   ¦   example_027.php
+¦   ¦   ¦       ¦   ¦   example_028.php
+¦   ¦   ¦       ¦   ¦   example_029.php
+¦   ¦   ¦       ¦   ¦   example_030.php
+¦   ¦   ¦       ¦   ¦   example_031.php
+¦   ¦   ¦       ¦   ¦   example_032.php
+¦   ¦   ¦       ¦   ¦   example_033.php
+¦   ¦   ¦       ¦   ¦   example_034.php
+¦   ¦   ¦       ¦   ¦   example_035.php
+¦   ¦   ¦       ¦   ¦   example_036.php
+¦   ¦   ¦       ¦   ¦   example_037.php
+¦   ¦   ¦       ¦   ¦   example_038.php
+¦   ¦   ¦       ¦   ¦   example_039.php
+¦   ¦   ¦       ¦   ¦   example_040.php
+¦   ¦   ¦       ¦   ¦   example_041.php
+¦   ¦   ¦       ¦   ¦   example_042.php
+¦   ¦   ¦       ¦   ¦   example_043.php
+¦   ¦   ¦       ¦   ¦   example_044.php
+¦   ¦   ¦       ¦   ¦   example_045.php
+¦   ¦   ¦       ¦   ¦   example_046.php
+¦   ¦   ¦       ¦   ¦   example_047.php
+¦   ¦   ¦       ¦   ¦   example_048.php
+¦   ¦   ¦       ¦   ¦   example_049.php
+¦   ¦   ¦       ¦   ¦   example_050.php
+¦   ¦   ¦       ¦   ¦   example_051.php
+¦   ¦   ¦       ¦   ¦   example_052.php
+¦   ¦   ¦       ¦   ¦   example_053.php
+¦   ¦   ¦       ¦   ¦   example_054.php
+¦   ¦   ¦       ¦   ¦   example_055.php
+¦   ¦   ¦       ¦   ¦   example_056.php
+¦   ¦   ¦       ¦   ¦   example_057.php
+¦   ¦   ¦       ¦   ¦   example_058.php
+¦   ¦   ¦       ¦   ¦   example_059.php
+¦   ¦   ¦       ¦   ¦   example_060.php
+¦   ¦   ¦       ¦   ¦   example_061.php
+¦   ¦   ¦       ¦   ¦   example_062.php
+¦   ¦   ¦       ¦   ¦   example_063.php
+¦   ¦   ¦       ¦   ¦   example_064.php
+¦   ¦   ¦       ¦   ¦   example_065.php
+¦   ¦   ¦       ¦   ¦   index.php
+¦   ¦   ¦       ¦   ¦   tcpdf_include.php
+¦   ¦   ¦       ¦   ¦   
+¦   ¦   ¦       ¦   +---barcodes
+¦   ¦   ¦       ¦   ¦       example_1d_html.php
+¦   ¦   ¦       ¦   ¦       example_1d_png.php
+¦   ¦   ¦       ¦   ¦       example_1d_svg.php
+¦   ¦   ¦       ¦   ¦       example_1d_svgi.php
+¦   ¦   ¦       ¦   ¦       example_2d_datamatrix_html.php
+¦   ¦   ¦       ¦   ¦       example_2d_datamatrix_png.php
+¦   ¦   ¦       ¦   ¦       example_2d_datamatrix_svg.php
+¦   ¦   ¦       ¦   ¦       example_2d_datamatrix_svgi.php
+¦   ¦   ¦       ¦   ¦       example_2d_pdf417_html.php
+¦   ¦   ¦       ¦   ¦       example_2d_pdf417_png.php
+¦   ¦   ¦       ¦   ¦       example_2d_pdf417_svg.php
+¦   ¦   ¦       ¦   ¦       example_2d_pdf417_svgi.php
+¦   ¦   ¦       ¦   ¦       example_2d_qrcode_html.php
+¦   ¦   ¦       ¦   ¦       example_2d_qrcode_png.php
+¦   ¦   ¦       ¦   ¦       example_2d_qrcode_svg.php
+¦   ¦   ¦       ¦   ¦       example_2d_qrcode_svgi.php
+¦   ¦   ¦       ¦   ¦       tcpdf_barcodes_1d_include.php
+¦   ¦   ¦       ¦   ¦       tcpdf_barcodes_2d_include.php
+¦   ¦   ¦       ¦   ¦       
+¦   ¦   ¦       ¦   +---config
+¦   ¦   ¦       ¦   ¦       tcpdf_config_alt.php
+¦   ¦   ¦       ¦   ¦       
+¦   ¦   ¦       ¦   +---data
+¦   ¦   ¦       ¦   ¦   ¦   chapter_demo_1.txt
+¦   ¦   ¦       ¦   ¦   ¦   chapter_demo_2.txt
+¦   ¦   ¦       ¦   ¦   ¦   table_data_demo.txt
+¦   ¦   ¦       ¦   ¦   ¦   utf8test.txt
+¦   ¦   ¦       ¦   ¦   ¦   
+¦   ¦   ¦       ¦   ¦   +---cert
+¦   ¦   ¦       ¦   ¦           tcpdf.crt
+¦   ¦   ¦       ¦   ¦           tcpdf.fdf
+¦   ¦   ¦       ¦   ¦           tcpdf.p12
+¦   ¦   ¦       ¦   ¦           
+¦   ¦   ¦       ¦   +---images
+¦   ¦   ¦       ¦   ¦       alpha.png
+¦   ¦   ¦       ¦   ¦       image_demo.jpg
+¦   ¦   ¦       ¦   ¦       image_with_alpha.png
+¦   ¦   ¦       ¦   ¦       img.png
+¦   ¦   ¦       ¦   ¦       logo_example.gif
+¦   ¦   ¦       ¦   ¦       logo_example.jpg
+¦   ¦   ¦       ¦   ¦       logo_example.png
+¦   ¦   ¦       ¦   ¦       tcpdf_box.ai
+¦   ¦   ¦       ¦   ¦       tcpdf_box.svg
+¦   ¦   ¦       ¦   ¦       tcpdf_cell.png
+¦   ¦   ¦       ¦   ¦       tcpdf_logo.jpg
+¦   ¦   ¦       ¦   ¦       tcpdf_signature.png
+¦   ¦   ¦       ¦   ¦       testsvg.svg
+¦   ¦   ¦       ¦   ¦       tux.svg
+¦   ¦   ¦       ¦   ¦       _blank.png
+¦   ¦   ¦       ¦   ¦       
+¦   ¦   ¦       ¦   +---lang
+¦   ¦   ¦       ¦           afr.php
+¦   ¦   ¦       ¦           ara.php
+¦   ¦   ¦       ¦           aze.php
+¦   ¦   ¦       ¦           bel.php
+¦   ¦   ¦       ¦           bra.php
+¦   ¦   ¦       ¦           bul.php
+¦   ¦   ¦       ¦           cat.php
+¦   ¦   ¦       ¦           ces.php
+¦   ¦   ¦       ¦           chi.php
+¦   ¦   ¦       ¦           cym.php
+¦   ¦   ¦       ¦           dan.php
+¦   ¦   ¦       ¦           eng.php
+¦   ¦   ¦       ¦           est.php
+¦   ¦   ¦       ¦           eus.php
+¦   ¦   ¦       ¦           far.php
+¦   ¦   ¦       ¦           fra.php
+¦   ¦   ¦       ¦           ger.php
+¦   ¦   ¦       ¦           gle.php
+¦   ¦   ¦       ¦           glg.php
+¦   ¦   ¦       ¦           hat.php
+¦   ¦   ¦       ¦           heb.php
+¦   ¦   ¦       ¦           hrv.php
+¦   ¦   ¦       ¦           hun.php
+¦   ¦   ¦       ¦           hye.php
+¦   ¦   ¦       ¦           ind.php
+¦   ¦   ¦       ¦           ita.php
+¦   ¦   ¦       ¦           jpn.php
+¦   ¦   ¦       ¦           kat.php
+¦   ¦   ¦       ¦           kor.php
+¦   ¦   ¦       ¦           mkd.php
+¦   ¦   ¦       ¦           mlt.php
+¦   ¦   ¦       ¦           msa.php
+¦   ¦   ¦       ¦           nld.php
+¦   ¦   ¦       ¦           nob.php
+¦   ¦   ¦       ¦           pol.php
+¦   ¦   ¦       ¦           por.php
+¦   ¦   ¦       ¦           ron.php
+¦   ¦   ¦       ¦           rus.php
+¦   ¦   ¦       ¦           slv.php
+¦   ¦   ¦       ¦           spa.php
+¦   ¦   ¦       ¦           sqi.php
+¦   ¦   ¦       ¦           srp.php
+¦   ¦   ¦       ¦           swa.php
+¦   ¦   ¦       ¦           swe.php
+¦   ¦   ¦       ¦           ukr.php
+¦   ¦   ¦       ¦           urd.php
+¦   ¦   ¦       ¦           yid.php
+¦   ¦   ¦       ¦           zho.php
+¦   ¦   ¦       ¦           
+¦   ¦   ¦       +---fonts
+¦   ¦   ¦       ¦   ¦   aealarabiya.ctg.z
+¦   ¦   ¦       ¦   ¦   aealarabiya.php
+¦   ¦   ¦       ¦   ¦   aealarabiya.z
+¦   ¦   ¦       ¦   ¦   aefurat.ctg.z
+¦   ¦   ¦       ¦   ¦   aefurat.php
+¦   ¦   ¦       ¦   ¦   aefurat.z
+¦   ¦   ¦       ¦   ¦   cid0cs.php
+¦   ¦   ¦       ¦   ¦   cid0ct.php
+¦   ¦   ¦       ¦   ¦   cid0jp.php
+¦   ¦   ¦       ¦   ¦   cid0kr.php
+¦   ¦   ¦       ¦   ¦   courier.php
+¦   ¦   ¦       ¦   ¦   courierb.php
+¦   ¦   ¦       ¦   ¦   courierbi.php
+¦   ¦   ¦       ¦   ¦   courieri.php
+¦   ¦   ¦       ¦   ¦   dejavusans.ctg.z
+¦   ¦   ¦       ¦   ¦   dejavusans.php
+¦   ¦   ¦       ¦   ¦   dejavusans.z
+¦   ¦   ¦       ¦   ¦   dejavusansb.ctg.z
+¦   ¦   ¦       ¦   ¦   dejavusansb.php
+¦   ¦   ¦       ¦   ¦   dejavusansb.z
+¦   ¦   ¦       ¦   ¦   dejavusansbi.ctg.z
+¦   ¦   ¦       ¦   ¦   dejavusansbi.php
+¦   ¦   ¦       ¦   ¦   dejavusansbi.z
+¦   ¦   ¦       ¦   ¦   dejavusanscondensed.ctg.z
+¦   ¦   ¦       ¦   ¦   dejavusanscondensed.php
+¦   ¦   ¦       ¦   ¦   dejavusanscondensed.z
+¦   ¦   ¦       ¦   ¦   dejavusanscondensedb.ctg.z
+¦   ¦   ¦       ¦   ¦   dejavusanscondensedb.php
+¦   ¦   ¦       ¦   ¦   dejavusanscondensedb.z
+¦   ¦   ¦       ¦   ¦   dejavusanscondensedbi.ctg.z
+¦   ¦   ¦       ¦   ¦   dejavusanscondensedbi.php
+¦   ¦   ¦       ¦   ¦   dejavusanscondensedbi.z
+¦   ¦   ¦       ¦   ¦   dejavusanscondensedi.ctg.z
+¦   ¦   ¦       ¦   ¦   dejavusanscondensedi.php
+¦   ¦   ¦       ¦   ¦   dejavusanscondensedi.z
+¦   ¦   ¦       ¦   ¦   dejavusansextralight.ctg.z
+¦   ¦   ¦       ¦   ¦   dejavusansextralight.php
+¦   ¦   ¦       ¦   ¦   dejavusansextralight.z
+¦   ¦   ¦       ¦   ¦   dejavusansi.ctg.z
+¦   ¦   ¦       ¦   ¦   dejavusansi.php
+¦   ¦   ¦       ¦   ¦   dejavusansi.z
+¦   ¦   ¦       ¦   ¦   dejavusansmono.ctg.z
+¦   ¦   ¦       ¦   ¦   dejavusansmono.php
+¦   ¦   ¦       ¦   ¦   dejavusansmono.z
+¦   ¦   ¦       ¦   ¦   dejavusansmonob.ctg.z
+¦   ¦   ¦       ¦   ¦   dejavusansmonob.php
+¦   ¦   ¦       ¦   ¦   dejavusansmonob.z
+¦   ¦   ¦       ¦   ¦   dejavusansmonobi.ctg.z
+¦   ¦   ¦       ¦   ¦   dejavusansmonobi.php
+¦   ¦   ¦       ¦   ¦   dejavusansmonobi.z
+¦   ¦   ¦       ¦   ¦   dejavusansmonoi.ctg.z
+¦   ¦   ¦       ¦   ¦   dejavusansmonoi.php
+¦   ¦   ¦       ¦   ¦   dejavusansmonoi.z
+¦   ¦   ¦       ¦   ¦   dejavuserif.ctg.z
+¦   ¦   ¦       ¦   ¦   dejavuserif.php
+¦   ¦   ¦       ¦   ¦   dejavuserif.z
+¦   ¦   ¦       ¦   ¦   dejavuserifb.ctg.z
+¦   ¦   ¦       ¦   ¦   dejavuserifb.php
+¦   ¦   ¦       ¦   ¦   dejavuserifb.z
+¦   ¦   ¦       ¦   ¦   dejavuserifbi.ctg.z
+¦   ¦   ¦       ¦   ¦   dejavuserifbi.php
+¦   ¦   ¦       ¦   ¦   dejavuserifbi.z
+¦   ¦   ¦       ¦   ¦   dejavuserifcondensed.ctg.z
+¦   ¦   ¦       ¦   ¦   dejavuserifcondensed.php
+¦   ¦   ¦       ¦   ¦   dejavuserifcondensed.z
+¦   ¦   ¦       ¦   ¦   dejavuserifcondensedb.ctg.z
+¦   ¦   ¦       ¦   ¦   dejavuserifcondensedb.php
+¦   ¦   ¦       ¦   ¦   dejavuserifcondensedb.z
+¦   ¦   ¦       ¦   ¦   dejavuserifcondensedbi.ctg.z
+¦   ¦   ¦       ¦   ¦   dejavuserifcondensedbi.php
+¦   ¦   ¦       ¦   ¦   dejavuserifcondensedbi.z
+¦   ¦   ¦       ¦   ¦   dejavuserifcondensedi.ctg.z
+¦   ¦   ¦       ¦   ¦   dejavuserifcondensedi.php
+¦   ¦   ¦       ¦   ¦   dejavuserifcondensedi.z
+¦   ¦   ¦       ¦   ¦   dejavuserifi.ctg.z
+¦   ¦   ¦       ¦   ¦   dejavuserifi.php
+¦   ¦   ¦       ¦   ¦   dejavuserifi.z
+¦   ¦   ¦       ¦   ¦   freemono.ctg.z
+¦   ¦   ¦       ¦   ¦   freemono.php
+¦   ¦   ¦       ¦   ¦   freemono.z
+¦   ¦   ¦       ¦   ¦   freemonob.ctg.z
+¦   ¦   ¦       ¦   ¦   freemonob.php
+¦   ¦   ¦       ¦   ¦   freemonob.z
+¦   ¦   ¦       ¦   ¦   freemonobi.ctg.z
+¦   ¦   ¦       ¦   ¦   freemonobi.php
+¦   ¦   ¦       ¦   ¦   freemonobi.z
+¦   ¦   ¦       ¦   ¦   freemonoi.ctg.z
+¦   ¦   ¦       ¦   ¦   freemonoi.php
+¦   ¦   ¦       ¦   ¦   freemonoi.z
+¦   ¦   ¦       ¦   ¦   freesans.ctg.z
+¦   ¦   ¦       ¦   ¦   freesans.php
+¦   ¦   ¦       ¦   ¦   freesans.z
+¦   ¦   ¦       ¦   ¦   freesansb.ctg.z
+¦   ¦   ¦       ¦   ¦   freesansb.php
+¦   ¦   ¦       ¦   ¦   freesansb.z
+¦   ¦   ¦       ¦   ¦   freesansbi.ctg.z
+¦   ¦   ¦       ¦   ¦   freesansbi.php
+¦   ¦   ¦       ¦   ¦   freesansbi.z
+¦   ¦   ¦       ¦   ¦   freesansi.ctg.z
+¦   ¦   ¦       ¦   ¦   freesansi.php
+¦   ¦   ¦       ¦   ¦   freesansi.z
+¦   ¦   ¦       ¦   ¦   freeserif.ctg.z
+¦   ¦   ¦       ¦   ¦   freeserif.php
+¦   ¦   ¦       ¦   ¦   freeserif.z
+¦   ¦   ¦       ¦   ¦   freeserifb.ctg.z
+¦   ¦   ¦       ¦   ¦   freeserifb.php
+¦   ¦   ¦       ¦   ¦   freeserifb.z
+¦   ¦   ¦       ¦   ¦   freeserifbi.ctg.z
+¦   ¦   ¦       ¦   ¦   freeserifbi.php
+¦   ¦   ¦       ¦   ¦   freeserifbi.z
+¦   ¦   ¦       ¦   ¦   freeserifi.ctg.z
+¦   ¦   ¦       ¦   ¦   freeserifi.php
+¦   ¦   ¦       ¦   ¦   freeserifi.z
+¦   ¦   ¦       ¦   ¦   helvetica.php
+¦   ¦   ¦       ¦   ¦   helveticab.php
+¦   ¦   ¦       ¦   ¦   helveticabi.php
+¦   ¦   ¦       ¦   ¦   helveticai.php
+¦   ¦   ¦       ¦   ¦   hysmyeongjostdmedium.php
+¦   ¦   ¦       ¦   ¦   kozgopromedium.php
+¦   ¦   ¦       ¦   ¦   kozminproregular.php
+¦   ¦   ¦       ¦   ¦   msungstdlight.php
+¦   ¦   ¦       ¦   ¦   pdfacourier.php
+¦   ¦   ¦       ¦   ¦   pdfacourier.z
+¦   ¦   ¦       ¦   ¦   pdfacourierb.php
+¦   ¦   ¦       ¦   ¦   pdfacourierb.z
+¦   ¦   ¦       ¦   ¦   pdfacourierbi.php
+¦   ¦   ¦       ¦   ¦   pdfacourierbi.z
+¦   ¦   ¦       ¦   ¦   pdfacourieri.php
+¦   ¦   ¦       ¦   ¦   pdfacourieri.z
+¦   ¦   ¦       ¦   ¦   pdfahelvetica.php
+¦   ¦   ¦       ¦   ¦   pdfahelvetica.z
+¦   ¦   ¦       ¦   ¦   pdfahelveticab.php
+¦   ¦   ¦       ¦   ¦   pdfahelveticab.z
+¦   ¦   ¦       ¦   ¦   pdfahelveticabi.php
+¦   ¦   ¦       ¦   ¦   pdfahelveticabi.z
+¦   ¦   ¦       ¦   ¦   pdfahelveticai.php
+¦   ¦   ¦       ¦   ¦   pdfahelveticai.z
+¦   ¦   ¦       ¦   ¦   pdfasymbol.php
+¦   ¦   ¦       ¦   ¦   pdfasymbol.z
+¦   ¦   ¦       ¦   ¦   pdfatimes.php
+¦   ¦   ¦       ¦   ¦   pdfatimes.z
+¦   ¦   ¦       ¦   ¦   pdfatimesb.php
+¦   ¦   ¦       ¦   ¦   pdfatimesb.z
+¦   ¦   ¦       ¦   ¦   pdfatimesbi.php
+¦   ¦   ¦       ¦   ¦   pdfatimesbi.z
+¦   ¦   ¦       ¦   ¦   pdfatimesi.php
+¦   ¦   ¦       ¦   ¦   pdfatimesi.z
+¦   ¦   ¦       ¦   ¦   pdfazapfdingbats.php
+¦   ¦   ¦       ¦   ¦   pdfazapfdingbats.z
+¦   ¦   ¦       ¦   ¦   stsongstdlight.php
+¦   ¦   ¦       ¦   ¦   symbol.php
+¦   ¦   ¦       ¦   ¦   times.php
+¦   ¦   ¦       ¦   ¦   timesb.php
+¦   ¦   ¦       ¦   ¦   timesbi.php
+¦   ¦   ¦       ¦   ¦   timesi.php
+¦   ¦   ¦       ¦   ¦   uni2cid_ac15.php
+¦   ¦   ¦       ¦   ¦   uni2cid_ag15.php
+¦   ¦   ¦       ¦   ¦   uni2cid_aj16.php
+¦   ¦   ¦       ¦   ¦   uni2cid_ak12.php
+¦   ¦   ¦       ¦   ¦   zapfdingbats.php
+¦   ¦   ¦       ¦   ¦   
+¦   ¦   ¦       ¦   +---ae_fonts_2.0
+¦   ¦   ¦       ¦   ¦       ChangeLog
+¦   ¦   ¦       ¦   ¦       ChangeLog.9745.BAK
+¦   ¦   ¦       ¦   ¦       COPYING
+¦   ¦   ¦       ¦   ¦       README
+¦   ¦   ¦       ¦   ¦       
+¦   ¦   ¦       ¦   +---dejavu-fonts-ttf-2.33
+¦   ¦   ¦       ¦   ¦       AUTHORS
+¦   ¦   ¦       ¦   ¦       BUGS
+¦   ¦   ¦       ¦   ¦       langcover.txt
+¦   ¦   ¦       ¦   ¦       LICENSE
+¦   ¦   ¦       ¦   ¦       NEWS
+¦   ¦   ¦       ¦   ¦       README
+¦   ¦   ¦       ¦   ¦       status.txt
+¦   ¦   ¦       ¦   ¦       unicover.txt
+¦   ¦   ¦       ¦   ¦       
+¦   ¦   ¦       ¦   +---dejavu-fonts-ttf-2.34
+¦   ¦   ¦       ¦   ¦       AUTHORS
+¦   ¦   ¦       ¦   ¦       BUGS
+¦   ¦   ¦       ¦   ¦       langcover.txt
+¦   ¦   ¦       ¦   ¦       LICENSE
+¦   ¦   ¦       ¦   ¦       NEWS
+¦   ¦   ¦       ¦   ¦       README
+¦   ¦   ¦       ¦   ¦       status.txt
+¦   ¦   ¦       ¦   ¦       unicover.txt
+¦   ¦   ¦       ¦   ¦       
+¦   ¦   ¦       ¦   +---freefont-20100919
+¦   ¦   ¦       ¦   ¦       AUTHORS
+¦   ¦   ¦       ¦   ¦       ChangeLog
+¦   ¦   ¦       ¦   ¦       COPYING
+¦   ¦   ¦       ¦   ¦       CREDITS
+¦   ¦   ¦       ¦   ¦       INSTALL
+¦   ¦   ¦       ¦   ¦       README
+¦   ¦   ¦       ¦   ¦       
+¦   ¦   ¦       ¦   +---freefont-20120503
+¦   ¦   ¦       ¦           AUTHORS
+¦   ¦   ¦       ¦           ChangeLog
+¦   ¦   ¦       ¦           ChangeLog.10070.BAK
+¦   ¦   ¦       ¦           COPYING
+¦   ¦   ¦       ¦           CREDITS
+¦   ¦   ¦       ¦           INSTALL
+¦   ¦   ¦       ¦           README
+¦   ¦   ¦       ¦           TROUBLESHOOTING
+¦   ¦   ¦       ¦           USAGE
+¦   ¦   ¦       ¦           
+¦   ¦   ¦       +---include
+¦   ¦   ¦       ¦   ¦   sRGB.icc
+¦   ¦   ¦       ¦   ¦   tcpdf_colors.php
+¦   ¦   ¦       ¦   ¦   tcpdf_filters.php
+¦   ¦   ¦       ¦   ¦   tcpdf_fonts.php
+¦   ¦   ¦       ¦   ¦   tcpdf_font_data.php
+¦   ¦   ¦       ¦   ¦   tcpdf_images.php
+¦   ¦   ¦       ¦   ¦   tcpdf_static.php
+¦   ¦   ¦       ¦   ¦   
+¦   ¦   ¦       ¦   +---barcodes
+¦   ¦   ¦       ¦           datamatrix.php
+¦   ¦   ¦       ¦           pdf417.php
+¦   ¦   ¦       ¦           qrcode.php
+¦   ¦   ¦       ¦           
+¦   ¦   ¦       +---tools
+¦   ¦   ¦               .htaccess
+¦   ¦   ¦               convert_fonts_examples.txt
+¦   ¦   ¦               tcpdf_addfont.php
+¦   ¦   ¦               
+¦   ¦   +---tecnickcom
+¦   ¦       +---tcpdf
+¦   ¦           ¦   CHANGELOG.TXT
+¦   ¦           ¦   composer.json
+¦   ¦           ¦   LICENSE.TXT
+¦   ¦           ¦   README.md
+¦   ¦           ¦   tcpdf.php
+¦   ¦           ¦   tcpdf_autoconfig.php
+¦   ¦           ¦   tcpdf_barcodes_1d.php
+¦   ¦           ¦   tcpdf_barcodes_2d.php
+¦   ¦           ¦   tcpdf_import.php
+¦   ¦           ¦   tcpdf_parser.php
+¦   ¦           ¦   
+¦   ¦           +---config
+¦   ¦           ¦       tcpdf_config.php
+¦   ¦           ¦       
+¦   ¦           +---examples
+¦   ¦           ¦   ¦   example_001.php
+¦   ¦           ¦   ¦   example_002.php
+¦   ¦           ¦   ¦   example_003.php
+¦   ¦           ¦   ¦   example_004.php
+¦   ¦           ¦   ¦   example_005.php
+¦   ¦           ¦   ¦   example_006.php
+¦   ¦           ¦   ¦   example_007.php
+¦   ¦           ¦   ¦   example_008.php
+¦   ¦           ¦   ¦   example_009.php
+¦   ¦           ¦   ¦   example_010.php
+¦   ¦           ¦   ¦   example_011.php
+¦   ¦           ¦   ¦   example_012.pdf
+¦   ¦           ¦   ¦   example_012.php
+¦   ¦           ¦   ¦   example_013.php
+¦   ¦           ¦   ¦   example_014.php
+¦   ¦           ¦   ¦   example_015.php
+¦   ¦           ¦   ¦   example_016.php
+¦   ¦           ¦   ¦   example_017.php
+¦   ¦           ¦   ¦   example_018.php
+¦   ¦           ¦   ¦   example_019.php
+¦   ¦           ¦   ¦   example_020.php
+¦   ¦           ¦   ¦   example_021.php
+¦   ¦           ¦   ¦   example_022.php
+¦   ¦           ¦   ¦   example_023.php
+¦   ¦           ¦   ¦   example_024.php
+¦   ¦           ¦   ¦   example_025.php
+¦   ¦           ¦   ¦   example_026.php
+¦   ¦           ¦   ¦   example_027.php
+¦   ¦           ¦   ¦   example_028.php
+¦   ¦           ¦   ¦   example_029.php
+¦   ¦           ¦   ¦   example_030.php
+¦   ¦           ¦   ¦   example_031.php
+¦   ¦           ¦   ¦   example_032.php
+¦   ¦           ¦   ¦   example_033.php
+¦   ¦           ¦   ¦   example_034.php
+¦   ¦           ¦   ¦   example_035.php
+¦   ¦           ¦   ¦   example_036.php
+¦   ¦           ¦   ¦   example_037.php
+¦   ¦           ¦   ¦   example_038.php
+¦   ¦           ¦   ¦   example_039.php
+¦   ¦           ¦   ¦   example_040.php
+¦   ¦           ¦   ¦   example_041.php
+¦   ¦           ¦   ¦   example_042.php
+¦   ¦           ¦   ¦   example_043.php
+¦   ¦           ¦   ¦   example_044.php
+¦   ¦           ¦   ¦   example_045.php
+¦   ¦           ¦   ¦   example_046.php
+¦   ¦           ¦   ¦   example_047.php
+¦   ¦           ¦   ¦   example_048.php
+¦   ¦           ¦   ¦   example_049.php
+¦   ¦           ¦   ¦   example_050.php
+¦   ¦           ¦   ¦   example_051.php
+¦   ¦           ¦   ¦   example_052.php
+¦   ¦           ¦   ¦   example_053.php
+¦   ¦           ¦   ¦   example_054.php
+¦   ¦           ¦   ¦   example_055.php
+¦   ¦           ¦   ¦   example_056.php
+¦   ¦           ¦   ¦   example_057.php
+¦   ¦           ¦   ¦   example_058.php
+¦   ¦           ¦   ¦   example_059.php
+¦   ¦           ¦   ¦   example_060.php
+¦   ¦           ¦   ¦   example_061.php
+¦   ¦           ¦   ¦   example_062.php
+¦   ¦           ¦   ¦   example_063.php
+¦   ¦           ¦   ¦   example_064.php
+¦   ¦           ¦   ¦   example_065.php
+¦   ¦           ¦   ¦   index.php
+¦   ¦           ¦   ¦   tcpdf_include.php
+¦   ¦           ¦   ¦   
+¦   ¦           ¦   +---barcodes
+¦   ¦           ¦   ¦       example_1d_html.php
+¦   ¦           ¦   ¦       example_1d_png.php
+¦   ¦           ¦   ¦       example_1d_svg.php
+¦   ¦           ¦   ¦       example_1d_svgi.php
+¦   ¦           ¦   ¦       example_2d_datamatrix_html.php
+¦   ¦           ¦   ¦       example_2d_datamatrix_png.php
+¦   ¦           ¦   ¦       example_2d_datamatrix_svg.php
+¦   ¦           ¦   ¦       example_2d_datamatrix_svgi.php
+¦   ¦           ¦   ¦       example_2d_pdf417_html.php
+¦   ¦           ¦   ¦       example_2d_pdf417_png.php
+¦   ¦           ¦   ¦       example_2d_pdf417_svg.php
+¦   ¦           ¦   ¦       example_2d_pdf417_svgi.php
+¦   ¦           ¦   ¦       example_2d_qrcode_html.php
+¦   ¦           ¦   ¦       example_2d_qrcode_png.php
+¦   ¦           ¦   ¦       example_2d_qrcode_svg.php
+¦   ¦           ¦   ¦       example_2d_qrcode_svgi.php
+¦   ¦           ¦   ¦       tcpdf_barcodes_1d_include.php
+¦   ¦           ¦   ¦       tcpdf_barcodes_2d_include.php
+¦   ¦           ¦   ¦       
+¦   ¦           ¦   +---config
+¦   ¦           ¦   ¦       tcpdf_config_alt.php
+¦   ¦           ¦   ¦       
+¦   ¦           ¦   +---data
+¦   ¦           ¦   ¦   ¦   chapter_demo_1.txt
+¦   ¦           ¦   ¦   ¦   chapter_demo_2.txt
+¦   ¦           ¦   ¦   ¦   table_data_demo.txt
+¦   ¦           ¦   ¦   ¦   utf8test.txt
+¦   ¦           ¦   ¦   ¦   
+¦   ¦           ¦   ¦   +---cert
+¦   ¦           ¦   ¦           tcpdf.crt
+¦   ¦           ¦   ¦           tcpdf.fdf
+¦   ¦           ¦   ¦           tcpdf.p12
+¦   ¦           ¦   ¦           
+¦   ¦           ¦   +---images
+¦   ¦           ¦   ¦       alpha.png
+¦   ¦           ¦   ¦       image_demo.jpg
+¦   ¦           ¦   ¦       image_with_alpha.png
+¦   ¦           ¦   ¦       img.png
+¦   ¦           ¦   ¦       logo_example.gif
+¦   ¦           ¦   ¦       logo_example.jpg
+¦   ¦           ¦   ¦       logo_example.png
+¦   ¦           ¦   ¦       tcpdf_box.ai
+¦   ¦           ¦   ¦       tcpdf_box.svg
+¦   ¦           ¦   ¦       tcpdf_cell.png
+¦   ¦           ¦   ¦       tcpdf_logo.jpg
+¦   ¦           ¦   ¦       tcpdf_signature.png
+¦   ¦           ¦   ¦       testsvg.svg
+¦   ¦           ¦   ¦       tux.svg
+¦   ¦           ¦   ¦       _blank.png
+¦   ¦           ¦   ¦       
+¦   ¦           ¦   +---lang
+¦   ¦           ¦           afr.php
+¦   ¦           ¦           ara.php
+¦   ¦           ¦           aze.php
+¦   ¦           ¦           bel.php
+¦   ¦           ¦           bra.php
+¦   ¦           ¦           bul.php
+¦   ¦           ¦           cat.php
+¦   ¦           ¦           ces.php
+¦   ¦           ¦           chi.php
+¦   ¦           ¦           cym.php
+¦   ¦           ¦           dan.php
+¦   ¦           ¦           eng.php
+¦   ¦           ¦           est.php
+¦   ¦           ¦           eus.php
+¦   ¦           ¦           far.php
+¦   ¦           ¦           fra.php
+¦   ¦           ¦           ger.php
+¦   ¦           ¦           gle.php
+¦   ¦           ¦           glg.php
+¦   ¦           ¦           hat.php
+¦   ¦           ¦           heb.php
+¦   ¦           ¦           hrv.php
+¦   ¦           ¦           hun.php
+¦   ¦           ¦           hye.php
+¦   ¦           ¦           ind.php
+¦   ¦           ¦           ita.php
+¦   ¦           ¦           jpn.php
+¦   ¦           ¦           kat.php
+¦   ¦           ¦           kor.php
+¦   ¦           ¦           mkd.php
+¦   ¦           ¦           mlt.php
+¦   ¦           ¦           msa.php
+¦   ¦           ¦           nld.php
+¦   ¦           ¦           nob.php
+¦   ¦           ¦           pol.php
+¦   ¦           ¦           por.php
+¦   ¦           ¦           ron.php
+¦   ¦           ¦           rus.php
+¦   ¦           ¦           slv.php
+¦   ¦           ¦           spa.php
+¦   ¦           ¦           sqi.php
+¦   ¦           ¦           srp.php
+¦   ¦           ¦           swa.php
+¦   ¦           ¦           swe.php
+¦   ¦           ¦           ukr.php
+¦   ¦           ¦           urd.php
+¦   ¦           ¦           yid.php
+¦   ¦           ¦           zho.php
+¦   ¦           ¦           
+¦   ¦           +---fonts
+¦   ¦           ¦   ¦   aealarabiya.ctg.z
+¦   ¦           ¦   ¦   aealarabiya.php
+¦   ¦           ¦   ¦   aealarabiya.z
+¦   ¦           ¦   ¦   aefurat.ctg.z
+¦   ¦           ¦   ¦   aefurat.php
+¦   ¦           ¦   ¦   aefurat.z
+¦   ¦           ¦   ¦   cid0cs.php
+¦   ¦           ¦   ¦   cid0ct.php
+¦   ¦           ¦   ¦   cid0jp.php
+¦   ¦           ¦   ¦   cid0kr.php
+¦   ¦           ¦   ¦   courier.php
+¦   ¦           ¦   ¦   courierb.php
+¦   ¦           ¦   ¦   courierbi.php
+¦   ¦           ¦   ¦   courieri.php
+¦   ¦           ¦   ¦   dejavusans.ctg.z
+¦   ¦           ¦   ¦   dejavusans.php
+¦   ¦           ¦   ¦   dejavusans.z
+¦   ¦           ¦   ¦   dejavusansb.ctg.z
+¦   ¦           ¦   ¦   dejavusansb.php
+¦   ¦           ¦   ¦   dejavusansb.z
+¦   ¦           ¦   ¦   dejavusansbi.ctg.z
+¦   ¦           ¦   ¦   dejavusansbi.php
+¦   ¦           ¦   ¦   dejavusansbi.z
+¦   ¦           ¦   ¦   dejavusanscondensed.ctg.z
+¦   ¦           ¦   ¦   dejavusanscondensed.php
+¦   ¦           ¦   ¦   dejavusanscondensed.z
+¦   ¦           ¦   ¦   dejavusanscondensedb.ctg.z
+¦   ¦           ¦   ¦   dejavusanscondensedb.php
+¦   ¦           ¦   ¦   dejavusanscondensedb.z
+¦   ¦           ¦   ¦   dejavusanscondensedbi.ctg.z
+¦   ¦           ¦   ¦   dejavusanscondensedbi.php
+¦   ¦           ¦   ¦   dejavusanscondensedbi.z
+¦   ¦           ¦   ¦   dejavusanscondensedi.ctg.z
+¦   ¦           ¦   ¦   dejavusanscondensedi.php
+¦   ¦           ¦   ¦   dejavusanscondensedi.z
+¦   ¦           ¦   ¦   dejavusansextralight.ctg.z
+¦   ¦           ¦   ¦   dejavusansextralight.php
+¦   ¦           ¦   ¦   dejavusansextralight.z
+¦   ¦           ¦   ¦   dejavusansi.ctg.z
+¦   ¦           ¦   ¦   dejavusansi.php
+¦   ¦           ¦   ¦   dejavusansi.z
+¦   ¦           ¦   ¦   dejavusansmono.ctg.z
+¦   ¦           ¦   ¦   dejavusansmono.php
+¦   ¦           ¦   ¦   dejavusansmono.z
+¦   ¦           ¦   ¦   dejavusansmonob.ctg.z
+¦   ¦           ¦   ¦   dejavusansmonob.php
+¦   ¦           ¦   ¦   dejavusansmonob.z
+¦   ¦           ¦   ¦   dejavusansmonobi.ctg.z
+¦   ¦           ¦   ¦   dejavusansmonobi.php
+¦   ¦           ¦   ¦   dejavusansmonobi.z
+¦   ¦           ¦   ¦   dejavusansmonoi.ctg.z
+¦   ¦           ¦   ¦   dejavusansmonoi.php
+¦   ¦           ¦   ¦   dejavusansmonoi.z
+¦   ¦           ¦   ¦   dejavuserif.ctg.z
+¦   ¦           ¦   ¦   dejavuserif.php
+¦   ¦           ¦   ¦   dejavuserif.z
+¦   ¦           ¦   ¦   dejavuserifb.ctg.z
+¦   ¦           ¦   ¦   dejavuserifb.php
+¦   ¦           ¦   ¦   dejavuserifb.z
+¦   ¦           ¦   ¦   dejavuserifbi.ctg.z
+¦   ¦           ¦   ¦   dejavuserifbi.php
+¦   ¦           ¦   ¦   dejavuserifbi.z
+¦   ¦           ¦   ¦   dejavuserifcondensed.ctg.z
+¦   ¦           ¦   ¦   dejavuserifcondensed.php
+¦   ¦           ¦   ¦   dejavuserifcondensed.z
+¦   ¦           ¦   ¦   dejavuserifcondensedb.ctg.z
+¦   ¦           ¦   ¦   dejavuserifcondensedb.php
+¦   ¦           ¦   ¦   dejavuserifcondensedb.z
+¦   ¦           ¦   ¦   dejavuserifcondensedbi.ctg.z
+¦   ¦           ¦   ¦   dejavuserifcondensedbi.php
+¦   ¦           ¦   ¦   dejavuserifcondensedbi.z
+¦   ¦           ¦   ¦   dejavuserifcondensedi.ctg.z
+¦   ¦           ¦   ¦   dejavuserifcondensedi.php
+¦   ¦           ¦   ¦   dejavuserifcondensedi.z
+¦   ¦           ¦   ¦   dejavuserifi.ctg.z
+¦   ¦           ¦   ¦   dejavuserifi.php
+¦   ¦           ¦   ¦   dejavuserifi.z
+¦   ¦           ¦   ¦   freemono.ctg.z
+¦   ¦           ¦   ¦   freemono.php
+¦   ¦           ¦   ¦   freemono.z
+¦   ¦           ¦   ¦   freemonob.ctg.z
+¦   ¦           ¦   ¦   freemonob.php
+¦   ¦           ¦   ¦   freemonob.z
+¦   ¦           ¦   ¦   freemonobi.ctg.z
+¦   ¦           ¦   ¦   freemonobi.php
+¦   ¦           ¦   ¦   freemonobi.z
+¦   ¦           ¦   ¦   freemonoi.ctg.z
+¦   ¦           ¦   ¦   freemonoi.php
+¦   ¦           ¦   ¦   freemonoi.z
+¦   ¦           ¦   ¦   freesans.ctg.z
+¦   ¦           ¦   ¦   freesans.php
+¦   ¦           ¦   ¦   freesans.z
+¦   ¦           ¦   ¦   freesansb.ctg.z
+¦   ¦           ¦   ¦   freesansb.php
+¦   ¦           ¦   ¦   freesansb.z
+¦   ¦           ¦   ¦   freesansbi.ctg.z
+¦   ¦           ¦   ¦   freesansbi.php
+¦   ¦           ¦   ¦   freesansbi.z
+¦   ¦           ¦   ¦   freesansi.ctg.z
+¦   ¦           ¦   ¦   freesansi.php
+¦   ¦           ¦   ¦   freesansi.z
+¦   ¦           ¦   ¦   freeserif.ctg.z
+¦   ¦           ¦   ¦   freeserif.php
+¦   ¦           ¦   ¦   freeserif.z
+¦   ¦           ¦   ¦   freeserifb.ctg.z
+¦   ¦           ¦   ¦   freeserifb.php
+¦   ¦           ¦   ¦   freeserifb.z
+¦   ¦           ¦   ¦   freeserifbi.ctg.z
+¦   ¦           ¦   ¦   freeserifbi.php
+¦   ¦           ¦   ¦   freeserifbi.z
+¦   ¦           ¦   ¦   freeserifi.ctg.z
+¦   ¦           ¦   ¦   freeserifi.php
+¦   ¦           ¦   ¦   freeserifi.z
+¦   ¦           ¦   ¦   helvetica.php
+¦   ¦           ¦   ¦   helveticab.php
+¦   ¦           ¦   ¦   helveticabi.php
+¦   ¦           ¦   ¦   helveticai.php
+¦   ¦           ¦   ¦   hysmyeongjostdmedium.php
+¦   ¦           ¦   ¦   kozgopromedium.php
+¦   ¦           ¦   ¦   kozminproregular.php
+¦   ¦           ¦   ¦   msungstdlight.php
+¦   ¦           ¦   ¦   pdfacourier.php
+¦   ¦           ¦   ¦   pdfacourier.z
+¦   ¦           ¦   ¦   pdfacourierb.php
+¦   ¦           ¦   ¦   pdfacourierb.z
+¦   ¦           ¦   ¦   pdfacourierbi.php
+¦   ¦           ¦   ¦   pdfacourierbi.z
+¦   ¦           ¦   ¦   pdfacourieri.php
+¦   ¦           ¦   ¦   pdfacourieri.z
+¦   ¦           ¦   ¦   pdfahelvetica.php
+¦   ¦           ¦   ¦   pdfahelvetica.z
+¦   ¦           ¦   ¦   pdfahelveticab.php
+¦   ¦           ¦   ¦   pdfahelveticab.z
+¦   ¦           ¦   ¦   pdfahelveticabi.php
+¦   ¦           ¦   ¦   pdfahelveticabi.z
+¦   ¦           ¦   ¦   pdfahelveticai.php
+¦   ¦           ¦   ¦   pdfahelveticai.z
+¦   ¦           ¦   ¦   pdfasymbol.php
+¦   ¦           ¦   ¦   pdfasymbol.z
+¦   ¦           ¦   ¦   pdfatimes.php
+¦   ¦           ¦   ¦   pdfatimes.z
+¦   ¦           ¦   ¦   pdfatimesb.php
+¦   ¦           ¦   ¦   pdfatimesb.z
+¦   ¦           ¦   ¦   pdfatimesbi.php
+¦   ¦           ¦   ¦   pdfatimesbi.z
+¦   ¦           ¦   ¦   pdfatimesi.php
+¦   ¦           ¦   ¦   pdfatimesi.z
+¦   ¦           ¦   ¦   pdfazapfdingbats.php
+¦   ¦           ¦   ¦   pdfazapfdingbats.z
+¦   ¦           ¦   ¦   stsongstdlight.php
+¦   ¦           ¦   ¦   symbol.php
+¦   ¦           ¦   ¦   times.php
+¦   ¦           ¦   ¦   timesb.php
+¦   ¦           ¦   ¦   timesbi.php
+¦   ¦           ¦   ¦   timesi.php
+¦   ¦           ¦   ¦   uni2cid_ac15.php
+¦   ¦           ¦   ¦   uni2cid_ag15.php
+¦   ¦           ¦   ¦   uni2cid_aj16.php
+¦   ¦           ¦   ¦   uni2cid_ak12.php
+¦   ¦           ¦   ¦   zapfdingbats.php
+¦   ¦           ¦   ¦   
+¦   ¦           ¦   +---ae_fonts_2.0
+¦   ¦           ¦   ¦       ChangeLog
+¦   ¦           ¦   ¦       ChangeLog.9745.BAK
+¦   ¦           ¦   ¦       COPYING
+¦   ¦           ¦   ¦       README
+¦   ¦           ¦   ¦       
+¦   ¦           ¦   +---dejavu-fonts-ttf-2.33
+¦   ¦           ¦   ¦       AUTHORS
+¦   ¦           ¦   ¦       BUGS
+¦   ¦           ¦   ¦       langcover.txt
+¦   ¦           ¦   ¦       LICENSE
+¦   ¦           ¦   ¦       NEWS
+¦   ¦           ¦   ¦       README
+¦   ¦           ¦   ¦       status.txt
+¦   ¦           ¦   ¦       unicover.txt
+¦   ¦           ¦   ¦       
+¦   ¦           ¦   +---dejavu-fonts-ttf-2.34
+¦   ¦           ¦   ¦       AUTHORS
+¦   ¦           ¦   ¦       BUGS
+¦   ¦           ¦   ¦       langcover.txt
+¦   ¦           ¦   ¦       LICENSE
+¦   ¦           ¦   ¦       NEWS
+¦   ¦           ¦   ¦       README
+¦   ¦           ¦   ¦       status.txt
+¦   ¦           ¦   ¦       unicover.txt
+¦   ¦           ¦   ¦       
+¦   ¦           ¦   +---freefont-20100919
+¦   ¦           ¦   ¦       AUTHORS
+¦   ¦           ¦   ¦       ChangeLog
+¦   ¦           ¦   ¦       COPYING
+¦   ¦           ¦   ¦       CREDITS
+¦   ¦           ¦   ¦       INSTALL
+¦   ¦           ¦   ¦       README
+¦   ¦           ¦   ¦       
+¦   ¦           ¦   +---freefont-20120503
+¦   ¦           ¦           AUTHORS
+¦   ¦           ¦           ChangeLog
+¦   ¦           ¦           ChangeLog.10070.BAK
+¦   ¦           ¦           COPYING
+¦   ¦           ¦           CREDITS
+¦   ¦           ¦           INSTALL
+¦   ¦           ¦           README
+¦   ¦           ¦           TROUBLESHOOTING
+¦   ¦           ¦           USAGE
+¦   ¦           ¦           
+¦   ¦           +---include
+¦   ¦           ¦   ¦   sRGB.icc
+¦   ¦           ¦   ¦   tcpdf_colors.php
+¦   ¦           ¦   ¦   tcpdf_filters.php
+¦   ¦           ¦   ¦   tcpdf_fonts.php
+¦   ¦           ¦   ¦   tcpdf_font_data.php
+¦   ¦           ¦   ¦   tcpdf_images.php
+¦   ¦           ¦   ¦   tcpdf_static.php
+¦   ¦           ¦   ¦   
+¦   ¦           ¦   +---barcodes
+¦   ¦           ¦           datamatrix.php
+¦   ¦           ¦           pdf417.php
+¦   ¦           ¦           qrcode.php
+¦   ¦           ¦           
+¦   ¦           +---tools
+¦   ¦                   (1).htaccess
+¦   ¦                   .htaccess
+¦   ¦                   convert_fonts_examples.txt
+¦   ¦                   tcpdf_addfont.php
+¦   ¦                   
+¦   +---TCPDF
+¦       ¦   CHANGELOG.TXT
+¦       ¦   composer.json
+¦       ¦   LICENSE.TXT
+¦       ¦   README.md
+¦       ¦   tcpdf.php
+¦       ¦   tcpdf_autoconfig.php
+¦       ¦   tcpdf_barcodes_1d.php
+¦       ¦   tcpdf_barcodes_2d.php
+¦       ¦   tcpdf_import.php
+¦       ¦   tcpdf_parser.php
+¦       ¦   VERSION
+¦       ¦   
+¦       +---config
+¦       ¦       tcpdf_config.php
+¦       ¦       
+¦       +---examples
+¦       ¦   ¦   example_001.php
+¦       ¦   ¦   example_002.php
+¦       ¦   ¦   example_003.php
+¦       ¦   ¦   example_004.php
+¦       ¦   ¦   example_005.php
+¦       ¦   ¦   example_006.php
+¦       ¦   ¦   example_007.php
+¦       ¦   ¦   example_008.php
+¦       ¦   ¦   example_009.php
+¦       ¦   ¦   example_010.php
+¦       ¦   ¦   example_011.php
+¦       ¦   ¦   example_012.pdf
+¦       ¦   ¦   example_012.php
+¦       ¦   ¦   example_013.php
+¦       ¦   ¦   example_014.php
+¦       ¦   ¦   example_015.php
+¦       ¦   ¦   example_016.php
+¦       ¦   ¦   example_017.php
+¦       ¦   ¦   example_018.php
+¦       ¦   ¦   example_019.php
+¦       ¦   ¦   example_020.php
+¦       ¦   ¦   example_021.php
+¦       ¦   ¦   example_022.php
+¦       ¦   ¦   example_023.php
+¦       ¦   ¦   example_024.php
+¦       ¦   ¦   example_025.php
+¦       ¦   ¦   example_026.php
+¦       ¦   ¦   example_027.php
+¦       ¦   ¦   example_028.php
+¦       ¦   ¦   example_029.php
+¦       ¦   ¦   example_030.php
+¦       ¦   ¦   example_031.php
+¦       ¦   ¦   example_032.php
+¦       ¦   ¦   example_033.php
+¦       ¦   ¦   example_034.php
+¦       ¦   ¦   example_035.php
+¦       ¦   ¦   example_036.php
+¦       ¦   ¦   example_037.php
+¦       ¦   ¦   example_038.php
+¦       ¦   ¦   example_039.php
+¦       ¦   ¦   example_040.php
+¦       ¦   ¦   example_041.php
+¦       ¦   ¦   example_042.php
+¦       ¦   ¦   example_043.php
+¦       ¦   ¦   example_044.php
+¦       ¦   ¦   example_045.php
+¦       ¦   ¦   example_046.php
+¦       ¦   ¦   example_047.php
+¦       ¦   ¦   example_048.php
+¦       ¦   ¦   example_049.php
+¦       ¦   ¦   example_050.php
+¦       ¦   ¦   example_051.php
+¦       ¦   ¦   example_052.php
+¦       ¦   ¦   example_053.php
+¦       ¦   ¦   example_054.php
+¦       ¦   ¦   example_055.php
+¦       ¦   ¦   example_056.php
+¦       ¦   ¦   example_057.php
+¦       ¦   ¦   example_058.php
+¦       ¦   ¦   example_059.php
+¦       ¦   ¦   example_060.php
+¦       ¦   ¦   example_061.php
+¦       ¦   ¦   example_062.php
+¦       ¦   ¦   example_063.php
+¦       ¦   ¦   example_064.php
+¦       ¦   ¦   example_065.php
+¦       ¦   ¦   example_066.php
+¦       ¦   ¦   example_067.php
+¦       ¦   ¦   index.php
+¦       ¦   ¦   tcpdf_include.php
+¦       ¦   ¦   
+¦       ¦   +---barcodes
+¦       ¦   ¦       example_1d_html.php
+¦       ¦   ¦       example_1d_png.php
+¦       ¦   ¦       example_1d_svg.php
+¦       ¦   ¦       example_1d_svgi.php
+¦       ¦   ¦       example_2d_datamatrix_html.php
+¦       ¦   ¦       example_2d_datamatrix_png.php
+¦       ¦   ¦       example_2d_datamatrix_svg.php
+¦       ¦   ¦       example_2d_datamatrix_svgi.php
+¦       ¦   ¦       example_2d_pdf417_html.php
+¦       ¦   ¦       example_2d_pdf417_png.php
+¦       ¦   ¦       example_2d_pdf417_svg.php
+¦       ¦   ¦       example_2d_pdf417_svgi.php
+¦       ¦   ¦       example_2d_qrcode_html.php
+¦       ¦   ¦       example_2d_qrcode_png.php
+¦       ¦   ¦       example_2d_qrcode_svg.php
+¦       ¦   ¦       example_2d_qrcode_svgi.php
+¦       ¦   ¦       tcpdf_barcodes_1d_include.php
+¦       ¦   ¦       tcpdf_barcodes_2d_include.php
+¦       ¦   ¦       
+¦       ¦   +---config
+¦       ¦   ¦       tcpdf_config_alt.php
+¦       ¦   ¦       
+¦       ¦   +---data
+¦       ¦   ¦   ¦   chapter_demo_1.txt
+¦       ¦   ¦   ¦   chapter_demo_2.txt
+¦       ¦   ¦   ¦   table_data_demo.txt
+¦       ¦   ¦   ¦   utf8test.txt
+¦       ¦   ¦   ¦   
+¦       ¦   ¦   +---cert
+¦       ¦   ¦           tcpdf(1).crt
+¦       ¦   ¦           tcpdf(1).fdf
+¦       ¦   ¦           tcpdf(1).p12
+¦       ¦   ¦           tcpdf.crt
+¦       ¦   ¦           tcpdf.fdf
+¦       ¦   ¦           tcpdf.p12
+¦       ¦   ¦           
+¦       ¦   +---images
+¦       ¦   ¦       alpha.png
+¦       ¦   ¦       image_demo.jpg
+¦       ¦   ¦       image_with_alpha.png
+¦       ¦   ¦       img.png
+¦       ¦   ¦       logo_example.gif
+¦       ¦   ¦       logo_example.jpg
+¦       ¦   ¦       logo_example.png
+¦       ¦   ¦       tcpdf_box.ai
+¦       ¦   ¦       tcpdf_box.svg
+¦       ¦   ¦       tcpdf_cell.png
+¦       ¦   ¦       tcpdf_logo.jpg
+¦       ¦   ¦       tcpdf_signature.png
+¦       ¦   ¦       testsvg.svg
+¦       ¦   ¦       tux.svg
+¦       ¦   ¦       _blank.png
+¦       ¦   ¦       
+¦       ¦   +---lang
+¦       ¦           afr.php
+¦       ¦           ara.php
+¦       ¦           aze.php
+¦       ¦           bel.php
+¦       ¦           bra.php
+¦       ¦           bul.php
+¦       ¦           cat.php
+¦       ¦           ces.php
+¦       ¦           chi.php
+¦       ¦           cym.php
+¦       ¦           dan.php
+¦       ¦           eng.php
+¦       ¦           est.php
+¦       ¦           eus.php
+¦       ¦           far.php
+¦       ¦           fra.php
+¦       ¦           ger.php
+¦       ¦           gle.php
+¦       ¦           glg.php
+¦       ¦           hat.php
+¦       ¦           heb.php
+¦       ¦           hrv.php
+¦       ¦           hun.php
+¦       ¦           hye.php
+¦       ¦           ind.php
+¦       ¦           ita.php
+¦       ¦           jpn.php
+¦       ¦           kat.php
+¦       ¦           kor.php
+¦       ¦           mkd.php
+¦       ¦           mlt.php
+¦       ¦           msa.php
+¦       ¦           nld.php
+¦       ¦           nob.php
+¦       ¦           pol.php
+¦       ¦           por.php
+¦       ¦           ron.php
+¦       ¦           rus.php
+¦       ¦           slv.php
+¦       ¦           spa.php
+¦       ¦           sqi.php
+¦       ¦           srp.php
+¦       ¦           swa.php
+¦       ¦           swe.php
+¦       ¦           ukr.php
+¦       ¦           urd.php
+¦       ¦           yid.php
+¦       ¦           zho.php
+¦       ¦           
+¦       +---fonts
+¦       ¦   ¦   aealarabiya.ctg.z
+¦       ¦   ¦   aealarabiya.php
+¦       ¦   ¦   aealarabiya.z
+¦       ¦   ¦   aefurat.ctg.z
+¦       ¦   ¦   aefurat.php
+¦       ¦   ¦   aefurat.z
+¦       ¦   ¦   cid0cs.php
+¦       ¦   ¦   cid0ct.php
+¦       ¦   ¦   cid0jp.php
+¦       ¦   ¦   cid0kr.php
+¦       ¦   ¦   courier.php
+¦       ¦   ¦   courierb.php
+¦       ¦   ¦   courierbi.php
+¦       ¦   ¦   courieri.php
+¦       ¦   ¦   dejavusans.ctg.z
+¦       ¦   ¦   dejavusans.php
+¦       ¦   ¦   dejavusans.z
+¦       ¦   ¦   dejavusansb.ctg.z
+¦       ¦   ¦   dejavusansb.php
+¦       ¦   ¦   dejavusansb.z
+¦       ¦   ¦   dejavusansbi.ctg.z
+¦       ¦   ¦   dejavusansbi.php
+¦       ¦   ¦   dejavusansbi.z
+¦       ¦   ¦   dejavusanscondensed.ctg.z
+¦       ¦   ¦   dejavusanscondensed.php
+¦       ¦   ¦   dejavusanscondensed.z
+¦       ¦   ¦   dejavusanscondensedb.ctg.z
+¦       ¦   ¦   dejavusanscondensedb.php
+¦       ¦   ¦   dejavusanscondensedb.z
+¦       ¦   ¦   dejavusanscondensedbi.ctg.z
+¦       ¦   ¦   dejavusanscondensedbi.php
+¦       ¦   ¦   dejavusanscondensedbi.z
+¦       ¦   ¦   dejavusanscondensedi.ctg.z
+¦       ¦   ¦   dejavusanscondensedi.php
+¦       ¦   ¦   dejavusanscondensedi.z
+¦       ¦   ¦   dejavusansextralight.ctg.z
+¦       ¦   ¦   dejavusansextralight.php
+¦       ¦   ¦   dejavusansextralight.z
+¦       ¦   ¦   dejavusansi.ctg.z
+¦       ¦   ¦   dejavusansi.php
+¦       ¦   ¦   dejavusansi.z
+¦       ¦   ¦   dejavusansmono.ctg.z
+¦       ¦   ¦   dejavusansmono.php
+¦       ¦   ¦   dejavusansmono.z
+¦       ¦   ¦   dejavusansmonob.ctg.z
+¦       ¦   ¦   dejavusansmonob.php
+¦       ¦   ¦   dejavusansmonob.z
+¦       ¦   ¦   dejavusansmonobi.ctg.z
+¦       ¦   ¦   dejavusansmonobi.php
+¦       ¦   ¦   dejavusansmonobi.z
+¦       ¦   ¦   dejavusansmonoi.ctg.z
+¦       ¦   ¦   dejavusansmonoi.php
+¦       ¦   ¦   dejavusansmonoi.z
+¦       ¦   ¦   dejavuserif.ctg.z
+¦       ¦   ¦   dejavuserif.php
+¦       ¦   ¦   dejavuserif.z
+¦       ¦   ¦   dejavuserifb.ctg.z
+¦       ¦   ¦   dejavuserifb.php
+¦       ¦   ¦   dejavuserifb.z
+¦       ¦   ¦   dejavuserifbi.ctg.z
+¦       ¦   ¦   dejavuserifbi.php
+¦       ¦   ¦   dejavuserifbi.z
+¦       ¦   ¦   dejavuserifcondensed.ctg.z
+¦       ¦   ¦   dejavuserifcondensed.php
+¦       ¦   ¦   dejavuserifcondensed.z
+¦       ¦   ¦   dejavuserifcondensedb.ctg.z
+¦       ¦   ¦   dejavuserifcondensedb.php
+¦       ¦   ¦   dejavuserifcondensedb.z
+¦       ¦   ¦   dejavuserifcondensedbi.ctg.z
+¦       ¦   ¦   dejavuserifcondensedbi.php
+¦       ¦   ¦   dejavuserifcondensedbi.z
+¦       ¦   ¦   dejavuserifcondensedi.ctg.z
+¦       ¦   ¦   dejavuserifcondensedi.php
+¦       ¦   ¦   dejavuserifcondensedi.z
+¦       ¦   ¦   dejavuserifi.ctg.z
+¦       ¦   ¦   dejavuserifi.php
+¦       ¦   ¦   dejavuserifi.z
+¦       ¦   ¦   freemono.ctg.z
+¦       ¦   ¦   freemono.php
+¦       ¦   ¦   freemono.z
+¦       ¦   ¦   freemonob.ctg.z
+¦       ¦   ¦   freemonob.php
+¦       ¦   ¦   freemonob.z
+¦       ¦   ¦   freemonobi.ctg.z
+¦       ¦   ¦   freemonobi.php
+¦       ¦   ¦   freemonobi.z
+¦       ¦   ¦   freemonoi.ctg.z
+¦       ¦   ¦   freemonoi.php
+¦       ¦   ¦   freemonoi.z
+¦       ¦   ¦   freesans.ctg.z
+¦       ¦   ¦   freesans.php
+¦       ¦   ¦   freesans.z
+¦       ¦   ¦   freesansb.ctg.z
+¦       ¦   ¦   freesansb.php
+¦       ¦   ¦   freesansb.z
+¦       ¦   ¦   freesansbi.ctg.z
+¦       ¦   ¦   freesansbi.php
+¦       ¦   ¦   freesansbi.z
+¦       ¦   ¦   freesansi.ctg.z
+¦       ¦   ¦   freesansi.php
+¦       ¦   ¦   freesansi.z
+¦       ¦   ¦   freeserif.ctg.z
+¦       ¦   ¦   freeserif.php
+¦       ¦   ¦   freeserif.z
+¦       ¦   ¦   freeserifb.ctg.z
+¦       ¦   ¦   freeserifb.php
+¦       ¦   ¦   freeserifb.z
+¦       ¦   ¦   freeserifbi.ctg.z
+¦       ¦   ¦   freeserifbi.php
+¦       ¦   ¦   freeserifbi.z
+¦       ¦   ¦   freeserifi.ctg.z
+¦       ¦   ¦   freeserifi.php
+¦       ¦   ¦   freeserifi.z
+¦       ¦   ¦   helvetica.php
+¦       ¦   ¦   helveticab.php
+¦       ¦   ¦   helveticabi.php
+¦       ¦   ¦   helveticai.php
+¦       ¦   ¦   hysmyeongjostdmedium.php
+¦       ¦   ¦   kozgopromedium.php
+¦       ¦   ¦   kozminproregular.php
+¦       ¦   ¦   msungstdlight.php
+¦       ¦   ¦   pdfacourier.php
+¦       ¦   ¦   pdfacourier.z
+¦       ¦   ¦   pdfacourierb.php
+¦       ¦   ¦   pdfacourierb.z
+¦       ¦   ¦   pdfacourierbi.php
+¦       ¦   ¦   pdfacourierbi.z
+¦       ¦   ¦   pdfacourieri.php
+¦       ¦   ¦   pdfacourieri.z
+¦       ¦   ¦   pdfahelvetica.php
+¦       ¦   ¦   pdfahelvetica.z
+¦       ¦   ¦   pdfahelveticab.php
+¦       ¦   ¦   pdfahelveticab.z
+¦       ¦   ¦   pdfahelveticabi.php
+¦       ¦   ¦   pdfahelveticabi.z
+¦       ¦   ¦   pdfahelveticai.php
+¦       ¦   ¦   pdfahelveticai.z
+¦       ¦   ¦   pdfasymbol.php
+¦       ¦   ¦   pdfasymbol.z
+¦       ¦   ¦   pdfatimes.php
+¦       ¦   ¦   pdfatimes.z
+¦       ¦   ¦   pdfatimesb.php
+¦       ¦   ¦   pdfatimesb.z
+¦       ¦   ¦   pdfatimesbi.php
+¦       ¦   ¦   pdfatimesbi.z
+¦       ¦   ¦   pdfatimesi.php
+¦       ¦   ¦   pdfatimesi.z
+¦       ¦   ¦   pdfazapfdingbats.php
+¦       ¦   ¦   pdfazapfdingbats.z
+¦       ¦   ¦   stsongstdlight.php
+¦       ¦   ¦   symbol.php
+¦       ¦   ¦   times.php
+¦       ¦   ¦   timesb.php
+¦       ¦   ¦   timesbi.php
+¦       ¦   ¦   timesi.php
+¦       ¦   ¦   uni2cid_ac15.php
+¦       ¦   ¦   uni2cid_ag15.php
+¦       ¦   ¦   uni2cid_aj16.php
+¦       ¦   ¦   uni2cid_ak12.php
+¦       ¦   ¦   zapfdingbats.php
+¦       ¦   ¦   
+¦       ¦   +---ae_fonts_2.0
+¦       ¦   ¦       ChangeLog
+¦       ¦   ¦       COPYING
+¦       ¦   ¦       README
+¦       ¦   ¦       
+¦       ¦   +---dejavu-fonts-ttf-2.33
+¦       ¦   ¦       AUTHORS
+¦       ¦   ¦       BUGS
+¦       ¦   ¦       langcover.txt
+¦       ¦   ¦       LICENSE
+¦       ¦   ¦       NEWS
+¦       ¦   ¦       README
+¦       ¦   ¦       unicover.txt
+¦       ¦   ¦       
+¦       ¦   +---dejavu-fonts-ttf-2.34
+¦       ¦   ¦       AUTHORS
+¦       ¦   ¦       BUGS
+¦       ¦   ¦       langcover.txt
+¦       ¦   ¦       LICENSE
+¦       ¦   ¦       NEWS
+¦       ¦   ¦       README
+¦       ¦   ¦       unicover.txt
+¦       ¦   ¦       
+¦       ¦   +---freefont-20100919
+¦       ¦   ¦       AUTHORS
+¦       ¦   ¦       ChangeLog
+¦       ¦   ¦       COPYING
+¦       ¦   ¦       CREDITS
+¦       ¦   ¦       INSTALL
+¦       ¦   ¦       README
+¦       ¦   ¦       
+¦       ¦   +---freefont-20120503
+¦       ¦           AUTHORS
+¦       ¦           ChangeLog
+¦       ¦           COPYING
+¦       ¦           CREDITS
+¦       ¦           INSTALL
+¦       ¦           README
+¦       ¦           TROUBLESHOOTING
+¦       ¦           USAGE
+¦       ¦           
+¦       +---include
+¦       ¦   ¦   sRGB.icc
+¦       ¦   ¦   tcpdf_colors.php
+¦       ¦   ¦   tcpdf_filters.php
+¦       ¦   ¦   tcpdf_fonts.php
+¦       ¦   ¦   tcpdf_font_data.php
+¦       ¦   ¦   tcpdf_images.php
+¦       ¦   ¦   tcpdf_static.php
+¦       ¦   ¦   
+¦       ¦   +---barcodes
+¦       ¦           datamatrix.php
+¦       ¦           pdf417.php
+¦       ¦           qrcode.php
+¦       ¦           
+¦       +---tools
+¦               .htaccess
+¦               convert_fonts_examples.txt
+¦               tcpdf_addfont.php
+¦               
++---stylesheet
+¦       sidebar.css
+¦       
++---Uploaded Documents
+    +---Criteria - 1
+    ¦       1698580480_653e4800d28c3.pdf
+    ¦       1698580480_653e4800d28c7.pdf
+    ¦       1698580480_653e4800d28c9.pdf
+    ¦       1698580480_653e4800d28cb.pdf
+    ¦       1698590388_653e6eb4ebd02.pdf
+    ¦       1698590388_653e6eb4ebd10.pdf
+    ¦       1698590388_653e6eb4ebd16.pdf
+    ¦       1698590388_653e6eb4ebd1c.pdf
+    ¦       1698590547_653e6f5314d81.pdf
+    ¦       1698590547_653e6f5314d8f.pdf
+    ¦       1698590547_653e6f5314d97.pdf
+    ¦       1698590547_653e6f5314d9e.pdf
+    ¦       1698590758_653e7026abc85.pdf
+    ¦       1698590758_653e7026abc92.pdf
+    ¦       1698590758_653e7026abc98.pdf
+    ¦       1698590758_653e7026abc9e.pdf
+    ¦       1698590917_653e70c5a3a41.pdf
+    ¦       1698590917_653e70c5a3a49.pdf
+    ¦       1698590917_653e70c5a3a4d.pdf
+    ¦       1698590917_653e70c5a3a51.pdf
+    ¦       1698591159_653e71b788f5b.pdf
+    ¦       1698591159_653e71b788f67.pdf
+    ¦       1698591159_653e71b788f6d.pdf
+    ¦       1698591159_653e71b788f73.pdf
+    ¦       1698596047_653e84cfd5498.pdf
+    ¦       1698596047_653e84cfd549e.pdf
+    ¦       1698596047_653e84cfd54a0.pdf
+    ¦       1698596047_653e84cfd54a1.pdf
+    ¦       1698596250_653e859a96cf4.pdf
+    ¦       1698596250_653e859a96cfa.pdf
+    ¦       1698596250_653e859a96cfc.pdf
+    ¦       1698596250_653e859a96cfe.pdf
+    ¦       1701191689_65662009309a3.pdf
+    ¦       1701191689_65662009309b0.pdf
+    ¦       1701191689_65662009309b6.pdf
+    ¦       1701191689_65662009309bc.pdf
+    ¦       1701268758_65674d16ee1a9.pdf
+    ¦       1701268758_65674d16ee1bd.pdf
+    ¦       1701270359_65675357d9391.pdf
+    ¦       1701270359_65675357d939b.pdf
+    ¦       1701355178_65689eaacc8ac.pdf
+    ¦       1701355178_65689eaacc8b2.pdf
+    ¦       1701357964_6568a98cad25a.pdf
+    ¦       1701357964_6568a98cad262.pdf
+    ¦       1704262396_6594fafcee1e2.pdf
+    ¦       1704262415_6594fb0faf30b.pdf
+    ¦       1704267561_65950f296efef.pdf
+    ¦       1704274791_65952b67e2e24.pdf
+    ¦       1704277576_65953648b8372.pdf
+    ¦       1704277616_659536702387f.pdf
+    ¦       1704277655_6595369791548.pdf
+    ¦       1704278062_6595382eb9ce5.pdf
+    ¦       1704295465_65957c2917a6e.pdf
+    ¦       1704296855_6595819754227.pdf
+    ¦       1704299251_65958af33273c.pdf
+    ¦       1704299312_65958b30a6a11.pdf
+    ¦       1704299413_65958b95af756.pdf
+    ¦       1704299469_65958bcd89614.pdf
+    ¦       1704434809_65979c79e83d4.pdf
+    ¦       1704436916_6597a4b4e4f6b.pdf
+    ¦       1704437070_6597a54e4f7d9.pdf
+    ¦       1704447101_6597cc7d5e8b9.pdf
+    ¦       1704448079_6597d04fb0c1e.pdf
+    ¦       1704448151_6597d097adf67.pdf
+    ¦       1704452351_6597e0ffc6725.pdf
+    ¦       1704452361_6597e1090f0ba.pdf
+    ¦       1704458953_6597fac98e5a4.pdf
+    ¦       1704458975_6597fadfc6af3.pdf
+    ¦       1704460651_6598016be1940.pdf
+    ¦       1704461027_659802e3a3d7d.pdf
+    ¦       1704461827_659806031ae4a.pdf
+    ¦       1704462773_659809b5eaae5.pdf
+    ¦       1704466531_659818638e7f5.pdf
+    ¦       1704467379_65981bb3f3c59.pdf
+    ¦       1704469059_65982243e8bfb.pdf
+    ¦       
+    +---Criteria - 2
+    ¦       1703427854_65883f0e2d201.pdf
+    ¦       1703428661_65884235218d9.pdf
+    ¦       1703507265_65897541c1a83.pdf
+    ¦       1703508250_6589791a53224.pdf
+    ¦       1703509116_65897c7c93da0.pdf
+    ¦       1708329468_65d309fc7b7fb.pdf
+    ¦       1708330722_65d30ee2e5aa1.pdf
+    ¦       1708619933_65d7789d35a3f.pdf
+    ¦       1708665576_65d82ae872f52.pdf
+    ¦       1708665787_65d82bbbf0d8f.pdf
+    ¦       1708703821_65d8c04d742f4.pdf
+    ¦       1708703821_65d8c04d742fa.pdf
+    ¦       1708704295_65d8c2271c693.pdf
+    ¦       1708704295_65d8c2271c699.pdf
+    ¦       1708784855_65d9fcd7689a6.pdf
+    ¦       1708784855_65d9fcd7689db.pdf
+    ¦       1708785360_65d9fed06ef20.pdf
+    ¦       1708785360_65d9fed06ef26.pdf
+    ¦       1708791431_65da16876a2ee.pdf
+    ¦       1708793397_65da1e35b9ab7.pdf
+    ¦       1708794539_65da22ab6a6d2.pdf
+    ¦       1708795092_65da24d4e15ed.pdf
+    ¦       1708878560_65db6ae0b4b61.pdf
+    ¦       1708878635_65db6b2b99139.pdf
+    ¦       1708888312_65db90f824a09.pdf
+    ¦       1708888666_65db925a5ace7.pdf
+    ¦       1708959007_65dca51f28fa8.pdf
+    ¦       1708963530_65dcb6ca1f35c.pdf
+    ¦       1709046435_65ddfaa3418e5.pdf
+    ¦       1709046725_65ddfbc5b50b2.pdf
+    ¦       1709050549_65de0ab576018.pdf
+    ¦       1709050549_65de0ab5761ef.pdf
+    ¦       1709050654_65de0b1e05224.pdf
+    ¦       1709050705_65de0b51b6199.pdf
+    ¦       1709050705_65de0b51b61a0.pdf
+    ¦       1709096966_65dec0062cbd7.pdf
+    ¦       1709097036_65dec04c52079.pdf
+    ¦       1709097747_65dec313caa8e.pdf
+    ¦       1709098834_65dec7526d1cd.pdf
+    ¦       1709099191_65dec8b7a97ba.pdf
+    ¦       1717336209_665c7891c4ced.pdf
+    ¦       1717826313_6663f30993a59.pdf
+    ¦       
+    +---Criteria - 3
+    ¦       1717068772_665863e486c00.pdf
+    ¦       1717077007_6658840fa12e5.pdf
+    ¦       1717155356_6659b61c4df1f.pdf
+    ¦       1717156765_6659bb9db5312.pdf
+    ¦       1717156835_6659bbe3a0205.pdf
+    ¦       1717159009_6659c46168a0b.pdf
+    ¦       1717161181_6659ccdde1bb8.pdf
+    ¦       1717162004_6659d01418f49.pdf
+    ¦       1717162351_6659d16f3d463.pdf
+    ¦       1717164143_6659d86fa059f.pdf
+    ¦       1717164375_6659d957ec9ee.pdf
+    ¦       1717225733_665ac9053d423.pdf
+    ¦       1717226313_665acb490625d.pdf
+    ¦       1717245326_665b158e25b5d.pdf
+    ¦       1717343627_665c958b1381b.pdf
+    ¦       1717832080_66640990ba868.pdf
+    ¦       1717832839_66640c87bf9db.pdf
+    ¦       
+    +---Criteria - 4
+    ¦       1710058830_65ed6d4e76043.pdf
+    ¦       1710059435_65ed6fab2dc13.pdf
+    ¦       1710063480_65ed7f78d5797.pdf
+    ¦       1710063821_65ed80cd8c078.pdf
+    ¦       1710147002_65eec5ba56fac.pdf
+    ¦       1710147048_65eec5e85bed9.pdf
+    ¦       1710147332_65eec7045f005.pdf
+    ¦       1710147474_65eec792ac1be.pdf
+    ¦       1710155299_65eee62363c92.pdf
+    ¦       1710159938_65eef84275b6b.pdf
+    ¦       1710162307_65ef0183ed5e3.pdf
+    ¦       1710162638_65ef02ce42c80.pdf
+    ¦       1710171064_65ef23b8828cc.pdf
+    ¦       1710171895_65ef26f757bfe.pdf
+    ¦       1710353770_65f1ed6a4ca49.pdf
+    ¦       1710354127_65f1eecfa78a2.pdf
+    ¦       1710383833_65f262d9e229f.pdf
+    ¦       1710397993_65f29a29afc84.pdf
+    ¦       1710398473_65f29c0959570.pdf
+    ¦       1710405436_65f2b73c4a0ad.pdf
+    ¦       1710411797_65f2d015b5d87.pdf
+    ¦       1710412435_65f2d29399804.pdf
+    ¦       1710413057_65f2d50126838.pdf
+    ¦       1710416883_65f2e3f3c6e4f.pdf
+    ¦       1710419205_65f2ed0535026.pdf
+    ¦       
+    +---Criteria - 5
+    ¦       1720493100_668ca42c6e1f6.pdf
+    ¦       
+    +---Criteria - 6
+            1711729380_6606eae49d5eb.pdf
+            1711730222_6606ee2e4c72e.pdf
+            1711730583_6606ef970feaf.pdf
+            1711731284_6606f254b9585.pdf
+            1711731333_6606f2853512f.pdf
+            1711792018_6607df923420b.pdf
+            1711867424_6609062050244.pdf
+            1711867690_6609072a6e03b.pdf
+            1712991120_661a2b909778e.pdf
+            1712992121_661a2f7934080.pdf
+            1713015331_661a8a233afa5.pdf
+            1713016620_661a8f2c1c19b.pdf
+            1716122450_6649f3523a381.pdf
+            
